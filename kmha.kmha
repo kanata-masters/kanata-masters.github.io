@@ -120,4 +120,8 @@
   <games gameNumber="13" date="2017-03-24T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T2" iceType="PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="Stittsville Main Arena" home="T3" away="T5" iceType="PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="Jack Charron" home="T1" away="T4" iceType="PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="16" date="2017-03-31T17:00:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" iceOwner="kmha" note="5th versus 6th"/>
+  <games gameNumber="17" date="2017-03-31T17:30:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" iceOwner="kmha" note="3rd versus 4th"/>
+  <games gameNumber="18" date="2017-03-31T18:00:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" iceOwner="kmha" note="1st versus 2nd"/>
+  <games gameNumber="19" date="2017-03-31T19:00:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" iceOwner="kmha" note="Overtime"/>
 </com.ahunter.kmha:Midget>
