@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="ASCII"?>
 <com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Kanata Masters">
-  <players playerName="Jamie Duckett" team="T3" jerseyNumber="31"/>
-  <players playerName="Calvin Smith" team="T3" jerseyNumber="60"/>
-  <players playerName="Chris Evelyn" team="T3" jerseyNumber="61"/>
-  <players playerName="Chuck Stevenson" team="T3" jerseyNumber="62"/>
-  <players playerName="Guy Bourbonniere" team="T3" jerseyNumber="63"/>
-  <players playerName="Larry Tapp" team="T3" jerseyNumber="65"/>
-  <players playerName="Mark Smith" team="T3" jerseyNumber="66"/>
-  <players playerName="Pat Aubrey" team="T3" jerseyNumber="67"/>
-  <players playerName="Pierre Bertrand" team="T3" jerseyNumber="68"/>
-  <players playerName="Rob Zellerer" team="T3" jerseyNumber="69"/>
-  <players playerName="Robert Colson" team="T3" jerseyNumber="70"/>
-  <players playerName="Scott Bulbrook" team="T3" jerseyNumber="71"/>
-  <players playerName="Steve Lamarche" team="T3" jerseyNumber="72"/>
-  <players playerName="Steve Williams" team="T3" jerseyNumber="73"/>
-  <players playerName="Alan Palmer" team="T2" jerseyNumber="60"/>
-  <players playerName="Bruce Williams" team="T2" jerseyNumber="61"/>
-  <players playerName="Darrell Smorhay" team="T2" jerseyNumber="62"/>
-  <players playerName="Dave Wimble" team="T2" jerseyNumber="63"/>
-  <players playerName="Doug Guy" team="T2" jerseyNumber="64"/>
-  <players playerName="John McMaster" team="T2" jerseyNumber="65"/>
-  <players playerName="Kevin Caputo" team="T2" jerseyNumber="1"/>
-  <players playerName="Larry Johnson" team="T2" jerseyNumber="67"/>
-  <players playerName="Marc Switalski" team="T2" jerseyNumber="68"/>
-  <players playerName="Mike Vandenburg" team="T2" jerseyNumber="69"/>
-  <players playerName="Robeert Fitts" team="T2" jerseyNumber="70"/>
+  <players playerName="Jamie Duckett" team="T3" position="GOALTENDER" jerseyNumber="31"/>
+  <players playerName="Calvin Smith" team="T3" jerseyNumber="6"/>
+  <players playerName="Chris Evelyn" team="T3" jerseyNumber="11"/>
+  <players playerName="Chuck Stevenson" team="T3" jerseyNumber="12"/>
+  <players playerName="Guy Bourbonniere" team="T3" jerseyNumber="3"/>
+  <players playerName="Larry Tapp" team="T3" jerseyNumber="13"/>
+  <players playerName="Mark Smith" team="T3" jerseyNumber="4"/>
+  <players playerName="Pat Aubrey" team="T3" jerseyNumber="9"/>
+  <players playerName="Pierre Bertrand" team="T3" jerseyNumber="7"/>
+  <players playerName="Rob Zellerer" team="T3" jerseyNumber="14"/>
+  <players playerName="Robert Colson" team="T3" jerseyNumber="5"/>
+  <players playerName="Scott Bulbrook" team="T3" jerseyNumber="2"/>
+  <players playerName="Steve Lamarche" team="T3" jerseyNumber="8"/>
+  <players playerName="Steve Williams" team="T3" jerseyNumber="15"/>
+  <players playerName="Alan Palmer" team="T2" jerseyNumber="5"/>
+  <players playerName="Bruce Williams" team="T2" jerseyNumber="27"/>
+  <players playerName="Darrell Smorhay" team="T2" jerseyNumber="6"/>
+  <players playerName="Dave Wimble" team="T2" jerseyNumber="10"/>
+  <players playerName="Doug Guy" team="T2" jerseyNumber="77"/>
+  <players playerName="John McMaster" team="T2" jerseyNumber="4"/>
+  <players playerName="Kevin Caputo" team="T2" position="GOALTENDER" jerseyNumber="1"/>
+  <players playerName="Larry Johnson" team="T2" jerseyNumber="88"/>
+  <players playerName="Marc Switalski" team="T2" jerseyNumber="16"/>
+  <players playerName="Mike Vandenburg" team="T2" jerseyNumber="7"/>
+  <players playerName="Robeert Fitts" team="T2" jerseyNumber="12"/>
   <players playerName="Rocco Disipio" team="T2" jerseyNumber="71"/>
-  <players playerName="Tom Brewer" team="T2" jerseyNumber="72"/>
-  <players playerName="Tony Mather" team="T2" jerseyNumber="73"/>
+  <players playerName="Tom Brewer" team="T2" jerseyNumber="8"/>
+  <players playerName="Tony Mather" team="T2" jerseyNumber="55"/>
   <players playerName="Al Bergeron" team="T1" jerseyNumber="1"/>
   <players playerName="Alain Langlois" team="T1" jerseyNumber="60"/>
   <players playerName="Anthony Hunter" team="T1" jerseyNumber="62"/>
@@ -42,34 +42,34 @@
   <players playerName="Kirk Shaw" team="T1" jerseyNumber="71"/>
   <players playerName="Klaus Holzhuter" team="T1" jerseyNumber="72"/>
   <players playerName="Mo Miller" team="T1" jerseyNumber="73"/>
-  <players playerName="Dave Myers" team="T4" jerseyNumber="60"/>
-  <players playerName="Don O'Neill" team="T4" jerseyNumber="61"/>
-  <players playerName="George Tarrano" team="T4" jerseyNumber="62"/>
-  <players playerName="Gerry Frappier" team="T4" jerseyNumber="63"/>
-  <players playerName="Glen Vandermolen" team="T4" jerseyNumber="64"/>
-  <players playerName="Jamie Stairs" team="T4" jerseyNumber="65"/>
-  <players playerName="John Kerr" team="T4" jerseyNumber="66"/>
-  <players playerName="Lorne Clark" team="T4" jerseyNumber="67"/>
-  <players playerName="Mark Mesec" team="T4" jerseyNumber="68"/>
-  <players playerName="Mark Kilpatrick" team="T4" jerseyNumber="69"/>
-  <players playerName="Mike Shurtcliffe" team="T4" jerseyNumber="70"/>
-  <players playerName="Oscar Giroux" team="T4" jerseyNumber="71"/>
-  <players playerName="Paul Goulet" team="T4" jerseyNumber="72"/>
-  <players playerName="Simon Forknall" team="T4" jerseyNumber="73"/>
-  <players playerName="Alan King" team="T5" jerseyNumber="60"/>
-  <players playerName="Bob Tompkins" team="T5" jerseyNumber="61"/>
-  <players playerName="Brent Bradley" team="T5" jerseyNumber="62"/>
-  <players playerName="Brian McMahon" team="T5" jerseyNumber="63"/>
-  <players playerName="Cam Creech" team="T5" jerseyNumber="64"/>
-  <players playerName="Cameron Palmer" team="T5" jerseyNumber="65"/>
-  <players playerName="Dan Cottenden" team="T5" jerseyNumber="66"/>
-  <players playerName="Darryl Burwash" team="T5" jerseyNumber="67"/>
-  <players playerName="Dave Hay" team="T5" jerseyNumber="68"/>
-  <players playerName="Jim Hay" team="T5" jerseyNumber="1"/>
-  <players playerName="Mike Craymer" team="T5" jerseyNumber="70"/>
-  <players playerName="Rick Batty" team="T5" jerseyNumber="71"/>
-  <players playerName="Rob Mallory" team="T5" jerseyNumber="72"/>
-  <players playerName="Steve Hodgdon" team="T5" jerseyNumber="73"/>
+  <players playerName="Dave Myers" team="T4" jerseyNumber="15"/>
+  <players playerName="Don O'Neill" team="T4" jerseyNumber="2"/>
+  <players playerName="George Tarrano" team="T4" jerseyNumber="16"/>
+  <players playerName="Gerry Frappier" team="T4" jerseyNumber="3"/>
+  <players playerName="Glen Vandermolen" team="T4" jerseyNumber="11"/>
+  <players playerName="Jamie Stairs" team="T4" jerseyNumber="14"/>
+  <players playerName="John Kerr" team="T4" jerseyNumber="6"/>
+  <players playerName="Lorne Clark" team="T4" jerseyNumber="5"/>
+  <players playerName="Mark Mesec" team="T4" jerseyNumber="7"/>
+  <players playerName="Mark Kilpatrick" team="T4" jerseyNumber="10"/>
+  <players playerName="Mike Shurtcliffe" team="T4" jerseyNumber="12"/>
+  <players playerName="Oscar Giroux" team="T4" position="GOALTENDER" jerseyNumber="1"/>
+  <players playerName="Paul Goulet" team="T4" jerseyNumber="19"/>
+  <players playerName="Simon Forknall" team="T4" jerseyNumber="8"/>
+  <players playerName="Alan King" team="T5" jerseyNumber="5"/>
+  <players playerName="Bob Tompkins" team="T5" jerseyNumber="7"/>
+  <players playerName="Brent Bradley" team="T5" jerseyNumber="2"/>
+  <players playerName="Brian McMahon" team="T5" jerseyNumber="88"/>
+  <players playerName="Cam Creech" team="T5" jerseyNumber="6"/>
+  <players playerName="Cameron Palmer" team="T5" jerseyNumber="10"/>
+  <players playerName="Dan Cottenden" team="T5" jerseyNumber="3"/>
+  <players playerName="Darryl Burwash" team="T5" jerseyNumber="19"/>
+  <players playerName="Dave Hay" team="T5" jerseyNumber="12"/>
+  <players playerName="Jim Hay" team="T5" position="GOALTENDER" jerseyNumber="35"/>
+  <players playerName="Mike Craymer" team="T5" jerseyNumber="11"/>
+  <players playerName="Rick Batty" team="T5" jerseyNumber="9"/>
+  <players playerName="Rob Mallory" team="T5" jerseyNumber="4"/>
+  <players playerName="Steve Hodgdon" team="T5" jerseyNumber="16"/>
   <players playerName="Bob Dawson" team="T6" jerseyNumber="60"/>
   <players playerName="Bob McLean" team="T6" jerseyNumber="61"/>
   <players playerName="Dan Seguin" team="T6" jerseyNumber="1"/>
@@ -84,8 +84,33 @@
   <players playerName="Steve Markhouser" team="T6" jerseyNumber="71"/>
   <players playerName="Tony Moren" team="T6" jerseyNumber="72"/>
   <players playerName="Wai Chin" team="T6" jerseyNumber="73"/>
-  <games gameNumber="1" date="2016-09-07T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T5" iceType="GAME" iceOwner="kmha"/>
-  <games gameNumber="2" date="2016-09-07T22:00:00.000-0400" arena="KRC Arena" home="T2" away="T3" iceType="GAME" iceOwner="kmha"/>
+  <games gameNumber="1" date="2016-09-07T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T5" iceType="GAME" iceOwner="kmha" gamesheetConfirmed="true">
+    <homePenalties period="1" number="2" minutes="2" code="SL" timeMinutes="6" timeSeconds="43"/>
+    <homePenalties period="1" number="19" minutes="2" code="TR" timeSeconds="5"/>
+    <homeScoring period="1" timeMinutes="16" timeSeconds="14" goal="12" assist1="11" assist2="15"/>
+    <homeScoring period="1" timeMinutes="15" timeSeconds="40" goal="19" assist1="15" assist2="12"/>
+    <homeScoring period="1" timeMinutes="6" goal="7" assist1="14"/>
+    <homeScoring period="2" timeMinutes="15" timeSeconds="55" goal="3" assist1="11" assist2="8"/>
+    <homeScoring period="2" timeMinutes="7" timeSeconds="56" goal="10" assist1="7" assist2="15"/>
+    <awayPenalties period="2" number="10" minutes="2" code="TR" timeMinutes="14" timeSeconds="32"/>
+    <awayPenalties period="2" number="5" minutes="2" code="BC" timeMinutes="2" timeSeconds="18"/>
+    <awayScoring period="1" timeMinutes="16" timeSeconds="55" goal="11" assist1="16"/>
+  </games>
+  <games gameNumber="2" date="2016-09-07T22:00:00.000-0400" arena="KRC Arena" home="T2" away="T3" iceType="GAME" iceOwner="kmha" gamesheetConfirmed="true">
+    <homePenalties period="1" number="8" minutes="2" code="TR" timeMinutes="10" timeSeconds="38"/>
+    <homePenalties period="1" number="16" minutes="2" code="HKG" timeSeconds="50"/>
+    <homePenalties period="2" number="8" minutes="2" code="BC" timeMinutes="9" timeSeconds="30"/>
+    <homeScoring period="1" timeMinutes="3" timeSeconds="44" goal="10" assist1="7" assist2="6"/>
+    <homeScoring period="2" timeMinutes="21" timeSeconds="45" goal="7" assist1="16"/>
+    <homeScoring period="2" timeMinutes="3" timeSeconds="5" goal="16" assist1="6" assist2="88"/>
+    <awayPenalties period="1" number="7" minutes="4" code="HC" timeMinutes="9" timeSeconds="30"/>
+    <awayScoring period="1" timeMinutes="20" timeSeconds="46" goal="13" assist1="11" assist2="5"/>
+    <awayScoring period="1" timeMinutes="19" timeSeconds="30" goal="2" assist1="11" assist2="15"/>
+    <awayScoring period="1" timeMinutes="16" timeSeconds="59" goal="12" assist1="14" assist2="11"/>
+    <awayScoring period="1" timeSeconds="3" goal="11" assist1="2" assist2="15"/>
+    <awayScoring period="2" timeMinutes="16" timeSeconds="21" goal="2" assist1="4" assist2="6"/>
+    <awayScoring period="2" timeMinutes="4" timeSeconds="18" goal="13"/>
+  </games>
   <games gameNumber="3" date="2016-09-09T21:30:00.000-0400" arena="KRC Rink" home="T1" away="T6" iceType="GAME" iceOwner="kmha"/>
   <games gameNumber="4" date="2016-09-09T22:30:00.000-0400" arena="KRC Rink" home="T5" away="T2" iceType="GAME" iceOwner="kmha"/>
   <games gameNumber="5" date="2016-09-14T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T6" iceType="GAME" iceOwner="kmha"/>
