@@ -274,9 +274,40 @@
     <awayPenalties period="2" number="7" minutes="2" code="HKG" timeMinutes="8"/>
     <awayScoring period="2" timeMinutes="8" goal="7" assist1="12" assist2="15"/>
   </games>
-  <games gameNumber="20" date="2016-10-07T21:30:00.000-0400" arena="KRC Rink" home="T4" away="T3" iceType="GAME" iceOwner="kmha"/>
-  <games gameNumber="21" date="2016-10-07T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T5" iceType="GAME" iceOwner="kmha"/>
-  <games gameNumber="22" date="2016-10-07T23:30:00.000-0400" arena="KRC Rink" home="T2" away="T1" iceType="GAME" iceOwner="kmha"/>
+  <games gameNumber="20" date="2016-10-07T21:30:00.000-0400" arena="KRC Rink" home="T4" away="T3" iceType="GAME" iceOwner="kmha" gamesheetConfirmed="true">
+    <homePenalties period="1" number="11" minutes="2" code="TR" timeMinutes="4" timeSeconds="27"/>
+    <homeScoring period="1" timeMinutes="5" timeSeconds="44" goal="10" assist1="6"/>
+    <homeScoring period="2" timeMinutes="21" timeSeconds="56" goal="16" assist1="6"/>
+    <awayPenalties period="2" number="7" minutes="2" code="BC" timeMinutes="17" timeSeconds="50"/>
+    <awayScoring period="1" timeMinutes="21" timeSeconds="30" goal="2" assist1="9" assist2="11"/>
+    <awayScoring period="1" timeMinutes="16" timeSeconds="44" goal="15" assist1="11" assist2="5"/>
+    <awayScoring period="1" timeMinutes="13" timeSeconds="27" goal="9" assist1="2"/>
+    <awayScoring period="1" timeMinutes="8" timeSeconds="57" goal="12" assist1="13"/>
+    <awayScoring period="2" timeMinutes="13" timeSeconds="43" goal="12" assist1="14" assist2="11"/>
+  </games>
+  <games gameNumber="21" date="2016-10-07T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T5" iceType="GAME" iceOwner="kmha" gamesheetConfirmed="true">
+    <homeScoring period="2" timeMinutes="19" timeSeconds="37" goal="3" assist1="11" assist2="18"/>
+    <homeScoring period="2" timeMinutes="18" timeSeconds="39" goal="6"/>
+    <homeScoring period="2" timeMinutes="15" timeSeconds="1" goal="8" assist1="9" assist2="19"/>
+    <awayScoring period="1" timeMinutes="16" timeSeconds="3" goal="2" assist1="88"/>
+    <awayScoring period="2" timeMinutes="2" goal="5" assist1="19" assist2="16"/>
+  </games>
+  <games gameNumber="22" date="2016-10-07T23:30:00.000-0400" arena="KRC Rink" home="T2" away="T1" iceType="GAME" iceOwner="kmha" gamesheetConfirmed="true">
+    <homePenalties period="1" number="77" minutes="2" code="HO" timeMinutes="5" timeSeconds="24"/>
+    <homePenalties period="2" number="88" minutes="2" code="HKG" timeMinutes="23"/>
+    <homePenalties period="2" number="27" minutes="2" code="TR" timeMinutes="4" timeSeconds="45"/>
+    <homePenalties period="2" minutes="2" code="BM" timeMinutes="2" timeSeconds="45"/>
+    <homeScoring period="1" timeMinutes="13" timeSeconds="29" goal="16" assist1="55"/>
+    <homeScoring period="1" timeMinutes="9" timeSeconds="19" goal="7" assist1="16"/>
+    <homeScoring period="2" timeMinutes="10" timeSeconds="3" goal="16" assist1="55"/>
+    <homeScoring period="2" timeSeconds="47" goal="12" assist1="77" assist2="5"/>
+    <awayPenalties period="1" number="14" minutes="2" code="HO" timeMinutes="2" timeSeconds="58"/>
+    <awayPenalties period="2" number="12" minutes="2" code="SL" timeMinutes="10" timeSeconds="30"/>
+    <awayScoring period="1" timeMinutes="16" timeSeconds="20" goal="10" assist1="14"/>
+    <awayScoring period="1" timeMinutes="15" timeSeconds="21" goal="9" assist1="12" assist2="4"/>
+    <awayScoring period="2" timeMinutes="2" timeSeconds="12" goal="8" assist1="9" assist2="12"/>
+    <awayScoring period="2" timeSeconds="30" goal="10" assist1="4" assist2="6"/>
+  </games>
   <games gameNumber="23" date="2016-10-12T21:00:00.000-0400" arena="KRC Arena" home="T2" away="T5" iceType="GAME" iceOwner="kmha"/>
   <games gameNumber="24" date="2016-10-12T22:00:00.000-0400" arena="KRC Arena" home="T6" away="T4" iceType="GAME" iceOwner="kmha"/>
   <games gameNumber="25" date="2016-10-14T21:30:00.000-0400" arena="KRC Rink" home="T3" away="T6" iceType="GAME" iceOwner="kmha"/>
