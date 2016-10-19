@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="ASCII"?>
 <com.ahunter.kmha:League xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="kmha-playoffs">
-  <games gameNumber="1" date="2017-03-08T21:00:00.000-0500" arena="KRC Arena" home="T2" away="T1" iceType="PLAYOFF"/>
-  <games gameNumber="2" date="2017-03-08T22:00:00.000-0500" arena="KRC Arena" home="T4" away="T3" iceType="PLAYOFF"/>
-  <games gameNumber="3" date="2017-03-10T21:30:00.000-0500" arena="KRC Rink" home="T6" away="T5" iceType="PLAYOFF"/>
-  <games gameNumber="4" date="2017-03-10T22:30:00.000-0500" arena="KRC Rink" home="T3" away="T1" iceType="PLAYOFF"/>
-  <games gameNumber="5" date="2017-03-15T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T6" iceType="PLAYOFF"/>
-  <games gameNumber="6" date="2017-03-15T22:00:00.000-0400" arena="KRC Arena" home="T5" away="T2" iceType="PLAYOFF"/>
-  <games gameNumber="7" date="2017-03-17T21:30:00.000-0400" arena="KRC Rink" home="T2" away="T3" iceType="PLAYOFF"/>
-  <games gameNumber="8" date="2017-03-17T22:30:00.000-0400" arena="KRC Rink" home="T5" away="T4" iceType="PLAYOFF"/>
-  <games gameNumber="9" date="2017-03-17T23:30:00.000-0400" arena="KRC Rink" home="T1" away="T6" iceType="PLAYOFF"/>
-  <games gameNumber="10" date="2017-03-22T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T2" iceType="PLAYOFF"/>
-  <games gameNumber="11" date="2017-03-22T22:00:00.000-0400" arena="KRC Arena" home="T6" away="T3" iceType="PLAYOFF"/>
-  <games gameNumber="12" date="2017-03-24T21:30:00.000-0400" arena="KRC Rink" home="T5" away="T1" iceType="PLAYOFF"/>
-  <games gameNumber="13" date="2017-03-24T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T2" iceType="PLAYOFF"/>
-  <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="Stittsville Main Arena" home="T3" away="T5" iceType="PLAYOFF"/>
-  <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="Jack Charron" home="T1" away="T4" iceType="PLAYOFF"/>
+  <games gameNumber="1" date="2017-03-08T21:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="2" date="2017-03-08T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Young Drivers" iceType="PLAYOFF"/>
+  <games gameNumber="3" date="2017-03-10T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="PLAYOFF"/>
+  <games gameNumber="4" date="2017-03-10T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="5" date="2017-03-15T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="PLAYOFF"/>
+  <games gameNumber="6" date="2017-03-15T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="PLAYOFF"/>
+  <games gameNumber="7" date="2017-03-17T21:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Young Drivers" iceType="PLAYOFF"/>
+  <games gameNumber="8" date="2017-03-17T22:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="PLAYOFF"/>
+  <games gameNumber="9" date="2017-03-17T23:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="PLAYOFF"/>
+  <games gameNumber="10" date="2017-03-22T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Alley Cafe" iceType="PLAYOFF"/>
+  <games gameNumber="11" date="2017-03-22T22:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="PLAYOFF"/>
+  <games gameNumber="12" date="2017-03-24T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="13" date="2017-03-24T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Alley Cafe" iceType="PLAYOFF"/>
+  <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="Stittsville Main Arena" home="Young Drivers" away="Kanata Renovations" iceType="PLAYOFF"/>
+  <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="Jack Charron" home="Eagleson Flooring" away="Freedom 55" iceType="PLAYOFF"/>
 </com.ahunter.kmha:League>

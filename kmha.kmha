@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="ASCII"?>
 <com.ahunter.kmha:League xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Kanata Masters">
-  <players playerName="Jamie Duckett" team="T3" position="GOALTENDER" jerseyNumber="31"/>
-  <players playerName="Calvin Smith" team="T3" jerseyNumber="6"/>
-  <players playerName="Chris Evelyn" team="T3" jerseyNumber="11"/>
-  <players playerName="Chuck Stevenson" team="T3" jerseyNumber="12"/>
-  <players playerName="Guy Bourbonniere" team="T3" jerseyNumber="3"/>
-  <players playerName="Larry Tapp" team="T3" jerseyNumber="13"/>
-  <players playerName="Mark Smith" team="T3" jerseyNumber="4"/>
-  <players playerName="Pat Aubrey" team="T3" jerseyNumber="9"/>
-  <players playerName="Pierre Bertrand" team="T3" jerseyNumber="7"/>
-  <players playerName="Rob Zellerer" team="T3" jerseyNumber="14"/>
-  <players playerName="Robert Colson" team="T3" jerseyNumber="5"/>
-  <players playerName="Scott Bulbrook" team="T3" jerseyNumber="2"/>
-  <players playerName="Steve Lamarche" team="T3" jerseyNumber="8"/>
-  <players playerName="Steve Williams" team="T3" jerseyNumber="15"/>
-  <players playerName="Alan Palmer" team="T2" jerseyNumber="5"/>
-  <players playerName="Bruce Williams" team="T2" jerseyNumber="27"/>
-  <players playerName="Darrell Smorhay" team="T2" jerseyNumber="6"/>
-  <players playerName="Dave Wimble" team="T2" jerseyNumber="10"/>
-  <players playerName="Doug Guy" team="T2" jerseyNumber="77"/>
-  <players playerName="John McMaster" team="T2" jerseyNumber="4"/>
-  <players playerName="Kevin Caputo" team="T2" position="GOALTENDER" jerseyNumber="1"/>
-  <players playerName="Larry Johnson" team="T2" jerseyNumber="88"/>
-  <players playerName="Marc Switalski" team="T2" jerseyNumber="16"/>
-  <players playerName="Mike Vandenburg" team="T2" jerseyNumber="7"/>
-  <players playerName="Robert Fitts" team="T2" jerseyNumber="12"/>
-  <players playerName="Rocco Disipio" team="T2" jerseyNumber="9"/>
-  <players playerName="Tom Brewer" team="T2" jerseyNumber="8"/>
-  <players playerName="Tony Mather" team="T2" jerseyNumber="55"/>
-  <players playerName="Al Bergeron" team="T1" jerseyNumber="1"/>
-  <players playerName="Alain Langlois" team="T1" jerseyNumber="10"/>
-  <players playerName="Anthony Hunter" team="T1" jerseyNumber="9"/>
-  <players playerName="Barry Felstead" team="T1" jerseyNumber="13"/>
-  <players playerName="Brad Powe" team="T1" jerseyNumber="7"/>
-  <players playerName="Brian Randall" team="T1" jerseyNumber="4"/>
-  <players playerName="Bruce Perry" team="T1" jerseyNumber="15"/>
-  <players playerName="Hal Mott" team="T1" jerseyNumber="6"/>
-  <players playerName="Jeff Edwards" team="T1" jerseyNumber="11"/>
-  <players playerName="Jim Oliver" team="T1" jerseyNumber="3"/>
-  <players playerName="Kevin Kozolanka" team="T1" jerseyNumber="12"/>
-  <players playerName="Kirk Shaw" team="T1" jerseyNumber="8"/>
-  <players playerName="Klaus Holzhuter" team="T1" jerseyNumber="14"/>
-  <players playerName="Mo Miller" team="T1" jerseyNumber="2"/>
-  <players playerName="Dave Myers" team="T4" jerseyNumber="15"/>
-  <players playerName="Don O'Neill" team="T4" jerseyNumber="2"/>
-  <players playerName="George Tarrano" team="T4" jerseyNumber="16"/>
-  <players playerName="Gerry Frappier" team="T4" jerseyNumber="3"/>
-  <players playerName="Glen Vandermolen" team="T4" jerseyNumber="11"/>
-  <players playerName="Jamie Stairs" team="T4" jerseyNumber="14"/>
-  <players playerName="John Kerr" team="T4" jerseyNumber="6"/>
-  <players playerName="Lorne Clark" team="T4" jerseyNumber="5"/>
-  <players playerName="Mark Mesec" team="T4" jerseyNumber="7"/>
-  <players playerName="Mark Kilpatrick" team="T4" jerseyNumber="10"/>
-  <players playerName="Mike Shurtcliffe" team="T4" jerseyNumber="12"/>
-  <players playerName="Oscar Giroux" team="T4" position="GOALTENDER" jerseyNumber="1"/>
-  <players playerName="Paul Goulet" team="T4" jerseyNumber="19"/>
-  <players playerName="Simon Forknall" team="T4" jerseyNumber="8"/>
-  <players playerName="Alan King" team="T5" jerseyNumber="5"/>
-  <players playerName="Bob Tompkins" team="T5" jerseyNumber="7"/>
-  <players playerName="Brent Bradley" team="T5" jerseyNumber="2"/>
-  <players playerName="Brian McMahon" team="T5" jerseyNumber="88"/>
-  <players playerName="Cam Creech" team="T5" jerseyNumber="6"/>
-  <players playerName="Cameron Palmer" team="T5" jerseyNumber="10"/>
-  <players playerName="Dan Cottenden" team="T5" jerseyNumber="3"/>
-  <players playerName="Darryl Burwash" team="T5" jerseyNumber="19"/>
-  <players playerName="Dave Hay" team="T5" jerseyNumber="12"/>
-  <players playerName="Jim Hay" team="T5" position="GOALTENDER" jerseyNumber="35"/>
-  <players playerName="Mike Craymer" team="T5" jerseyNumber="11"/>
-  <players playerName="Rick Batty" team="T5" jerseyNumber="9"/>
-  <players playerName="Rob Mallory" team="T5" jerseyNumber="4"/>
-  <players playerName="Steve Hodgdon" team="T5" jerseyNumber="16"/>
-  <players playerName="Bob Dawson" team="T6" jerseyNumber="5"/>
-  <players playerName="Bob McLean" team="T6" jerseyNumber="9"/>
-  <players playerName="Dan Seguin" team="T6" position="GOALTENDER" jerseyNumber="1"/>
-  <players playerName="Eric Rutherford" team="T6" jerseyNumber="15"/>
-  <players playerName="Garry Stewart" team="T6" jerseyNumber="3"/>
-  <players playerName="Greg O'Hearn" team="T6" jerseyNumber="11"/>
-  <players playerName="Jake Duret" team="T6" jerseyNumber="6"/>
-  <players playerName="Kevin Crotteau" team="T6" jerseyNumber="4"/>
-  <players playerName="Kirby Gerstmar" team="T6" jerseyNumber="12"/>
-  <players playerName="Lee Powell" team="T6" jerseyNumber="10"/>
-  <players playerName="Richard Ballance" team="T6" jerseyNumber="19"/>
-  <players playerName="Steve Markhouser" team="T6" jerseyNumber="2"/>
-  <players playerName="Tony Moren" team="T6" jerseyNumber="8"/>
-  <players playerName="Wai Chin" team="T6" jerseyNumber="18"/>
-  <games gameNumber="1" date="2016-09-07T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T5" iceType="GAME">
+  <players playerName="Jamie Duckett" team="Young Drivers" position="GOALTENDER" jerseyNumber="31"/>
+  <players playerName="Calvin Smith" team="Young Drivers" jerseyNumber="6"/>
+  <players playerName="Chris Evelyn" team="Young Drivers" jerseyNumber="11"/>
+  <players playerName="Chuck Stevenson" team="Young Drivers" jerseyNumber="12"/>
+  <players playerName="Guy Bourbonniere" team="Young Drivers" jerseyNumber="3"/>
+  <players playerName="Larry Tapp" team="Young Drivers" jerseyNumber="13"/>
+  <players playerName="Mark Smith" team="Young Drivers" jerseyNumber="4"/>
+  <players playerName="Pat Aubrey" team="Young Drivers" jerseyNumber="9"/>
+  <players playerName="Pierre Bertrand" team="Young Drivers" jerseyNumber="7"/>
+  <players playerName="Rob Zellerer" team="Young Drivers" jerseyNumber="14"/>
+  <players playerName="Robert Colson" team="Young Drivers" jerseyNumber="5"/>
+  <players playerName="Scott Bulbrook" team="Young Drivers" jerseyNumber="2"/>
+  <players playerName="Steve Lamarche" team="Young Drivers" jerseyNumber="8"/>
+  <players playerName="Steve Williams" team="Young Drivers" jerseyNumber="15"/>
+  <players playerName="Alan Palmer" team="Alley Cafe" jerseyNumber="5"/>
+  <players playerName="Bruce Williams" team="Alley Cafe" jerseyNumber="27"/>
+  <players playerName="Darrell Smorhay" team="Alley Cafe" jerseyNumber="6"/>
+  <players playerName="Dave Wimble" team="Alley Cafe" jerseyNumber="10"/>
+  <players playerName="Doug Guy" team="Alley Cafe" jerseyNumber="77"/>
+  <players playerName="John McMaster" team="Alley Cafe" jerseyNumber="4"/>
+  <players playerName="Kevin Caputo" team="Alley Cafe" position="GOALTENDER" jerseyNumber="1"/>
+  <players playerName="Larry Johnson" team="Alley Cafe" jerseyNumber="88"/>
+  <players playerName="Marc Switalski" team="Alley Cafe" jerseyNumber="16"/>
+  <players playerName="Mike Vandenburg" team="Alley Cafe" jerseyNumber="7"/>
+  <players playerName="Robert Fitts" team="Alley Cafe" jerseyNumber="12"/>
+  <players playerName="Rocco Disipio" team="Alley Cafe" jerseyNumber="9"/>
+  <players playerName="Tom Brewer" team="Alley Cafe" jerseyNumber="8"/>
+  <players playerName="Tony Mather" team="Alley Cafe" jerseyNumber="55"/>
+  <players playerName="Al Bergeron" team="Eagleson Flooring" jerseyNumber="1"/>
+  <players playerName="Alain Langlois" team="Eagleson Flooring" jerseyNumber="10"/>
+  <players playerName="Anthony Hunter" team="Eagleson Flooring" jerseyNumber="9"/>
+  <players playerName="Barry Felstead" team="Eagleson Flooring" jerseyNumber="13"/>
+  <players playerName="Brad Powe" team="Eagleson Flooring" jerseyNumber="7"/>
+  <players playerName="Brian Randall" team="Eagleson Flooring" jerseyNumber="4"/>
+  <players playerName="Bruce Perry" team="Eagleson Flooring" jerseyNumber="15"/>
+  <players playerName="Hal Mott" team="Eagleson Flooring" jerseyNumber="6"/>
+  <players playerName="Jeff Edwards" team="Eagleson Flooring" jerseyNumber="11"/>
+  <players playerName="Jim Oliver" team="Eagleson Flooring" jerseyNumber="3"/>
+  <players playerName="Kevin Kozolanka" team="Eagleson Flooring" jerseyNumber="12"/>
+  <players playerName="Kirk Shaw" team="Eagleson Flooring" jerseyNumber="8"/>
+  <players playerName="Klaus Holzhuter" team="Eagleson Flooring" jerseyNumber="14"/>
+  <players playerName="Mo Miller" team="Eagleson Flooring" jerseyNumber="2"/>
+  <players playerName="Dave Myers" team="Freedom 55" jerseyNumber="15"/>
+  <players playerName="Don O'Neill" team="Freedom 55" jerseyNumber="2"/>
+  <players playerName="George Tarrano" team="Freedom 55" jerseyNumber="16"/>
+  <players playerName="Gerry Frappier" team="Freedom 55" jerseyNumber="3"/>
+  <players playerName="Glen Vandermolen" team="Freedom 55" jerseyNumber="11"/>
+  <players playerName="Jamie Stairs" team="Freedom 55" jerseyNumber="14"/>
+  <players playerName="John Kerr" team="Freedom 55" jerseyNumber="6"/>
+  <players playerName="Lorne Clark" team="Freedom 55" jerseyNumber="5"/>
+  <players playerName="Mark Mesec" team="Freedom 55" jerseyNumber="7"/>
+  <players playerName="Mark Kilpatrick" team="Freedom 55" jerseyNumber="10"/>
+  <players playerName="Mike Shurtcliffe" team="Freedom 55" jerseyNumber="12"/>
+  <players playerName="Oscar Giroux" team="Freedom 55" position="GOALTENDER" jerseyNumber="1"/>
+  <players playerName="Paul Goulet" team="Freedom 55" jerseyNumber="19"/>
+  <players playerName="Simon Forknall" team="Freedom 55" jerseyNumber="8"/>
+  <players playerName="Alan King" team="Kanata Renovations" jerseyNumber="5"/>
+  <players playerName="Bob Tompkins" team="Kanata Renovations" jerseyNumber="7"/>
+  <players playerName="Brent Bradley" team="Kanata Renovations" jerseyNumber="2"/>
+  <players playerName="Brian McMahon" team="Kanata Renovations" jerseyNumber="88"/>
+  <players playerName="Cam Creech" team="Kanata Renovations" jerseyNumber="6"/>
+  <players playerName="Cameron Palmer" team="Kanata Renovations" jerseyNumber="10"/>
+  <players playerName="Dan Cottenden" team="Kanata Renovations" jerseyNumber="3"/>
+  <players playerName="Darryl Burwash" team="Kanata Renovations" jerseyNumber="19"/>
+  <players playerName="Dave Hay" team="Kanata Renovations" jerseyNumber="12"/>
+  <players playerName="Jim Hay" team="Kanata Renovations" position="GOALTENDER" jerseyNumber="35"/>
+  <players playerName="Mike Craymer" team="Kanata Renovations" jerseyNumber="11"/>
+  <players playerName="Rick Batty" team="Kanata Renovations" jerseyNumber="9"/>
+  <players playerName="Rob Mallory" team="Kanata Renovations" jerseyNumber="4"/>
+  <players playerName="Steve Hodgdon" team="Kanata Renovations" jerseyNumber="16"/>
+  <players playerName="Bob Dawson" team="Urban Stone Surfaces" jerseyNumber="5"/>
+  <players playerName="Bob McLean" team="Urban Stone Surfaces" jerseyNumber="9"/>
+  <players playerName="Dan Seguin" team="Urban Stone Surfaces" position="GOALTENDER" jerseyNumber="1"/>
+  <players playerName="Eric Rutherford" team="Urban Stone Surfaces" jerseyNumber="15"/>
+  <players playerName="Garry Stewart" team="Urban Stone Surfaces" jerseyNumber="3"/>
+  <players playerName="Greg O'Hearn" team="Urban Stone Surfaces" jerseyNumber="11"/>
+  <players playerName="Jake Duret" team="Urban Stone Surfaces" jerseyNumber="6"/>
+  <players playerName="Kevin Crotteau" team="Urban Stone Surfaces" jerseyNumber="4"/>
+  <players playerName="Kirby Gerstmar" team="Urban Stone Surfaces" jerseyNumber="12"/>
+  <players playerName="Lee Powell" team="Urban Stone Surfaces" jerseyNumber="10"/>
+  <players playerName="Richard Ballance" team="Urban Stone Surfaces" jerseyNumber="19"/>
+  <players playerName="Steve Markhouser" team="Urban Stone Surfaces" jerseyNumber="2"/>
+  <players playerName="Tony Moren" team="Urban Stone Surfaces" jerseyNumber="8"/>
+  <players playerName="Wai Chin" team="Urban Stone Surfaces" jerseyNumber="18"/>
+  <games gameNumber="1" date="2016-09-07T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Kanata Renovations" iceType="GAME">
     <homePenalties period="1" number="2" minutes="2" code="SL" timeMinutes="6" timeSeconds="43"/>
     <homePenalties period="1" number="19" minutes="2" code="TR" timeSeconds="5"/>
     <homeScoring period="1" timeMinutes="16" timeSeconds="14" goal="12" assist1="11" assist2="15"/>
@@ -96,7 +96,7 @@
     <awayPenalties period="2" number="5" minutes="2" code="BC" timeMinutes="2" timeSeconds="18"/>
     <awayScoring period="1" timeMinutes="16" timeSeconds="55" goal="11" assist1="16"/>
   </games>
-  <games gameNumber="2" date="2016-09-07T22:00:00.000-0400" arena="KRC Arena" home="T2" away="T3" iceType="GAME">
+  <games gameNumber="2" date="2016-09-07T22:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Young Drivers" iceType="GAME">
     <homePenalties period="1" number="8" minutes="2" code="TR" timeMinutes="10" timeSeconds="38"/>
     <homePenalties period="1" number="16" minutes="2" code="HKG" timeSeconds="50"/>
     <homePenalties period="2" number="8" minutes="2" code="BC" timeMinutes="9" timeSeconds="30"/>
@@ -111,7 +111,7 @@
     <awayScoring period="2" timeMinutes="16" timeSeconds="21" goal="2" assist1="4" assist2="6"/>
     <awayScoring period="2" timeMinutes="4" timeSeconds="18" goal="13"/>
   </games>
-  <games gameNumber="3" date="2016-09-09T21:30:00.000-0400" arena="KRC Rink" home="T1" away="T6" iceType="GAME">
+  <games gameNumber="3" date="2016-09-09T21:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME">
     <awayPenalties period="1" number="15" minutes="2" code="HKG" timeMinutes="17" timeSeconds="56"/>
     <awayPenalties period="1" number="12" minutes="2" code="BC" timeMinutes="9" timeSeconds="30"/>
     <awayScoring period="1" timeMinutes="18" timeSeconds="59" goal="15" assist1="8"/>
@@ -121,7 +121,7 @@
     <awayScoring period="1" timeMinutes="4" timeSeconds="39" goal="19" assist1="3" assist2="6"/>
     <awayScoring period="2" timeMinutes="19" timeSeconds="16" goal="9" assist1="2" assist2="6"/>
   </games>
-  <games gameNumber="4" date="2016-09-09T22:30:00.000-0400" arena="KRC Rink" home="T5" away="T2" iceType="GAME">
+  <games gameNumber="4" date="2016-09-09T22:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Alley Cafe" iceType="GAME">
     <homePenalties period="2" number="19" minutes="2" code="TR" timeMinutes="11" timeSeconds="15"/>
     <homeScoring period="1" timeMinutes="15" timeSeconds="48" goal="10" assist1="16" assist2="6"/>
     <homeScoring period="1" timeMinutes="15" timeSeconds="40" goal="88" assist1="3" assist2="6"/>
@@ -131,13 +131,13 @@
     <awayScoring period="2" timeMinutes="18" timeSeconds="50" goal="55" assist1="9"/>
     <awayScoring period="2" timeMinutes="1" timeSeconds="47" goal="16" assist1="8" assist2="7"/>
   </games>
-  <games gameNumber="5" date="2016-09-14T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T6" iceType="GAME">
+  <games gameNumber="5" date="2016-09-14T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME">
     <homeScoring period="1" timeMinutes="7" timeSeconds="15" goal="15" assist1="6"/>
     <homeScoring period="2" timeMinutes="21" timeSeconds="30" goal="2" assist1="3"/>
     <homeScoring period="2" timeMinutes="5" timeSeconds="14" goal="6"/>
     <awayScoring period="1" timeMinutes="5" timeSeconds="13" goal="15" assist1="3" assist2="8"/>
   </games>
-  <games gameNumber="6" date="2016-09-14T22:00:00.000-0400" arena="KRC Arena" home="T3" away="T1" iceType="GAME">
+  <games gameNumber="6" date="2016-09-14T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Eagleson Flooring" iceType="GAME">
     <homePenalties period="2" number="2" minutes="2" code="TR" timeMinutes="17" timeSeconds="32"/>
     <homeScoring period="1" timeMinutes="8" timeSeconds="2" goal="11" assist1="9" assist2="3"/>
     <homeScoring period="2" timeMinutes="8" timeSeconds="1" goal="7" assist1="11"/>
@@ -148,7 +148,7 @@
     <awayScoring period="1" timeMinutes="14" timeSeconds="59" goal="6"/>
     <awayScoring period="2" timeMinutes="16" timeSeconds="21" goal="6" assist1="14" assist2="7"/>
   </games>
-  <games gameNumber="7" date="2016-09-16T21:30:00.000-0400" arena="KRC Rink" home="T2" away="T1" iceType="GAME">
+  <games gameNumber="7" date="2016-09-16T21:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Eagleson Flooring" iceType="GAME">
     <homePenalties period="2" number="8" minutes="2" code="HKG" timeMinutes="21" timeSeconds="10"/>
     <homeScoring period="1" timeMinutes="14" timeSeconds="50" goal="6"/>
     <homeScoring period="1" timeMinutes="12" timeSeconds="34" goal="7" assist1="32"/>
@@ -161,7 +161,7 @@
     <awayScoring period="2" timeMinutes="11" timeSeconds="28" goal="11" assist1="9"/>
     <awayScoring period="2" timeMinutes="7" timeSeconds="9" goal="9" assist1="5"/>
   </games>
-  <games gameNumber="8" date="2016-09-16T22:30:00.000-0400" arena="KRC Rink" home="T4" away="T3" iceType="GAME">
+  <games gameNumber="8" date="2016-09-16T22:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME">
     <homePenalties period="1" number="8" minutes="2" code="TR" timeMinutes="16" timeSeconds="51"/>
     <homePenalties period="1" number="14" minutes="2" code="HKG" timeMinutes="14" timeSeconds="18"/>
     <homePenalties period="2" number="12" minutes="2" code="INT" timeMinutes="14" timeSeconds="19"/>
@@ -174,7 +174,7 @@
     <awayScoring period="2" timeMinutes="6" timeSeconds="4" goal="14" assist1="11" assist2="7"/>
     <awayScoring period="2" timeMinutes="5" timeSeconds="24" goal="7" assist1="13" assist2="11"/>
   </games>
-  <games gameNumber="9" date="2016-09-16T23:30:00.000-0400" arena="KRC Rink" home="T6" away="T5" iceType="GAME">
+  <games gameNumber="9" date="2016-09-16T23:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME">
     <homePenalties period="2" number="5" minutes="2" code="HO" timeSeconds="15"/>
     <homeScoring period="1" timeMinutes="7" timeSeconds="48" goal="6"/>
     <homeScoring period="2" timeMinutes="14" goal="8" assist1="6"/>
@@ -183,7 +183,7 @@
     <awayScoring period="1" timeMinutes="1" timeSeconds="47" goal="10" assist1="35" assist2="6"/>
     <awayScoring period="2" timeMinutes="2" timeSeconds="5" goal="16" assist1="19" assist2="10"/>
   </games>
-  <games gameNumber="10" date="2016-09-21T21:00:00.000-0400" arena="KRC Arena" home="T5" away="T1" iceType="GAME">
+  <games gameNumber="10" date="2016-09-21T21:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME">
     <homePenalties period="1" number="10" minutes="2" code="TR" timeMinutes="18" timeSeconds="55"/>
     <homePenalties period="2" number="88" minutes="2" code="TR" timeMinutes="14" timeSeconds="54"/>
     <homePenalties period="2" number="11" minutes="2" code="HKG" timeMinutes="3" timeSeconds="59"/>
@@ -194,7 +194,7 @@
     <homeScoring period="2" timeMinutes="5" timeSeconds="42" goal="19" assist1="2" assist2="16"/>
     <awayScoring period="2" timeMinutes="12" timeSeconds="45" goal="12" assist1="11"/>
   </games>
-  <games gameNumber="11" date="2016-09-21T22:00:00.000-0400" arena="KRC Arena" home="T6" away="T3" iceType="GAME">
+  <games gameNumber="11" date="2016-09-21T22:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME">
     <homePenalties period="1" number="19" minutes="2" code="SL" timeMinutes="8" timeSeconds="23"/>
     <homePenalties period="2" number="5" minutes="2" code="HO" timeMinutes="16" timeSeconds="38"/>
     <homePenalties period="2" number="5" minutes="2" code="HS" timeMinutes="7" timeSeconds="30"/>
@@ -209,14 +209,14 @@
     <awayScoring period="2" timeMinutes="19" timeSeconds="49" goal="12" assist1="11" assist2="2"/>
     <awayScoring period="2" timeMinutes="5" timeSeconds="49" goal="15" assist1="10" assist2="6"/>
   </games>
-  <games gameNumber="12" date="2016-09-23T21:30:00.000-0400" arena="KRC Rink" home="T4" away="T2" iceType="GAME">
+  <games gameNumber="12" date="2016-09-23T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Alley Cafe" iceType="GAME">
     <homeScoring period="1" timeMinutes="2" timeSeconds="20" goal="12" assist1="14" assist2="10"/>
     <homeScoring period="2" timeMinutes="8" timeSeconds="45" goal="16" assist1="11" assist2="6"/>
     <awayPenalties period="1" number="88" minutes="2" code="HO" timeMinutes="23"/>
     <awayScoring period="2" timeMinutes="9" timeSeconds="40" goal="7" assist1="4" assist2="88"/>
     <awayScoring period="2" timeMinutes="2" timeSeconds="20" goal="4" assist1="5" assist2="7"/>
   </games>
-  <games gameNumber="13" date="2016-09-23T22:30:00.000-0400" arena="KRC Rink" home="T3" away="T5" iceType="GAME">
+  <games gameNumber="13" date="2016-09-23T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Kanata Renovations" iceType="GAME">
     <homeScoring period="1" timeMinutes="19" timeSeconds="46" goal="13" assist1="6"/>
     <awayScoring period="2" timeMinutes="19" goal="88" assist1="5"/>
     <awayScoring period="2" timeMinutes="17" timeSeconds="20" goal="12" assist1="10"/>
@@ -224,7 +224,7 @@
     <awayScoring period="2" timeMinutes="8" timeSeconds="50" goal="88" assist1="11"/>
     <awayScoring period="2" timeMinutes="7" timeSeconds="28" goal="19" assist1="16" assist2="10"/>
   </games>
-  <games gameNumber="14" date="2016-09-28T21:00:00.000-0400" arena="KRC Arena" home="T1" away="T3" iceType="GAME">
+  <games gameNumber="14" date="2016-09-28T21:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Young Drivers" iceType="GAME">
     <homePenalties period="2" number="10" minutes="2" code="TR" timeMinutes="17" timeSeconds="2"/>
     <homePenalties period="2" number="15" minutes="2" code="SL" timeMinutes="9" timeSeconds="38"/>
     <homePenalties period="2" number="12" minutes="2" code="SL" timeMinutes="3" timeSeconds="13"/>
@@ -235,14 +235,14 @@
     <awayScoring period="2" timeMinutes="20" timeSeconds="55" goal="9" assist1="2" assist2="11"/>
     <awayScoring period="2" timeMinutes="7" timeSeconds="51" goal="7" assist1="4" assist2="31"/>
   </games>
-  <games gameNumber="15" date="2016-09-28T22:00:00.000-0400" arena="KRC Arena" home="T5" away="T4" iceType="GAME">
+  <games gameNumber="15" date="2016-09-28T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Freedom 55" iceType="GAME">
     <homeScoring period="1" timeMinutes="20" timeSeconds="18" goal="16" assist1="19" assist2="10"/>
     <homeScoring period="1" timeMinutes="16" timeSeconds="29" goal="16" assist1="19"/>
     <homeScoring period="2" timeSeconds="49" goal="10" assist1="19"/>
     <awayScoring period="1" timeMinutes="5" timeSeconds="12" goal="11" assist1="8" assist2="2"/>
     <awayScoring period="2" timeMinutes="11" timeSeconds="24" goal="8" assist1="16"/>
   </games>
-  <games gameNumber="16" date="2016-09-30T21:30:00.000-0400" arena="KRC Rink" home="T3" away="T2" iceType="GAME">
+  <games gameNumber="16" date="2016-09-30T21:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Alley Cafe" iceType="GAME">
     <homePenalties period="1" number="6" minutes="2" code="TR" timeMinutes="16" timeSeconds="5"/>
     <homeScoring period="1" timeMinutes="8" timeSeconds="20" goal="11" assist1="5"/>
     <homeScoring period="1" timeSeconds="54" goal="11" assist1="5" assist2="13"/>
@@ -250,11 +250,11 @@
     <awayPenalties period="1" number="11" minutes="2" code="TR" timeMinutes="10" timeSeconds="2"/>
     <awayScoring period="2" timeMinutes="2" timeSeconds="35" goal="7" assist1="88" assist2="55"/>
   </games>
-  <games gameNumber="17" date="2016-09-30T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T1" iceType="GAME">
+  <games gameNumber="17" date="2016-09-30T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME">
     <homeScoring period="2" timeSeconds="17" goal="19" assist1="6"/>
     <awayPenalties period="1" number="7" minutes="2" code="TR" timeMinutes="18" timeSeconds="53"/>
   </games>
-  <games gameNumber="18" date="2016-10-05T21:00:00.000-0400" arena="KRC Arena" home="T2" away="T6" iceType="GAME">
+  <games gameNumber="18" date="2016-10-05T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Urban Stone Surfaces" iceType="GAME">
     <homePenalties period="2" number="16" minutes="2" code="HO" timeMinutes="5" timeSeconds="41"/>
     <homeScoring period="1" timeMinutes="19" timeSeconds="52" goal="16" assist1="8" assist2="27"/>
     <homeScoring period="1" timeMinutes="19" timeSeconds="2" goal="8" assist1="16" assist2="9"/>
@@ -266,7 +266,7 @@
     <awayScoring period="2" timeMinutes="13" timeSeconds="38" goal="19" assist1="5" assist2="12"/>
     <awayScoring period="2" timeMinutes="5" timeSeconds="15" goal="19"/>
   </games>
-  <games gameNumber="19" date="2016-10-05T22:00:00.000-0400" arena="KRC Arena" home="T1" away="T4" iceType="GAME">
+  <games gameNumber="19" date="2016-10-05T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="GAME">
     <homePenalties period="1" number="12" minutes="2" code="SL" timeMinutes="13" timeSeconds="10"/>
     <homePenalties period="2" number="10" minutes="2" code="TR" timeMinutes="16" timeSeconds="21"/>
     <homePenalties period="2" number="10" minutes="2" code="BC" timeMinutes="6" timeSeconds="57"/>
@@ -274,7 +274,7 @@
     <awayPenalties period="2" number="7" minutes="2" code="HKG" timeMinutes="8"/>
     <awayScoring period="2" timeMinutes="8" goal="7" assist1="12" assist2="15"/>
   </games>
-  <games gameNumber="20" date="2016-10-07T21:30:00.000-0400" arena="KRC Rink" home="T4" away="T3" iceType="GAME">
+  <games gameNumber="20" date="2016-10-07T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME">
     <homePenalties period="1" number="11" minutes="2" code="TR" timeMinutes="4" timeSeconds="27"/>
     <homeScoring period="1" timeMinutes="5" timeSeconds="44" goal="10" assist1="6"/>
     <homeScoring period="2" timeMinutes="21" timeSeconds="56" goal="16" assist1="6"/>
@@ -285,14 +285,14 @@
     <awayScoring period="1" timeMinutes="8" timeSeconds="57" goal="12" assist1="13"/>
     <awayScoring period="2" timeMinutes="13" timeSeconds="43" goal="12" assist1="14" assist2="11"/>
   </games>
-  <games gameNumber="21" date="2016-10-07T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T5" iceType="GAME">
+  <games gameNumber="21" date="2016-10-07T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME">
     <homeScoring period="2" timeMinutes="19" timeSeconds="37" goal="3" assist1="11" assist2="18"/>
     <homeScoring period="2" timeMinutes="18" timeSeconds="39" goal="6"/>
     <homeScoring period="2" timeMinutes="15" timeSeconds="1" goal="8" assist1="9" assist2="19"/>
     <awayScoring period="1" timeMinutes="16" timeSeconds="3" goal="2" assist1="88"/>
     <awayScoring period="2" timeMinutes="2" goal="5" assist1="19" assist2="16"/>
   </games>
-  <games gameNumber="22" date="2016-10-07T23:30:00.000-0400" arena="KRC Rink" home="T2" away="T1" iceType="GAME">
+  <games gameNumber="22" date="2016-10-07T23:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Eagleson Flooring" iceType="GAME">
     <homePenalties period="1" number="77" minutes="2" code="HO" timeMinutes="5" timeSeconds="24"/>
     <homePenalties period="2" number="88" minutes="2" code="HKG" timeMinutes="23"/>
     <homePenalties period="2" number="27" minutes="2" code="TR" timeMinutes="4" timeSeconds="45"/>
@@ -308,7 +308,7 @@
     <awayScoring period="2" timeMinutes="2" timeSeconds="12" goal="8" assist1="9" assist2="12"/>
     <awayScoring period="2" timeSeconds="30" goal="10" assist1="4" assist2="6"/>
   </games>
-  <games gameNumber="23" date="2016-10-12T21:00:00.000-0400" arena="KRC Arena" home="T2" away="T5" iceType="GAME">
+  <games gameNumber="23" date="2016-10-12T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Kanata Renovations" iceType="GAME">
     <homePenalties period="1" number="8" minutes="2" code="TR" timeMinutes="3" timeSeconds="24"/>
     <awayPenalties period="2" number="4" minutes="2" code="RO" timeMinutes="14" timeSeconds="55"/>
     <awayScoring period="1" timeMinutes="16" timeSeconds="1" goal="19" assist1="16" assist2="10"/>
@@ -318,7 +318,7 @@
     <awayScoring period="2" timeMinutes="4" timeSeconds="19" goal="10" assist1="19" assist2="16"/>
     <awayScoring period="2" timeMinutes="2" timeSeconds="33" goal="88" assist1="11"/>
   </games>
-  <games gameNumber="24" date="2016-10-12T22:00:00.000-0400" arena="KRC Arena" home="T6" away="T4" iceType="GAME">
+  <games gameNumber="24" date="2016-10-12T22:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME">
     <homePenalties period="2" number="3" minutes="2" code="RO" timeMinutes="1" timeSeconds="26"/>
     <homeScoring period="1" timeMinutes="16" timeSeconds="34" goal="5" assist1="6" assist2="10"/>
     <homeScoring period="1" timeMinutes="8" timeSeconds="43" goal="3" assist1="12" assist2="11"/>
@@ -330,7 +330,7 @@
     <awayScoring period="2" timeMinutes="2" timeSeconds="34" goal="10" assist1="14"/>
     <awayScoring period="1" timeMinutes="5" timeSeconds="29" goal="10"/>
   </games>
-  <games gameNumber="25" date="2016-10-14T21:30:00.000-0400" arena="KRC Rink" home="T3" away="T6" iceType="GAME">
+  <games gameNumber="25" date="2016-10-14T21:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME">
     <homePenalties period="2" minutes="2" code="TMP" timeMinutes="6" timeSeconds="45"/>
     <homePenalties period="2" number="2" minutes="2" code="HKG" timeMinutes="1" timeSeconds="4"/>
     <homeScoring period="1" timeMinutes="5" timeSeconds="29" goal="10"/>
@@ -341,7 +341,7 @@
     <awayScoring period="2" timeMinutes="16" timeSeconds="38" goal="15" assist1="3"/>
     <awayScoring period="2" timeMinutes="4" timeSeconds="39" goal="19" assist1="3"/>
   </games>
-  <games gameNumber="26" date="2016-10-14T22:30:00.000-0400" arena="KRC Rink" home="T1" away="T5" iceType="GAME">
+  <games gameNumber="26" date="2016-10-14T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME">
     <homePenalties period="1" number="14" minutes="2" code="HKG" timeMinutes="16" timeSeconds="22"/>
     <homeScoring period="1" timeMinutes="18" goal="10" assist1="6" assist2="12"/>
     <homeScoring period="2" timeMinutes="20" timeSeconds="31" goal="9" assist1="4"/>
@@ -351,100 +351,100 @@
     <awayPenalties period="1" minutes="2" code="BM" timeMinutes="9" timeSeconds="45"/>
     <awayPenalties period="2" number="12" minutes="2" code="TR" timeMinutes="13" timeSeconds="49"/>
   </games>
-  <games gameNumber="27" date="2016-10-19T21:00:00.000-0400" arena="KRC Arena" home="T6" away="T1" iceType="GAME"/>
-  <games gameNumber="28" date="2016-10-19T22:00:00.000-0400" arena="KRC Arena" home="T2" away="T4" iceType="GAME"/>
-  <games gameNumber="29" date="2016-10-21T21:30:00.000-0400" arena="KRC Rink" home="T5" away="T3" iceType="GAME"/>
-  <games gameNumber="30" date="2016-10-21T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T2" iceType="GAME"/>
-  <games gameNumber="31" date="2016-10-21T23:30:00.000-0400" arena="KRC Rink" home="T4" away="T1" iceType="GAME"/>
-  <games gameNumber="32" date="2016-10-26T21:00:00.000-0400" arena="KRC Arena" home="T2" away="T3" iceType="GAME"/>
-  <games gameNumber="33" date="2016-10-26T22:00:00.000-0400" arena="KRC Arena" home="T4" away="T6" iceType="GAME"/>
-  <games gameNumber="34" date="2016-10-28T21:30:00.000-0400" arena="KRC Rink" home="T4" away="T5" iceType="GAME"/>
-  <games gameNumber="35" date="2016-10-28T22:30:00.000-0400" arena="KRC Rink" home="T2" away="T1" iceType="GAME"/>
-  <games gameNumber="36" date="2016-11-02T21:00:00.000-0400" arena="KRC Arena" home="T2" away="T5" iceType="GAME"/>
-  <games gameNumber="37" date="2016-11-02T22:00:00.000-0400" arena="KRC Arena" home="T3" away="T1" iceType="GAME"/>
-  <games gameNumber="38" date="2016-11-04T21:30:00.000-0400" arena="KRC Rink" home="T4" away="T3" iceType="GAME"/>
-  <games gameNumber="39" date="2016-11-04T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T5" iceType="GAME"/>
-  <games gameNumber="40" date="2016-11-09T21:00:00.000-0500" arena="KRC Arena" home="T4" away="T2" iceType="GAME"/>
-  <games gameNumber="41" date="2016-11-09T22:00:00.000-0500" arena="KRC Arena" home="T3" away="T6" iceType="GAME"/>
-  <games gameNumber="42" date="2016-11-11T21:30:00.000-0500" arena="KRC Rink" home="T4" away="T1" iceType="GAME"/>
-  <games gameNumber="43" date="2016-11-11T22:30:00.000-0500" arena="KRC Rink" home="T3" away="T5" iceType="GAME"/>
-  <games gameNumber="44" date="2016-11-11T23:30:00.000-0500" arena="KRC Rink" home="T2" away="T6" iceType="GAME"/>
-  <games gameNumber="45" date="2016-11-16T21:00:00.000-0500" arena="KRC Arena" home="T6" away="T4" iceType="GAME"/>
-  <games gameNumber="46" date="2016-11-16T22:00:00.000-0500" arena="KRC Arena" home="T5" away="T1" iceType="GAME"/>
-  <games gameNumber="47" date="2016-11-18T21:30:00.000-0500" arena="KRC Rink" home="T6" away="T5" iceType="GAME"/>
-  <games gameNumber="48" date="2016-11-18T22:30:00.000-0500" arena="KRC Rink" home="T3" away="T2" iceType="GAME"/>
-  <games gameNumber="49" date="2016-11-23T21:00:00.000-0500" arena="KRC Arena" home="T1" away="T6" iceType="GAME"/>
-  <games gameNumber="50" date="2016-11-23T22:00:00.000-0500" arena="KRC Arena" home="T5" away="T4" iceType="GAME"/>
-  <games gameNumber="51" date="2016-11-25T21:30:00.000-0500" arena="KRC Rink" home="T2" away="T1" iceType="GAME"/>
-  <games gameNumber="52" date="2016-11-25T22:30:00.000-0500" arena="KRC Rink" home="T4" away="T3" iceType="GAME"/>
-  <games gameNumber="53" date="2016-11-30T21:00:00.000-0500" arena="KRC Arena" home="T5" away="T2" iceType="GAME"/>
-  <games gameNumber="54" date="2016-11-30T22:00:00.000-0500" arena="KRC Arena" home="T1" away="T3" iceType="GAME"/>
-  <games gameNumber="55" date="2016-12-02T21:30:00.000-0500" arena="KRC Rink" home="T1" away="T5" iceType="GAME"/>
-  <games gameNumber="56" date="2016-12-02T22:30:00.000-0500" arena="KRC Rink" home="T2" away="T4" iceType="GAME"/>
-  <games gameNumber="57" date="2016-12-02T23:30:00.000-0500" arena="KRC Rink" home="T6" away="T3" iceType="GAME"/>
-  <games gameNumber="58" date="2016-12-07T21:00:00.000-0500" arena="KRC Arena" home="T1" away="T4" iceType="GAME"/>
-  <games gameNumber="59" date="2016-12-07T22:00:00.000-0500" arena="KRC Arena" home="T5" away="T3" iceType="GAME"/>
-  <games gameNumber="60" date="2016-12-09T21:30:00.000-0500" arena="KRC Rink" home="T4" away="T5" iceType="GAME"/>
-  <games gameNumber="61" date="2016-12-09T22:30:00.000-0500" arena="KRC Rink" home="T6" away="T2" iceType="GAME"/>
-  <games gameNumber="62" date="2016-12-14T21:00:00.000-0500" arena="KRC Arena" home="T2" away="T3" iceType="GAME"/>
-  <games gameNumber="63" date="2016-12-14T22:00:00.000-0500" arena="KRC Arena" home="T6" away="T1" iceType="GAME"/>
-  <games gameNumber="64" date="2016-12-16T21:30:00.000-0500" arena="KRC Rink" home="T5" away="T6" iceType="GAME"/>
-  <games gameNumber="65" date="2016-12-16T22:30:00.000-0500" arena="KRC Rink" home="T1" away="T2" iceType="GAME"/>
-  <games gameNumber="66" date="2016-12-16T23:30:00.000-0500" arena="KRC Rink" home="T3" away="T4" iceType="GAME"/>
-  <games gameNumber="67" date="2017-01-04T21:00:00.000-0500" arena="KRC Arena" home="T3" away="T1" iceType="GAME"/>
-  <games gameNumber="68" date="2017-01-04T22:00:00.000-0500" arena="KRC Arena" home="T2" away="T5" iceType="GAME"/>
-  <games gameNumber="69" date="2017-01-06T21:30:00.000-0500" arena="KRC Rink" home="T5" away="T1" iceType="GAME"/>
-  <games gameNumber="70" date="2017-01-06T22:30:00.000-0500" arena="KRC Rink" home="T4" away="T6" iceType="GAME"/>
-  <games gameNumber="71" date="2017-01-11T21:00:00.000-0500" arena="KRC Arena" home="T3" away="T6" iceType="GAME"/>
-  <games gameNumber="72" date="2017-01-11T22:00:00.000-0500" arena="KRC Arena" home="T4" away="T2" iceType="GAME"/>
-  <games gameNumber="73" date="2017-01-13T21:30:00.000-0500" arena="KRC Rink" home="T2" away="T6" iceType="GAME"/>
-  <games gameNumber="74" date="2017-01-13T22:30:00.000-0500" arena="KRC Rink" home="T4" away="T1" iceType="GAME"/>
-  <games gameNumber="75" date="2017-01-13T23:30:00.000-0500" arena="KRC Rink" home="T3" away="T5" iceType="GAME"/>
-  <games gameNumber="76" date="2017-01-18T21:00:00.000-0500" arena="KRC Arena" home="T1" away="T6" iceType="GAME"/>
-  <games gameNumber="77" date="2017-01-18T22:00:00.000-0500" arena="KRC Arena" home="T3" away="T2" iceType="GAME"/>
-  <games gameNumber="78" date="2017-01-20T21:30:00.000-0500" arena="KRC Rink" home="T5" away="T4" iceType="GAME"/>
-  <games gameNumber="79" date="2017-01-20T22:30:00.000-0500" arena="KRC Rink" home="T1" away="T2" iceType="GAME"/>
-  <games gameNumber="80" date="2017-01-25T21:00:00.000-0500" arena="KRC Arena" home="T6" away="T2" iceType="GAME"/>
-  <games gameNumber="81" date="2017-01-25T22:00:00.000-0500" arena="KRC Arena" home="T1" away="T3" iceType="GAME"/>
-  <games gameNumber="82" date="2017-01-27T21:30:00.000-0500" arena="KRC Rink" home="T3" away="T4" iceType="GAME"/>
-  <games gameNumber="83" date="2017-01-27T22:30:00.000-0500" arena="KRC Rink" home="T5" away="T6" iceType="GAME"/>
-  <games gameNumber="84" date="2017-02-01T21:00:00.000-0500" arena="KRC Arena" home="T6" away="T4" iceType="GAME"/>
-  <games gameNumber="85" date="2017-02-01T22:00:00.000-0500" arena="KRC Arena" home="T5" away="T2" iceType="GAME"/>
-  <games gameNumber="86" date="2017-02-03T21:30:00.000-0500" arena="KRC Rink" home="T6" away="T3" iceType="GAME"/>
-  <games gameNumber="87" date="2017-02-03T22:30:00.000-0500" arena="KRC Rink" home="T1" away="T5" iceType="GAME"/>
-  <games gameNumber="88" date="2017-02-03T23:30:00.000-0500" arena="KRC Rink" home="T2" away="T4" iceType="GAME"/>
-  <games gameNumber="89" date="2017-02-08T21:00:00.000-0500" arena="KRC Arena" home="T5" away="T3" iceType="GAME"/>
-  <games gameNumber="90" date="2017-02-08T22:00:00.000-0500" arena="KRC Arena" home="T6" away="T4" iceType="GAME"/>
-  <games gameNumber="91" date="2017-02-10T21:30:00.000-0500" arena="KRC Rink" home="T3" away="T2" iceType="GAME"/>
-  <games gameNumber="92" date="2017-02-10T22:30:00.000-0500" arena="KRC Rink" home="T1" away="T4" iceType="GAME"/>
-  <games gameNumber="93" date="2017-02-15T21:00:00.000-0500" arena="KRC Arena" home="T5" away="T4" iceType="GAME"/>
-  <games gameNumber="94" date="2017-02-15T22:00:00.000-0500" arena="KRC Arena" home="T1" away="T6" iceType="GAME"/>
-  <games gameNumber="95" date="2017-02-17T21:30:00.000-0500" arena="KRC Rink" home="T1" away="T2" iceType="GAME"/>
-  <games gameNumber="96" date="2017-02-17T22:30:00.000-0500" arena="KRC Rink" home="T3" away="T4" iceType="GAME"/>
-  <games gameNumber="97" date="2017-02-22T21:00:00.000-0500" arena="KRC Arena" home="T3" away="T5" iceType="GAME"/>
-  <games gameNumber="98" date="2017-02-22T22:00:00.000-0500" arena="KRC Arena" home="T2" away="T6" iceType="GAME"/>
-  <games gameNumber="99" date="2017-02-24T21:30:00.000-0500" arena="KRC Rink" home="T4" away="T2" iceType="GAME"/>
-  <games gameNumber="100" date="2017-02-24T22:30:00.000-0500" arena="KRC Rink" home="T3" away="T6" iceType="GAME"/>
-  <games gameNumber="101" date="2017-02-24T23:30:00.000-0500" arena="KRC Rink" home="T5" away="T1" iceType="GAME"/>
-  <games gameNumber="102" date="2017-03-01T21:00:00.000-0500" arena="KRC Arena" home="T4" away="T1" iceType="GAME"/>
-  <games gameNumber="103" date="2017-03-01T22:00:00.000-0500" arena="KRC Arena" home="T5" away="T2" iceType="GAME"/>
-  <games gameNumber="104" date="2017-03-03T21:30:00.000-0500" arena="KRC Rink" home="T5" away="T6" iceType="GAME"/>
-  <games gameNumber="105" date="2017-03-03T22:30:00.000-0500" arena="KRC Rink" home="T1" away="T3" iceType="GAME"/>
-  <games gameNumber="1" date="2017-03-08T21:00:00.000-0500" arena="KRC Arena" home="T2" away="T1" iceType="PLAYOFF"/>
-  <games gameNumber="2" date="2017-03-08T22:00:00.000-0500" arena="KRC Arena" home="T4" away="T3" iceType="PLAYOFF"/>
-  <games gameNumber="3" date="2017-03-10T21:30:00.000-0500" arena="KRC Rink" home="T6" away="T5" iceType="PLAYOFF"/>
-  <games gameNumber="4" date="2017-03-10T22:30:00.000-0500" arena="KRC Rink" home="T3" away="T1" iceType="PLAYOFF"/>
-  <games gameNumber="5" date="2017-03-15T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T6" iceType="PLAYOFF"/>
-  <games gameNumber="6" date="2017-03-15T22:00:00.000-0400" arena="KRC Arena" home="T5" away="T2" iceType="PLAYOFF"/>
-  <games gameNumber="7" date="2017-03-17T21:30:00.000-0400" arena="KRC Rink" home="T2" away="T3" iceType="PLAYOFF"/>
-  <games gameNumber="8" date="2017-03-17T22:30:00.000-0400" arena="KRC Rink" home="T5" away="T4" iceType="PLAYOFF"/>
-  <games gameNumber="9" date="2017-03-17T23:30:00.000-0400" arena="KRC Rink" home="T1" away="T6" iceType="PLAYOFF"/>
-  <games gameNumber="10" date="2017-03-22T21:00:00.000-0400" arena="KRC Arena" home="T4" away="T2" iceType="PLAYOFF"/>
-  <games gameNumber="11" date="2017-03-22T22:00:00.000-0400" arena="KRC Arena" home="T6" away="T3" iceType="PLAYOFF"/>
-  <games gameNumber="12" date="2017-03-24T21:30:00.000-0400" arena="KRC Rink" home="T5" away="T1" iceType="PLAYOFF"/>
-  <games gameNumber="13" date="2017-03-24T22:30:00.000-0400" arena="KRC Rink" home="T6" away="T2" iceType="PLAYOFF"/>
-  <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="Stittsville Main Arena" home="T3" away="T5" iceType="PLAYOFF"/>
-  <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="Jack Charron" home="T1" away="T4" iceType="PLAYOFF"/>
+  <games gameNumber="27" date="2016-10-19T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="28" date="2016-10-19T22:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="29" date="2016-10-21T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="30" date="2016-10-21T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="31" date="2016-10-21T23:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="32" date="2016-10-26T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="33" date="2016-10-26T22:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="34" date="2016-10-28T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="35" date="2016-10-28T22:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="36" date="2016-11-02T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="37" date="2016-11-02T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="38" date="2016-11-04T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="39" date="2016-11-04T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="40" date="2016-11-09T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="41" date="2016-11-09T22:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="42" date="2016-11-11T21:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="43" date="2016-11-11T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="44" date="2016-11-11T23:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="45" date="2016-11-16T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="46" date="2016-11-16T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="47" date="2016-11-18T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="48" date="2016-11-18T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="49" date="2016-11-23T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="50" date="2016-11-23T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="51" date="2016-11-25T21:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="52" date="2016-11-25T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="53" date="2016-11-30T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="54" date="2016-11-30T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="55" date="2016-12-02T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="56" date="2016-12-02T22:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="57" date="2016-12-02T23:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="58" date="2016-12-07T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="59" date="2016-12-07T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="60" date="2016-12-09T21:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="61" date="2016-12-09T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="62" date="2016-12-14T21:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="63" date="2016-12-14T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="64" date="2016-12-16T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="65" date="2016-12-16T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="66" date="2016-12-16T23:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="67" date="2017-01-04T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="68" date="2017-01-04T22:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="69" date="2017-01-06T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="70" date="2017-01-06T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="71" date="2017-01-11T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="72" date="2017-01-11T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="73" date="2017-01-13T21:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="74" date="2017-01-13T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="75" date="2017-01-13T23:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="76" date="2017-01-18T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="77" date="2017-01-18T22:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="78" date="2017-01-20T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="79" date="2017-01-20T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="80" date="2017-01-25T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="81" date="2017-01-25T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="82" date="2017-01-27T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="83" date="2017-01-27T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="84" date="2017-02-01T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="85" date="2017-02-01T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="86" date="2017-02-03T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="87" date="2017-02-03T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="88" date="2017-02-03T23:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="89" date="2017-02-08T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="90" date="2017-02-08T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="91" date="2017-02-10T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="92" date="2017-02-10T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="93" date="2017-02-15T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="94" date="2017-02-15T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="95" date="2017-02-17T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="96" date="2017-02-17T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="97" date="2017-02-22T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="98" date="2017-02-22T22:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="99" date="2017-02-24T21:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="100" date="2017-02-24T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="101" date="2017-02-24T23:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="102" date="2017-03-01T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="103" date="2017-03-01T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="104" date="2017-03-03T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="105" date="2017-03-03T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="1" date="2017-03-08T21:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="2" date="2017-03-08T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Young Drivers" iceType="PLAYOFF"/>
+  <games gameNumber="3" date="2017-03-10T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="PLAYOFF"/>
+  <games gameNumber="4" date="2017-03-10T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="5" date="2017-03-15T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="PLAYOFF"/>
+  <games gameNumber="6" date="2017-03-15T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="PLAYOFF"/>
+  <games gameNumber="7" date="2017-03-17T21:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Young Drivers" iceType="PLAYOFF"/>
+  <games gameNumber="8" date="2017-03-17T22:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="PLAYOFF"/>
+  <games gameNumber="9" date="2017-03-17T23:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="PLAYOFF"/>
+  <games gameNumber="10" date="2017-03-22T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Alley Cafe" iceType="PLAYOFF"/>
+  <games gameNumber="11" date="2017-03-22T22:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="PLAYOFF"/>
+  <games gameNumber="12" date="2017-03-24T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="13" date="2017-03-24T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Alley Cafe" iceType="PLAYOFF"/>
+  <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="Stittsville Main Arena" home="Young Drivers" away="Kanata Renovations" iceType="PLAYOFF"/>
+  <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="Jack Charron" home="Eagleson Flooring" away="Freedom 55" iceType="PLAYOFF"/>
   <games gameNumber="16" date="2017-03-31T17:00:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" note="5th versus 6th"/>
   <games gameNumber="17" date="2017-03-31T17:30:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" note="3rd versus 4th"/>
   <games gameNumber="18" date="2017-03-31T18:00:00.000-0400" arena="KRC Arena" home="TBD" away="TBD" iceType="FINALS" note="1st versus 2nd"/>
