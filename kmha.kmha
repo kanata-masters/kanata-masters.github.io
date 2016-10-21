@@ -36,6 +36,7 @@
   <players playerName="Brian Randall" team="Eagleson Flooring" jerseyNumber="4"/>
   <players playerName="Bruce Perry" team="Eagleson Flooring" jerseyNumber="15"/>
   <players playerName="Hal Mott" team="Eagleson Flooring" jerseyNumber="6"/>
+  <players playerName="Lloyd Cosman" team="Eagleson Flooring" jerseyNumber="27"/>
   <players playerName="Jeff Edwards" team="Eagleson Flooring" jerseyNumber="11"/>
   <players playerName="Jim Oliver" team="Eagleson Flooring" jerseyNumber="3"/>
   <players playerName="Kevin Kozolanka" team="Eagleson Flooring" jerseyNumber="12"/>
@@ -351,8 +352,23 @@
     <awayPenalties period="1" minutes="2" code="BM" timeMinutes="9" timeSeconds="45"/>
     <awayPenalties period="2" number="12" minutes="2" code="TR" timeMinutes="13" timeSeconds="49"/>
   </games>
-  <games gameNumber="27" date="2016-10-19T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
-  <games gameNumber="28" date="2016-10-19T22:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="27" date="2016-10-19T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME">
+    <homeScoring period="1" goal="19" assist1="2" timeMinutes="18" timeSeconds="08"/>
+    <homeScoring period="1" goal="15" assist1="9" assist2="5" timeMinutes="10" timeSeconds="50"/>
+    <awayScoring period="1" goal="27" assist1="6" assist2="10" timeMinutes="09" timeSeconds="47"/>
+    <awayScoring period="1" goal="27" assist1="9" assist2="12" timeMinutes="07" timeSeconds="32"/>
+    <awayScoring period="2" goal="27" assist1="12" assist2="4" timeMinutes="17" timeSeconds="05"/>
+    <awayScoring period="2" goal="12" assist1="6" assist2="27" timeMinutes="13" timeSeconds="55"/>
+    <awayScoring period="2" goal="13" assist1="4" assist2="10" timeMinutes="12" timeSeconds="22"/>
+    <homeScoring period="2" goal="3" assist1="15" assist2="9" timeMinutes="08" timeSeconds="10"/>
+    <homeScoring period="2" goal="3" assist1="11" assist2="18" timeMinutes="02" timeSeconds="27"/>
+    <homeScoring period="2" goal="2" assist1="11" assist2="19" timeMinutes="01" timeSeconds="30"/>
+    <awayPenalties period="2" number="14" minutes="2" code="TR" timeMinutes="09" timeSeconds="21"/>
+  </games>
+  <games gameNumber="28" date="2016-10-19T22:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Freedom 55" iceType="GAME">
+
+    <homeScoring period="1" goal="77" timeMinutes="12" timeSeconds="36"/>
+  </games>
   <games gameNumber="29" date="2016-10-21T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
   <games gameNumber="30" date="2016-10-21T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
   <games gameNumber="31" date="2016-10-21T23:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
