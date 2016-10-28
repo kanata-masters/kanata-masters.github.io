@@ -396,8 +396,22 @@
     <homeScoring period="2" timeMinutes="14" timeSeconds="12" goal="10" assist1="6" assist2="2"/>
     <awayScoring period="1" timeMinutes="18" timeSeconds="4" goal="27" assist1="6"/>
   </games>
-  <games gameNumber="32" date="2016-10-26T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Young Drivers" iceType="GAME"/>
-  <games gameNumber="33" date="2016-10-26T22:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="32" date="2016-10-26T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Young Drivers" iceType="GAME">
+    <homeScoring period="1" timeMinutes="18" timeSeconds="55" goal="77"/>
+    <homeScoring period="1" timeMinutes="14" timeSeconds="43" goal="16" assist1="77" assist2="7"/>
+    <homeScoring period="2" timeMinutes="18" timeSeconds="45" goal="10" assist1="16" assist2="88"/>
+    <homeScoring period="2" timeMinutes="15" timeSeconds="44" goal="12" assist1="10" assist2="16"/>
+    <homeScoring period="2" timeMinutes="10" timeSeconds="13" goal="12" assist1="16" assist2="77"/>
+    <homeScoring period="2" timeMinutes="9" timeSeconds="11" goal="4" assist1="7" assist2="16"/>
+  </games>
+  <games gameNumber="33" date="2016-10-26T22:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME">
+    <homeScoring period="1" timeMinutes="20" timeSeconds="15" goal="11" assist1="10" assist2="8"/>
+    <homeScoring period="1" timeMinutes="16" timeSeconds="21" goal="11" assist1="10" assist2="2"/>
+    <awayPenalties period="2" number="15" minutes="2" code="BC" timeMinutes="12" timeSeconds="26"/>
+    <awayScoring period="1" timeMinutes="4" timeSeconds="50" goal="4" assist1="9" assist2="3"/>
+    <awayScoring period="2" timeMinutes="19" timeSeconds="40" goal="19" assist1="5" assist2="18"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="26" goal="8" assist1="9" assist2="6"/>
+  </games>
   <games gameNumber="34" date="2016-10-28T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="35" date="2016-10-28T22:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Eagleson Flooring" iceType="GAME"/>
   <games gameNumber="36" date="2016-11-02T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Kanata Renovations" iceType="GAME"/>
