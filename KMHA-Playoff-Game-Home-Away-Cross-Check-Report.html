@@ -2,25 +2,17 @@
 <html>
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="kanata-masters-logo.png" type="image/x-icon">
+<link rel="stylesheet" href="bootstrap.min.css"/>
+<link rel="stylesheet" href="bootstrap-theme.min.css"/>
 <style type="text/css">
-body { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #444; }
-h2 { font-size : 14pt; font-weight : bold; font-style : normal; }
-h3 { font-size : 12pt; font-weight : bold; font-style : normal; }
-p,ul { font-size : 12pt; }
-.footer { font-size : 8pt; }
-.bold { font-size : 12pt; font-weight : bold; }
-table { border-spacing: 0; }
-.header { background-color: gainsboro; font-weight: bold; }
-.rounded { border: solid darkgray 1px; border-radius: 7px; }
-.rounded td,th { border-left: 1px solid darkgray; border-top: 1px solid darkgray; padding: 5px; vertical-align: top;}
-.rounded th { background-color: gainsboro; border-top: none; text-align: left; }
-.rounded td:first-child, .rounded th:first-child { border-left: none; }
-.rounded th:first-child { border-radius: 7px 0 0 0; }
-.rounded th:last-child { border-radius: 0 7px 0 0; }
-.rounded th:only-child { border-radius: 7px 7px 0 0; }
-.rounded tr:last-child td:first-child { border-radius: 0 0 0 7px; }
-.rounded tr:last-child td:last-child { border-radius: 0 0 7px 0; }
+.view { background: url("kanata-masters-logo.png")no-repeat top left fixed; background-size: 400px 418px; }
+table th { background-color: #ddd; }
+.table-nomarginbottom { margin-bottom: 0; }
+.panel-nopadding { padding: 0; }
+.navbar-default .navbar-brand { font-weight: bold; color: #265a88; }
+.panel h4 { margin-top: 0; }
 .silver { background-color: silver; }
 .lightgreen { background-color: lightgreen; }
 .lightcyan { background-color: lightcyan; }
@@ -30,13 +22,22 @@ table { border-spacing: 0; }
 .lightpink { background-color: lightpink; }
 .lightcoral { background-color: lightcoral; }
 .lightgrey { background-color: lightgrey; }
-.right { text-align: right; }
 </style>
 <title>KMHA Playoff Game Home Away Cross Check Report</title>
 </head>
-<body>
-<h2>KMHA Playoff Game Home Away Cross Check Report</h2>
-<table class="rounded">
+<body class="view">
+<nav class="navbar navbar-default">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/">Kanata Masters Hockey Association 2016-2017</a>
+</div>
+</div>
+</nav>
+<div class="page">
+<div class="container">
+<div class="panel panel-primary">
+<div class="panel-body panel-nopadding">
+<table class="table table-nomarginbottom">
 <tr><th>Team</th><th>Home<br>Games</th><th>Away<br>Games</th><th>Games</th></tr>
 <tr><td>Eagleson Flooring</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Alley Cafe</td><td>0</td><td>0</td><td>0</td></tr>
@@ -45,5 +46,14 @@ table { border-spacing: 0; }
 <tr><td>Kanata Renovations</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Urban Stone Surfaces</td><td>0</td><td>0</td><td>0</td></tr>
 </table>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="container">
+<span class="copyright pull-right">&#169; 2016 Kanata Masters Hockey Association. All rights reserved.</span>
+</div>
+</div>
 </body>
 </html>
