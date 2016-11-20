@@ -90,10 +90,11 @@
   <players playerName="Spare Two" team="Eagleson Flooring" jerseyNumber="19"/>
   <players playerName="Spare Two" team="Alley Cafe" jerseyNumber="32"/>
   <players playerName="Spare One" team="Young Drivers" jerseyNumber="99"/>
-  <players playerName="Spare One" team="Alley Cafe" jerseyNumber="11"/>
+  <players playerName="Spare One" team="Alley Cafe" jerseyNumber="13"/>
   <players playerName="Spare One" team="Freedom 55" jerseyNumber="99"/>
   <players playerName="Spare One" team="Kanata Renovations" jerseyNumber="8"/>
   <players playerName="Kevin MacDougall" team="Young Drivers" jerseyNumber="10"/>
+  <players playerName="Gilles Mongeon" team="Alley Cafe" jerseyNumber="11"/>
   <games gameNumber="1" date="2016-09-07T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Kanata Renovations" iceType="GAME">
     <homePenalties period="1" number="2" minutes="2" code="SL" timeMinutes="6" timeSeconds="43"/>
     <homePenalties period="1" number="19" minutes="2" code="TR" timeSeconds="5"/>
