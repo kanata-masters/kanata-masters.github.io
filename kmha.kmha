@@ -448,6 +448,8 @@
   </games>
   <games gameNumber="36" date="2016-11-02T21:00:00.000-0400" arena="KRC Arena" home="Alley Cafe" away="Kanata Renovations" iceType="GAME">
     <homePenalties period="2" number="27" minutes="2" code="SL" timeMinutes="1" timeSeconds="35"/>
+    <homeScoring period="1" timeMinutes="20" goal="13"/>
+    <homeScoring period="1" timeMinutes="16" goal="13"/>
     <homeScoring period="2" timeMinutes="6" timeSeconds="37" goal="7" assist1="16"/>
     <homeScoring period="2" timeMinutes="5" timeSeconds="23" goal="7" assist1="4"/>
     <awayPenalties period="1" number="9" minutes="2" code="SL" timeMinutes="2" timeSeconds="20"/>
@@ -568,21 +570,21 @@
     <awayScoring period="1" timeMinutes="5" goal="16" assist1="7"/>
   </games>
   <games gameNumber="49" date="2016-11-23T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME">
-    <homeScoring period="1" goal="11" assist1="10" assist2="12" timeMinutes="03" timeSeconds="02"/>
-    <homeScoring period="2" goal="10" assist1="14" assist2="11" timeMinutes="12" timeSeconds="10"/>
-    <homeScoring period="2" goal="9" assist1="12" assist2="1" timeMinutes="10" timeSeconds="29"/>
-    <awayScoring period="2" goal="2" assist1="3" assist2="12" timeMinutes="07" timeSeconds="16"/>
-    <homeScoring period="2" goal="10" assist1="7" assist2="4" timeMinutes="01" timeSeconds="13"/>
+    <homeScoring period="1" timeMinutes="3" timeSeconds="2" goal="11" assist1="10" assist2="12"/>
+    <homeScoring period="2" timeMinutes="12" timeSeconds="10" goal="10" assist1="14" assist2="11"/>
+    <homeScoring period="2" timeMinutes="10" timeSeconds="29" goal="9" assist1="12" assist2="1"/>
+    <homeScoring period="2" timeMinutes="1" timeSeconds="13" goal="10" assist1="7" assist2="4"/>
     <awayPenalties period="2" number="19" minutes="2" code="INT" timeMinutes="14" timeSeconds="40"/>
+    <awayScoring period="2" timeMinutes="7" timeSeconds="16" goal="2" assist1="3" assist2="12"/>
   </games>
   <games gameNumber="50" date="2016-11-23T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Freedom 55" iceType="GAME">
-    <homeScoring period="1" goal="11" assist1="88" assist2="9" timeMinutes="09" timeSeconds="32"/>
-    <awayScoring period="1" goal="4" timeMinutes="03" timeSeconds="54"/>
-    <awayPenalties period="2" number="2" minutes="2" code="BC" timeMinutes="06" timeSeconds="06"/>
-    <awayPenalties period="2" number="5" minutes="2" code="SL" timeMinutes="02" timeSeconds="00"/>
-    <homePenalties period="2" number="88" minutes="2" code="CC" timeMinutes="02" timeSeconds="00"/>
-    <awayPenalties period="2" number="8" minutes="2" code="HO" timeMinutes="01" timeSeconds="12"/>
-    <homePenalties period="2" number="12" minutes="2" code="HO" timeMinutes="01" timeSeconds="12"/>
+    <homePenalties period="2" number="88" minutes="2" code="CC" timeMinutes="2"/>
+    <homePenalties period="2" number="12" minutes="2" code="HO" timeMinutes="1" timeSeconds="12"/>
+    <homeScoring period="1" timeMinutes="9" timeSeconds="32" goal="11" assist1="88" assist2="9"/>
+    <awayPenalties period="2" number="2" minutes="2" code="BC" timeMinutes="6" timeSeconds="6"/>
+    <awayPenalties period="2" number="5" minutes="2" code="SL" timeMinutes="2"/>
+    <awayPenalties period="2" number="8" minutes="2" code="HO" timeMinutes="1" timeSeconds="12"/>
+    <awayScoring period="1" timeMinutes="3" timeSeconds="54" goal="4"/>
   </games>
   <games gameNumber="51" date="2016-11-25T21:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Eagleson Flooring" iceType="GAME"/>
   <games gameNumber="52" date="2016-11-25T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
