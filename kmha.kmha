@@ -665,8 +665,21 @@
     <awayScoring period="2" timeMinutes="12" timeSeconds="57" goal="3"/>
     <awayScoring period="2" timeMinutes="2" timeSeconds="26" goal="13" assist1="11" assist2="5"/>
   </games>
-  <games gameNumber="58" date="2016-12-07T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
-  <games gameNumber="59" date="2016-12-07T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="58" date="2016-12-07T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="GAME">
+    <homeScoring period="1" goal="9" assist1="6" timeMinutes="14" timeSeconds="20"/> 
+    <homeScoring period="1" goal="6" timeMinutes="08" timeSeconds="31"/> 
+    <awayScoring period="1" goal="15" timeMinutes="05" timeSeconds="37"/> 
+    <homeScoring period="2" goal="14" assist1="9" assist2="12" timeMinutes="20" timeSeconds="38"/> 
+    <homeScoring period="2" goal="19" assist1="7" timeMinutes="18" timeSeconds="15"/> 
+    <homeScoring period="2" goal="7" assist1="15" assist2="19" timeMinutes="16" timeSeconds="35"/> 
+  </games>
+  <games gameNumber="59" date="2016-12-07T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME">
+    <awayScoring period="1" goal="12" assist1="11" timeMinutes="05" timeSeconds="25"/> 
+    <awayPenalties period="1" number="13" minutes="2" code="TR" timeMinutes="07" timeSeconds="08"/> 
+    <homeScoring period="2" goal="19" assist1="10" timeMinutes="12" timeSeconds="29"/> 
+    <homeScoring period="2" goal="10" assist1="7" assist2="19" timeMinutes="00" timeSeconds="50"/> 
+    <awayPenalties period="2" number="11" minutes="2" code="INT" timeMinutes="02" timeSeconds="00"/> 
+  </games>
   <games gameNumber="60" date="2016-12-09T21:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="61" date="2016-12-09T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
   <games gameNumber="62" date="2016-12-14T21:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Young Drivers" iceType="GAME"/>
