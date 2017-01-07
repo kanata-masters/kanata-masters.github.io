@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <com.ahunter.kmha:League xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Kanata Masters">
-  <players playerName="Al Bergeron" team="Eagleson Flooring" jerseyNumber="1"/>
+  <players playerName="Al Bergeron" team="Eagleson Flooring" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Alain Langlois" team="Eagleson Flooring" jerseyNumber="10"/>
   <players playerName="Alan King" team="Kanata Renovations" jerseyNumber="5"/>
   <players playerName="Alan Palmer" team="Alley Cafe" jerseyNumber="5"/>
