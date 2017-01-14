@@ -90,8 +90,8 @@
   <players playerName="Spare One" team="Alley Cafe" jerseyNumber="13"/>
   <players playerName="Spare One" team="Freedom 55" jerseyNumber="99"/>
   <players playerName="Spare One" team="Kanata Renovations" jerseyNumber="98"/>
-  <players playerName="Spare Two" team="Eagleson Flooring" jerseyNumber="19"/>
   <players playerName="Spare One" team="Young Drivers" jerseyNumber="2"/>
+  <players playerName="Spare Two" team="Eagleson Flooring" jerseyNumber="19"/>
   <players playerName="Spare Two" team="Alley Cafe" jerseyNumber="32"/>
   <players playerName="Steve Hodgdon" team="Kanata Renovations" jerseyNumber="17"/>
   <players playerName="Steve Lamarche" team="Young Drivers" jerseyNumber="8"/>
@@ -778,8 +778,22 @@
     <awayScoring period="2" timeMinutes="17" timeSeconds="40" goal="8" assist1="9" assist2="3"/>
     <awayScoring period="2" timeMinutes="9" goal="5" assist1="19" assist2="6"/>
   </games>
-  <games gameNumber="71" date="2017-01-11T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
-  <games gameNumber="72" date="2017-01-11T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="71" date="2017-01-11T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME">
+    <homePenalties period="2" number="6" minutes="2" code="TR" timeMinutes="16" timeSeconds="25"/>
+    <homeScoring period="1" timeMinutes="13" timeSeconds="54" goal="14" assist1="4"/>
+    <homeScoring period="1" timeMinutes="5" timeSeconds="9" goal="13" assist1="4" assist2="14"/>
+    <awayPenalties period="2" number="6" minutes="2" code="HS" timeMinutes="3" timeSeconds="31"/>
+    <awayPenalties period="2" number="15" minutes="2" code="CC" timeMinutes="1" timeSeconds="35"/>
+    <awayScoring period="1" timeMinutes="10" timeSeconds="32" goal="4" assist1="2" assist2="11"/>
+    <awayScoring period="2" timeMinutes="7" timeSeconds="52" goal="19" assist1="9" assist2="1"/>
+    <awayScoring period="2" timeMinutes="4" timeSeconds="27" goal="2" assist1="11" assist2="6"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="18" goal="2"/>
+  </games>
+  <games gameNumber="72" date="2017-01-11T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Alley Cafe" iceType="GAME">
+    <homePenalties period="2" number="8" minutes="2" code="INT" timeMinutes="8" timeSeconds="29"/>
+    <homeScoring period="2" timeMinutes="3" timeSeconds="11" goal="16"/>
+    <awayScoring period="2" timeMinutes="4" timeSeconds="35" goal="77" assist1="8" assist2="5"/>
+  </games>
   <games gameNumber="73" date="2017-01-13T21:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Urban Stone Surfaces" iceType="GAME"/>
   <games gameNumber="74" date="2017-01-13T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
   <games gameNumber="75" date="2017-01-13T23:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
