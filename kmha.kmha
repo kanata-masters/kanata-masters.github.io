@@ -826,8 +826,20 @@
     <awayScoring period="2" timeMinutes="21" timeSeconds="20" goal="88" assist1="98"/>
     <awayScoring period="2" timeMinutes="14" timeSeconds="47" goal="10" assist1="19" assist2="7"/>
   </games>
-  <games gameNumber="76" date="2017-01-18T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
-  <games gameNumber="77" date="2017-01-18T22:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="76" date="2017-01-18T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME">
+    <homePenalties period="1" number="12" minutes="2" code="HKG" timeSeconds="1"/>
+    <homeScoring period="1" timeMinutes="5" timeSeconds="47" goal="7" assist1="2" assist2="6"/>
+    <homeScoring period="2" timeMinutes="7" timeSeconds="49" goal="7" assist1="15"/>
+    <awayPenalties period="2" number="12" minutes="2" code="TR" timeMinutes="4" timeSeconds="45"/>
+    <awayScoring period="1" timeMinutes="12" timeSeconds="54" goal="19" assist1="5" assist2="8"/>
+    <awayScoring period="1" timeMinutes="1" timeSeconds="54" goal="6" assist1="12"/>
+    <awayScoring period="2" timeMinutes="10" timeSeconds="20" goal="6" assist1="12" assist2="18"/>
+  </games>
+  <games gameNumber="77" date="2017-01-18T22:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Alley Cafe" iceType="GAME">
+    <homePenalties period="2" number="10" minutes="2" code="HO" timeMinutes="8" timeSeconds="28"/>
+    <homeScoring period="2" timeMinutes="11" timeSeconds="26" goal="9" assist1="5" assist2="7"/>
+    <awayScoring period="1" timeMinutes="14" timeSeconds="2" goal="6" assist1="32" assist2="8"/>
+  </games>
   <games gameNumber="78" date="2017-01-20T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
   <games gameNumber="79" date="2017-01-20T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME"/>
   <games gameNumber="80" date="2017-01-25T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
