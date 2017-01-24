@@ -840,8 +840,20 @@
     <homeScoring period="2" timeMinutes="11" timeSeconds="26" goal="9" assist1="5" assist2="7"/>
     <awayScoring period="1" timeMinutes="14" timeSeconds="2" goal="6" assist1="32" assist2="8"/>
   </games>
-  <games gameNumber="78" date="2017-01-20T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
-  <games gameNumber="79" date="2017-01-20T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="78" date="2017-01-20T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME">
+    <homePenalties period="2" number="11" minutes="2" code="HO" timeMinutes="13" timeSeconds="24"/>
+    <homeScoring period="1" timeMinutes="12" timeSeconds="47" goal="7" assist1="19" assist2="12"/>
+    <homeScoring period="2" timeMinutes="16" timeSeconds="49" goal="6" assist1="3" assist2="12"/>
+    <awayPenalties period="2" number="14" minutes="2" code="HO" timeMinutes="18" timeSeconds="4"/>
+    <awayPenalties period="2" number="15" minutes="2" code="HS" timeMinutes="7" timeSeconds="38"/>
+    <awayScoring period="1" timeMinutes="6" timeSeconds="8" goal="4"/>
+  </games>
+  <games gameNumber="79" date="2017-01-20T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME">
+    <homePenalties period="2" number="19" minutes="2" code="TR" timeMinutes="15" timeSeconds="24"/>
+    <homeScoring period="1" timeMinutes="7" timeSeconds="19" goal="19" assist1="15" assist2="13"/>
+    <homeScoring period="1" timeMinutes="4" timeSeconds="50" goal="2" assist1="9"/>
+    <awayScoring period="2" timeMinutes="10" timeSeconds="10" goal="6" assist1="16" assist2="12"/>
+  </games>
   <games gameNumber="80" date="2017-01-25T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Alley Cafe" iceType="GAME"/>
   <games gameNumber="81" date="2017-01-25T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
   <games gameNumber="82" date="2017-01-27T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
