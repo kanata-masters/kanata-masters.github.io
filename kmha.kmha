@@ -871,8 +871,24 @@
     <awayScoring period="1" timeMinutes="2" timeSeconds="52" goal="11" assist1="14" assist2="12"/>
     <awayScoring period="2" timeMinutes="22" timeSeconds="33" goal="9" assist1="15" assist2="4"/>
   </games>
-  <games gameNumber="82" date="2017-01-27T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
-  <games gameNumber="83" date="2017-01-27T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="82" date="2017-01-27T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME">
+    <homePenalties period="2" number="11" minutes="2" code="HS" timeSeconds="10"/>
+    <homeScoring period="1" timeMinutes="18" timeSeconds="45" goal="9" assist1="11" assist2="7"/>
+    <homeScoring period="1" timeMinutes="10" timeSeconds="52" goal="11" assist1="13"/>
+    <homeScoring period="1" timeMinutes="8" timeSeconds="32" goal="10"/>
+    <homeScoring period="1" timeMinutes="1" goal="10" assist1="9"/>
+    <homeScoring period="2" timeMinutes="15" timeSeconds="51" goal="5" assist1="4"/>
+    <homeScoring period="2" timeMinutes="13" timeSeconds="19" goal="9" assist1="4" assist2="10"/>
+    <homeScoring period="2" timeMinutes="2" timeSeconds="31" goal="14" assist1="5" assist2="11"/>
+    <awayScoring period="1" timeMinutes="9" timeSeconds="26" goal="10"/>
+    <awayScoring period="2" timeMinutes="9" timeSeconds="10" goal="14" assist1="4" assist2="16"/>
+  </games>
+  <games gameNumber="83" date="2017-01-27T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME">
+    <awayPenalties period="2" number="5" minutes="2" code="BC" timeMinutes="16" timeSeconds="40"/>
+    <homePenalties period="2" number="11" minutes="2" code="TR" timeMinutes="7" timeSeconds="14"/>
+    <awayScoring period="2" timeMinutes="18" timeSeconds="41" goal="19" assist1="8" assist2="9"/>
+    <homeScoring period="2" timeMinutes="16" timeSeconds="27" goal="10" assist1="7"/>
+  </games>
   <games gameNumber="84" date="2017-02-01T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
   <games gameNumber="85" date="2017-02-01T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="GAME"/>
   <games gameNumber="86" date="2017-02-03T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
