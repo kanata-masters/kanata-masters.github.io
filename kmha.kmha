@@ -909,9 +909,30 @@
     <awayPenalties period="1" number="88" minutes="2" code="RO" timeMinutes="11" timeSeconds="57"/>
     <awayScoring period="1" timeMinutes="17" timeSeconds="52" goal="88" assist1="9" assist2="10"/>
   </games>
-  <games gameNumber="86" date="2017-02-03T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
-  <games gameNumber="87" date="2017-02-03T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
-  <games gameNumber="88" date="2017-02-03T23:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="86" date="2017-02-03T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME">
+    <homeScoring period="1" timeMinutes="12" timeSeconds="10" goal="19" assist1="6" assist2="5"/>
+    <homeScoring period="1" timeMinutes="11" timeSeconds="27" goal="6" assist1="19" assist2="10"/>
+    <homeScoring period="2" timeMinutes="12" timeSeconds="7" goal="5" assist1="6" assist2="9"/>
+    <homeScoring period="2" timeMinutes="10" timeSeconds="23" goal="2" assist1="15" assist2="11"/>
+    <homeScoring period="2" timeMinutes="2" goal="2" assist1="3" assist2="19"/>
+    <awayScoring period="1" timeMinutes="13" timeSeconds="46" goal="11" assist1="7"/>
+    <awayScoring period="2" timeMinutes="16" timeSeconds="25" goal="13" assist1="12" assist2="6"/>
+    <awayScoring period="2" timeSeconds="21" goal="3" assist1="8" assist2="4"/>
+  </games>
+  <games gameNumber="87" date="2017-02-03T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME">
+    <homeScoring period="1" timeSeconds="23" goal="12" assist1="8" assist2="4"/>
+    <homeScoring period="2" timeSeconds="41" goal="15" assist1="14"/>
+    <awayPenalties period="1" number="6" minutes="2" code="HKG" timeMinutes="17" timeSeconds="24"/>
+    <awayPenalties period="2" minutes="2" code="TMP" timeMinutes="12" timeSeconds="1"/>
+    <awayPenalties period="2" number="10" minutes="2" code="SL" timeMinutes="1" timeSeconds="55"/>
+    <awayScoring period="2" timeMinutes="4" timeSeconds="29" goal="10" assist1="9"/>
+  </games>
+  <games gameNumber="88" date="2017-02-03T23:30:00.000-0500" arena="KRC Rink" home="Alley Cafe" away="Freedom 55" iceType="GAME">
+    <homeScoring period="2" timeMinutes="17" timeSeconds="58" goal="27" assist1="5" assist2="6"/>
+    <awayPenalties period="2" number="10" minutes="2" code="BC" timeMinutes="10" timeSeconds="51"/>
+    <awayScoring period="2" timeMinutes="14" timeSeconds="2" goal="14" assist1="12" assist2="16"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="20" goal="10" assist1="5" assist2="7"/>
+  </games>
   <games gameNumber="89" date="2017-02-08T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
   <games gameNumber="90" date="2017-02-08T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
   <games gameNumber="91" date="2017-02-10T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Alley Cafe" iceType="GAME"/>
