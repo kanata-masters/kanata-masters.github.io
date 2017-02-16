@@ -972,8 +972,11 @@
     <awayScoring period="1" timeMinutes="5" timeSeconds="8" goal="11" assist1="4" assist2="12"/>
     <awayScoring period="2" timeSeconds="17" goal="11" assist1="4" assist2="16"/>
   </games>
-  <games gameNumber="93" date="2017-02-15T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
-  <games gameNumber="94" date="2017-02-15T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="93" date="2017-02-15T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Freedom 55" iceType="GAME" note="0-0 tie"/>
+  <games gameNumber="94" date="2017-02-15T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME">
+    <awayScoring period="2" timeMinutes="18" timeSeconds="51" goal="11" assist1="5" assist2="2"/>
+    <awayScoring period="2" timeMinutes="17" timeSeconds="37" goal="19"/>
+  </games>
   <games gameNumber="95" date="2017-02-17T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Alley Cafe" iceType="GAME"/>
   <games gameNumber="96" date="2017-02-17T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
   <games gameNumber="97" date="2017-02-22T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
