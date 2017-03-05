@@ -1052,8 +1052,25 @@
     <homeScoring period="2" timeMinutes="2" timeSeconds="55" goal="10" assist1="98"/>
     <awayScoring period="2" timeMinutes="11" goal="5" assist1="9" assist2="8"/>
   </games>
-  <games gameNumber="102" date="2017-03-01T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
-  <games gameNumber="103" date="2017-03-01T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="GAME"/>
+  <games gameNumber="102" date="2017-03-01T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME">
+    <homePenalties period="1" number="10" minutes="2" code="INT" timeMinutes="4" timeSeconds="45"/>
+    <homePenalties period="1" number="19" minutes="2" code="HS" timeMinutes="3" timeSeconds="52"/>
+    <homePenalties period="1" number="12" minutes="2" code="RO" timeMinutes="1" timeSeconds="33"/>
+    <homeScoring period="2" timeMinutes="19" timeSeconds="56" goal="14" assist1="12" assist2="15"/>
+    <awayPenalties period="1" number="4" minutes="2" code="RO" timeMinutes="1" timeSeconds="33"/>
+    <awayPenalties period="2" number="5" minutes="2" code="SL" timeMinutes="21" timeSeconds="13"/>
+    <awayScoring period="1" timeMinutes="3" timeSeconds="12" goal="6" assist1="9" assist2="7"/>
+    <awayScoring period="2" timeMinutes="7" timeSeconds="35" goal="7" assist1="15"/>
+  </games>
+  <games gameNumber="103" date="2017-03-01T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="GAME">
+    <homePenalties period="1" number="19" minutes="2" code="HKG" timeMinutes="15" timeSeconds="9"/>
+    <homeScoring period="2" timeMinutes="19" timeSeconds="28" goal="12" assist1="10" assist2="19"/>
+    <awayPenalties period="1" number="6" minutes="2" code="HKG" timeMinutes="7" timeSeconds="35"/>
+    <awayScoring period="1" timeMinutes="17" timeSeconds="16" goal="55" assist1="88" assist2="77"/>
+    <awayScoring period="2" timeMinutes="20" timeSeconds="27" goal="16" assist1="7" assist2="6"/>
+    <awayScoring period="2" timeMinutes="16" timeSeconds="32" goal="4" assist1="16"/>
+    <awayScoring period="2" timeMinutes="14" timeSeconds="1" goal="55" assist1="88" assist2="5"/>
+  </games>
   <games gameNumber="104" date="2017-03-03T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
   <games gameNumber="105" date="2017-03-03T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
   <games gameNumber="1" date="2017-03-08T21:00:00.000-0500" arena="KRC Arena" home="Alley Cafe" away="Eagleson Flooring" iceType="PLAYOFF"/>
