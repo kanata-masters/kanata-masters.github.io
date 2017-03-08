@@ -357,9 +357,9 @@ BEGIN:VEVENT
 UID: KMHA-GAME-14
 DTSTAMP:20160911T235900
 DTSTART;TZID=America/Toronto:20170329T210000
-LOCATION:Stittsville Main Arena
+LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 14 at 9:00PM versus Kanata Renovations at Stittsville Main Arena
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 14 at 9:00PM versus Kanata Renovations at KRC Arena
 DTEND;TZID=America/Toronto:20170329T220000
 END:VEVENT
 END:VCALENDAR

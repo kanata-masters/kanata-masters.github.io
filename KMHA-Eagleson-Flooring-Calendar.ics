@@ -347,19 +347,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-12
 DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170324T213000
-LOCATION:KRC Rink
-SUMMARY:Kanata Renovations at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 12 at 9:30PM versus Kanata Renovations at KRC Rink
-DTEND;TZID=America/Toronto:20170324T223000
+DTSTART;TZID=America/Toronto:20170324T180000
+LOCATION:KRC Arena
+SUMMARY:Kanata Renovations at 6:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 12 at 6:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20170324T190000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-15
 DTSTAMP:20160911T235900
 DTSTART;TZID=America/Toronto:20170329T220000
-LOCATION:Jack Charron
+LOCATION:KRC Arena
 SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 15 at 10:00PM versus Freedom 55 at Jack Charron
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 15 at 10:00PM versus Freedom 55 at KRC Arena
 DTEND;TZID=America/Toronto:20170329T230000
 END:VEVENT
 END:VCALENDAR

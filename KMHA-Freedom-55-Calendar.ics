@@ -357,9 +357,9 @@ BEGIN:VEVENT
 UID: KMHA-GAME-15
 DTSTAMP:20160911T235900
 DTSTART;TZID=America/Toronto:20170329T220000
-LOCATION:Jack Charron
+LOCATION:KRC Arena
 SUMMARY:Eagleson Flooring at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Freedom 55 game number 15 at 10:00PM versus Eagleson Flooring at Jack Charron
+DESCRIPTION: Kanata Masters Hockey: Freedom 55 game number 15 at 10:00PM versus Eagleson Flooring at KRC Arena
 DTEND;TZID=America/Toronto:20170329T230000
 END:VEVENT
 END:VCALENDAR

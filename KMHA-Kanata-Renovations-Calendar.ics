@@ -347,19 +347,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-12
 DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170324T213000
-LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 12 at 9:30PM versus Eagleson Flooring at KRC Rink
-DTEND;TZID=America/Toronto:20170324T223000
+DTSTART;TZID=America/Toronto:20170324T180000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 6:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 12 at 6:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20170324T190000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-14
 DTSTAMP:20160911T235900
 DTSTART;TZID=America/Toronto:20170329T210000
-LOCATION:Stittsville Main Arena
+LOCATION:KRC Arena
 SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 14 at 9:00PM versus Young Drivers at Stittsville Main Arena
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 14 at 9:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20170329T220000
 END:VEVENT
 END:VCALENDAR
