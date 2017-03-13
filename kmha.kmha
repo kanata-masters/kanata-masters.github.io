@@ -1113,8 +1113,22 @@
     <awayScoring period="1" timeMinutes="14" timeSeconds="52" goal="13"/>
     <awayScoring period="2" timeMinutes="16" timeSeconds="32" goal="13" assist1="8"/>
   </games>
-  <games gameNumber="3" date="2017-03-10T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="PLAYOFF"/>
-  <games gameNumber="4" date="2017-03-10T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="PLAYOFF"/>
+  <games gameNumber="3" date="2017-03-10T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="PLAYOFF">
+    <homePenalties period="1" number="12" minutes="2" code="TR" timeMinutes="11" timeSeconds="57"/>
+    <homePenalties period="2" number="4" minutes="2" code="DG" timeMinutes="17" timeSeconds="19"/>
+    <homePenalties period="2" number="15" minutes="2" code="RO" timeMinutes="16" timeSeconds="24"/>
+    <homeScoring period="1" timeMinutes="4" timeSeconds="17" goal="19"/>
+    <homeScoring period="1" timeMinutes="2" timeSeconds="28" goal="2" assist1="3" assist2="6"/>
+    <homeScoring period="2" timeSeconds="13" goal="3"/>
+  </games>
+  <games gameNumber="4" date="2017-03-10T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="PLAYOFF">
+    <homePenalties period="2" number="10" minutes="2" code="HKG" timeMinutes="15" timeSeconds="30"/>
+    <homePenalties period="2" number="13" minutes="2" code="HKG" timeMinutes="11" timeSeconds="57"/>
+    <homePenalties period="2" number="6" minutes="2" code="SL" timeMinutes="3" timeSeconds="38"/>
+    <homePenalties period="2" number="13" minutes="2" code="TR" timeSeconds="19"/>
+    <awayPenalties period="1" number="12" minutes="2" code="HKG" timeMinutes="13" timeSeconds="32"/>
+    <awayPenalties period="2" number="4" minutes="2" code="HKG" timeMinutes="4" timeSeconds="54"/>
+  </games>
   <games gameNumber="5" date="2017-03-15T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="PLAYOFF"/>
   <games gameNumber="6" date="2017-03-15T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Alley Cafe" iceType="PLAYOFF"/>
   <games gameNumber="7" date="2017-03-17T21:30:00.000-0400" arena="KRC Rink" home="Alley Cafe" away="Young Drivers" iceType="PLAYOFF"/>
