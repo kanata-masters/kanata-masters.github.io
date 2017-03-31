@@ -362,4 +362,13 @@ SUMMARY:Eagleson Flooring at 10:00PM
 DESCRIPTION: Kanata Masters Hockey: Freedom 55 game number 15 at 10:00PM versus Eagleson Flooring at KRC Arena
 DTEND;TZID=America/Toronto:20170329T230000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-16
+DTSTAMP:20160911T235900
+DTSTART;TZID=America/Toronto:20170331T170000
+LOCATION:John Mlacak
+SUMMARY:Kanata Renovations at 5:00PM
+DESCRIPTION: Kanata Masters Hockey: Freedom 55 game number 16 at 5:00PM versus Kanata Renovations at John Mlacak
+DTEND;TZID=America/Toronto:20170331T180000
+END:VEVENT
 END:VCALENDAR

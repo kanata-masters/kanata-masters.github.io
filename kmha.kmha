@@ -1218,10 +1218,32 @@
     <homeScoring period="2" timeSeconds="6" goal="6" assist1="19"/>
     <awayScoring period="2" timeMinutes="2" timeSeconds="11" goal="77" assist1="16"/>
   </games>
-  <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="PLAYOFF"/>
-  <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="PLAYOFF"/>
-  <games gameNumber="16" date="2017-03-31T17:00:00.000-0400" arena="John Mlacak" home="Second" away="Third" iceType="FINALS"/>
-  <games gameNumber="17" date="2017-03-31T17:30:00.000-0400" arena="KRC Rink" home="First" away="Fourth" iceType="FINALS"/>
-  <games gameNumber="18" date="2017-03-31T18:00:00.000-0400" arena="John Mlacak" home="Fifth" away="Sixth" iceType="FINALS"/>
+  <games gameNumber="14" date="2017-03-29T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="PLAYOFF">
+    <homePenalties period="1" number="10" minutes="2" code="HKG" timeMinutes="15" timeSeconds="29"/>
+    <homePenalties period="1" number="7" minutes="2" code="RO" timeMinutes="11" timeSeconds="36"/>
+    <homePenalties period="2" minutes="2" code="TMP" timeSeconds="48"/>
+    <homePenalties period="2" minutes="2" code="TMP" timeSeconds="33"/>
+    <homeScoring period="1" timeMinutes="16" timeSeconds="40" goal="10" assist1="13" assist2="7"/>
+    <awayPenalties period="1" number="19" minutes="2" code="SL" timeMinutes="11" timeSeconds="46"/>
+    <awayPenalties period="1" number="9" minutes="2" code="HO" timeMinutes="5" timeSeconds="31"/>
+    <awayPenalties period="1" number="5" minutes="2" code="TR" timeMinutes="2" timeSeconds="42"/>
+    <awayPenalties period="2" number="7" minutes="2" code="BC" timeMinutes="12" timeSeconds="14"/>
+    <awayScoring period="1" timeMinutes="1" timeSeconds="15" goal="10"/>
+    <awayScoring period="2" timeMinutes="19" timeSeconds="24" goal="88" assist1="7" assist2="8"/>
+    <awayScoring period="2" timeMinutes="16" timeSeconds="16" goal="10" assist1="7" assist2="12"/>
+  </games>
+  <games gameNumber="15" date="2017-03-29T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="PLAYOFF">
+    <homePenalties period="1" number="5" minutes="2" code="TR" timeMinutes="13" timeSeconds="8"/>
+    <homePenalties period="2" number="4" minutes="2" code="TR" timeMinutes="17" timeSeconds="58"/>
+    <homeScoring period="1" timeMinutes="4" timeSeconds="26" goal="55" assist1="14" assist2="13"/>
+    <homeScoring period="2" timeMinutes="14" timeSeconds="36" goal="6" assist1="55"/>
+    <awayScoring period="1" timeMinutes="21" timeSeconds="14" goal="4" assist1="11" assist2="16"/>
+    <awayScoring period="1" timeMinutes="11" timeSeconds="29" goal="8"/>
+    <awayScoring period="2" timeMinutes="15" timeSeconds="27" goal="16" assist1="11" assist2="4"/>
+    <awayScoring period="2" timeMinutes="3" timeSeconds="36" goal="4"/>
+  </games>
+  <games gameNumber="16" date="2017-03-31T17:00:00.000-0400" arena="John Mlacak" home="Freedom 55" away="Kanata Renovations" iceType="FINALS"/>
+  <games gameNumber="17" date="2017-03-31T17:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="&#x9;Eagleson Flooring" iceType="FINALS"/>
+  <games gameNumber="18" date="2017-03-31T18:00:00.000-0400" arena="John Mlacak" home="Alley Cafe" away="Young Drivers" iceType="FINALS"/>
   <games gameNumber="19" date="2017-03-31T19:00:00.000-0400" arena="KRC Arena" home="Winner 16" away="Winner 17" iceType="FINALS"/>
 </com.ahunter.kmha:League>

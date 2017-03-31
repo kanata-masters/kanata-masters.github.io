@@ -362,4 +362,13 @@ SUMMARY:Young Drivers at 9:00PM
 DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 14 at 9:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20170329T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-16
+DTSTAMP:20160911T235900
+DTSTART;TZID=America/Toronto:20170331T170000
+LOCATION:John Mlacak
+SUMMARY:Freedom 55 at 5:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 16 at 5:00PM versus Freedom 55 at John Mlacak
+DTEND;TZID=America/Toronto:20170331T180000
+END:VEVENT
 END:VCALENDAR

@@ -362,4 +362,13 @@ SUMMARY:Urban Stone Surfaces at 7:00PM
 DESCRIPTION: Kanata Masters Hockey: Alley Cafe game number 13 at 7:00PM versus Urban Stone Surfaces at KRC Arena
 DTEND;TZID=America/Toronto:20170324T200000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-18
+DTSTAMP:20160911T235900
+DTSTART;TZID=America/Toronto:20170331T180000
+LOCATION:John Mlacak
+SUMMARY:Young Drivers at 6:00PM
+DESCRIPTION: Kanata Masters Hockey: Alley Cafe game number 18 at 6:00PM versus Young Drivers at John Mlacak
+DTEND;TZID=America/Toronto:20170331T190000
+END:VEVENT
 END:VCALENDAR
