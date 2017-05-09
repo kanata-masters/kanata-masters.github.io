@@ -1242,8 +1242,19 @@
     <awayScoring period="2" timeMinutes="15" timeSeconds="27" goal="16" assist1="11" assist2="4"/>
     <awayScoring period="2" timeMinutes="3" timeSeconds="36" goal="4"/>
   </games>
-  <games gameNumber="16" date="2017-03-31T17:00:00.000-0400" arena="John Mlacak" home="Freedom 55" away="Kanata Renovations" iceType="FINALS"/>
-  <games gameNumber="17" date="2017-03-31T17:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="&#x9;Eagleson Flooring" iceType="FINALS"/>
+  <games gameNumber="16" date="2017-03-31T17:00:00.000-0400" arena="John Mlacak" home="Freedom 55" away="Kanata Renovations" iceType="FINALS">
+    <awayScoring/>
+  </games>
+  <games gameNumber="17" date="2017-03-31T17:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="FINALS">
+    <homeScoring/>
+    <awayScoring/>
+    <awayScoring/>
+  </games>
   <games gameNumber="18" date="2017-03-31T18:00:00.000-0400" arena="John Mlacak" home="Alley Cafe" away="Young Drivers" iceType="FINALS"/>
-  <games gameNumber="19" date="2017-03-31T19:00:00.000-0400" arena="KRC Arena" home="Winner 16" away="Winner 17" iceType="FINALS"/>
+  <games gameNumber="19" date="2017-03-31T19:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="FINALS">
+    <homeScoring/>
+    <awayScoring/>
+    <awayScoring/>
+    <awayScoring/>
+  </games>
 </com.ahunter.kmha:League>
