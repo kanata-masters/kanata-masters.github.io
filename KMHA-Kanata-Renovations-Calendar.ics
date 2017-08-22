@@ -4,380 +4,317 @@ X-WR-TIMEZONE:America/Toronto
 PRODID:Kanata Masters Hockey Association
 BEGIN:VEVENT
 UID: KMHA-GAME-1
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20160907T210000
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20170906T210000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 1 at 9:00PM versus Freedom 55 at KRC Arena
-DTEND;TZID=America/Toronto:20160907T220000
+SUMMARY:Urban Stone Surfaces at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 1 at 9:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20170906T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-4
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20160909T223000
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20170908T223000
 LOCATION:KRC Rink
-SUMMARY:Alley Cafe at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 4 at 10:30PM versus Alley Cafe at KRC Rink
-DTEND;TZID=America/Toronto:20160909T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-9
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20160916T233000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 9 at 11:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20160917T003000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-10
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20160921T210000
-LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 10 at 9:00PM versus Eagleson Flooring at KRC Arena
-DTEND;TZID=America/Toronto:20160921T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-13
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20160923T223000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 13 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20160923T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-15
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20160928T220000
-LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 15 at 10:00PM versus Freedom 55 at KRC Arena
-DTEND;TZID=America/Toronto:20160928T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-21
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161007T223000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 21 at 10:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20161007T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-23
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161012T210000
-LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 23 at 9:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20161012T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-26
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161014T223000
-LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 26 at 10:30PM versus Eagleson Flooring at KRC Rink
-DTEND;TZID=America/Toronto:20161014T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-29
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161021T213000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 29 at 9:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20161021T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-34
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161028T213000
-LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 34 at 9:30PM versus Freedom 55 at KRC Rink
-DTEND;TZID=America/Toronto:20161028T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-36
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161102T210000
-LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 36 at 9:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20161102T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-39
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161104T223000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 39 at 10:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20161104T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-43
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161111T223000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 43 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20161111T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-46
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161116T220000
-LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 46 at 10:00PM versus Eagleson Flooring at KRC Arena
-DTEND;TZID=America/Toronto:20161116T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-47
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161118T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 47 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20161118T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-50
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161123T220000
-LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 50 at 10:00PM versus Freedom 55 at KRC Arena
-DTEND;TZID=America/Toronto:20161123T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-53
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161130T210000
-LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 53 at 9:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20161130T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-55
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161202T213000
-LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 55 at 9:30PM versus Eagleson Flooring at KRC Rink
-DTEND;TZID=America/Toronto:20161202T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-59
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161207T220000
-LOCATION:KRC Arena
-SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 59 at 10:00PM versus Young Drivers at KRC Arena
-DTEND;TZID=America/Toronto:20161207T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-60
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161209T213000
-LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 60 at 9:30PM versus Freedom 55 at KRC Rink
-DTEND;TZID=America/Toronto:20161209T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-64
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20161216T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 64 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20161216T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-68
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170104T220000
-LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 68 at 10:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20170104T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-69
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170106T213000
-LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 69 at 9:30PM versus Eagleson Flooring at KRC Rink
-DTEND;TZID=America/Toronto:20170106T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-75
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170113T233000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 75 at 11:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20170114T003000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-78
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170120T213000
-LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 78 at 9:30PM versus Freedom 55 at KRC Rink
-DTEND;TZID=America/Toronto:20170120T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-83
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170127T223000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 83 at 10:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20170127T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-85
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170201T220000
-LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 85 at 10:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20170201T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-87
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170203T223000
-LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 87 at 10:30PM versus Eagleson Flooring at KRC Rink
-DTEND;TZID=America/Toronto:20170203T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-89
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170208T210000
-LOCATION:KRC Arena
-SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 89 at 9:00PM versus Young Drivers at KRC Arena
-DTEND;TZID=America/Toronto:20170208T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-93
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170215T210000
-LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 93 at 9:00PM versus Freedom 55 at KRC Arena
-DTEND;TZID=America/Toronto:20170215T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-97
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170222T210000
-LOCATION:KRC Arena
-SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 97 at 9:00PM versus Young Drivers at KRC Arena
-DTEND;TZID=America/Toronto:20170222T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-101
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170224T233000
-LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 101 at 11:30PM versus Eagleson Flooring at KRC Rink
-DTEND;TZID=America/Toronto:20170225T003000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-103
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170301T220000
-LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 103 at 10:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20170301T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-104
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170303T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 104 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20170303T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-3
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170310T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 3 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20170310T223000
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 4 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20170908T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-6
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170315T220000
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20170913T220000
 LOCATION:KRC Arena
-SUMMARY:Alley Cafe at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 6 at 10:00PM versus Alley Cafe at KRC Arena
-DTEND;TZID=America/Toronto:20170315T230000
+SUMMARY:Young Drivers at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 6 at 10:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20170913T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-8
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170317T223000
+UID: KMHA-GAME-9
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20170920T210000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 9 at 9:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20170920T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-15
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20170929T213000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 8 at 10:30PM versus Freedom 55 at KRC Rink
-DTEND;TZID=America/Toronto:20170317T233000
+SUMMARY:Urban Stone Surfaces at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 15 at 9:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20170929T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-12
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170324T180000
-LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 6:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 12 at 6:00PM versus Eagleson Flooring at KRC Arena
-DTEND;TZID=America/Toronto:20170324T190000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-14
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170329T210000
+UID: KMHA-GAME-17
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171004T210000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 14 at 9:00PM versus Young Drivers at KRC Arena
-DTEND;TZID=America/Toronto:20170329T220000
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 17 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20171004T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-16
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170331T170000
-LOCATION:John Mlacak
-SUMMARY:Freedom 55 at 5:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 16 at 5:00PM versus Freedom 55 at John Mlacak
-DTEND;TZID=America/Toronto:20170331T180000
+UID: KMHA-GAME-20
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171006T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 20 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20171006T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-19
-DTSTAMP:20160911T235900
-DTSTART;TZID=America/Toronto:20170331T190000
+UID: KMHA-GAME-24
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171013T223000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 24 at 10:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20171013T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-27
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171018T220000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 7:00PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 19 at 7:00PM versus Eagleson Flooring at KRC Arena
-DTEND;TZID=America/Toronto:20170331T200000
+SUMMARY:Young Drivers at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 27 at 10:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20171018T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-29
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171020T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 29 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20171020T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-31
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171025T220000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 31 at 10:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20171025T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-32
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171027T213000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 32 at 9:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20171027T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-37
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171103T213000
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 37 at 9:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20171103T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-40
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171108T220000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 40 at 10:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20171108T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-43
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171110T233000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 11:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 43 at 11:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20171111T003000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-45
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171115T220000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 45 at 10:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20171115T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-50
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171124T213000
+LOCATION:KRC Rink
+SUMMARY:Young Drivers at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 50 at 9:30PM versus Young Drivers at KRC Rink
+DTEND;TZID=America/Toronto:20171124T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-52
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171129T210000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 52 at 9:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20171129T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-55
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171201T223000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 55 at 10:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20171201T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-58
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171206T220000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 58 at 10:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20171206T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-60
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171208T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 60 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20171208T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-61
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171213T210000
+LOCATION:KRC Arena
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 61 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20171213T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-68
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20171222T223000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 68 at 10:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20171222T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-69
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180105T213000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 69 at 9:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20180105T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-73
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180110T220000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 73 at 10:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20180110T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-76
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180117T210000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 76 at 9:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20180117T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-80
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180124T210000
+LOCATION:KRC Arena
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 80 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20180124T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-83
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180126T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 83 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20180126T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-84
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180131T210000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 84 at 9:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20180131T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-88
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180202T233000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 11:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 88 at 11:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20180203T003000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-91
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180209T213000
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 91 at 9:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20180209T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-95
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180216T213000
+LOCATION:KRC Rink
+SUMMARY:Young Drivers at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 95 at 9:30PM versus Young Drivers at KRC Rink
+DTEND;TZID=America/Toronto:20180216T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-99
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180223T213000
+LOCATION:KRC Rink
+SUMMARY:Freedom 55 at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 99 at 9:30PM versus Freedom 55 at KRC Rink
+DTEND;TZID=America/Toronto:20180223T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-102
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180228T210000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 102 at 9:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20180228T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-105
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180302T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 105 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20180302T233000
 END:VEVENT
 END:VCALENDAR
