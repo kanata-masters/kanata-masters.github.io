@@ -1,108 +1,192 @@
 <?xml version="1.0" encoding="ASCII"?>
 <com.ahunter.kmha:League xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="kmha">
-  <games gameNumber="1" date="2017-09-06T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME" note="1C lock"/>
-  <games gameNumber="2" date="2017-09-06T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME" note="1A lock"/>
-  <games gameNumber="3" date="2017-09-08T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME" note="1B lock"/>
-  <games gameNumber="4" date="2017-09-08T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME" note="5C lock"/>
-  <games gameNumber="5" date="2017-09-13T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME" note="2A lock"/>
-  <games gameNumber="6" date="2017-09-13T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME" note="2B lock"/>
-  <games gameNumber="7" date="2017-09-15T21:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME" note="2C lock"/>
-  <games gameNumber="8" date="2017-09-15T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME" note="5A lock"/>
-  <games gameNumber="9" date="2017-09-20T21:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME" note="4A unlock"/>
-  <games gameNumber="10" date="2017-09-20T22:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME" note="5B unlock"/>
-  <games gameNumber="11" date="2017-09-22T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Trane Canada" iceType="GAME" note="4B unlock"/>
-  <games gameNumber="12" date="2017-09-22T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME" note="4C unlock"/>
-  <games gameNumber="13" date="2017-09-27T21:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME" note="1A lock"/>
-  <games gameNumber="14" date="2017-09-27T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Freedom 55" iceType="GAME" note="1B lock"/>
-  <games gameNumber="15" date="2017-09-29T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME" note="1C lock"/>
-  <games gameNumber="16" date="2017-09-29T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME" note="5A lock"/>
-  <games gameNumber="17" date="2017-10-04T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME" note="2B lock"/>
-  <games gameNumber="18" date="2017-10-04T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME" note="2C lock"/>
-  <games gameNumber="19" date="2017-10-06T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME" note="2A lock"/>
-  <games gameNumber="20" date="2017-10-06T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME" note="5C lock"/>
-  <games gameNumber="21" date="2017-10-11T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME" note="4C lock"/>
-  <games gameNumber="22" date="2017-10-11T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Freedom 55" iceType="GAME" note="4B lock"/>
-  <games gameNumber="23" date="2017-10-13T21:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME" note="3A lock"/>
-  <games gameNumber="24" date="2017-10-13T22:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME" note="3B lock"/>
-  <games gameNumber="25" date="2017-10-13T23:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME" note="3C lock"/>
-  <games gameNumber="26" date="2017-10-18T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME" note="2C lock"/>
-  <games gameNumber="27" date="2017-10-18T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME" note="2B lock"/>
-  <games gameNumber="28" date="2017-10-20T21:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Freedom 55" iceType="GAME" note="2A lock"/>
-  <games gameNumber="29" date="2017-10-20T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME" note="5C lock"/>
-  <games gameNumber="30" date="2017-10-25T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME" note="4C lock"/>
-  <games gameNumber="31" date="2017-10-25T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME" note="4A lock"/>
-  <games gameNumber="32" date="2017-10-27T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME" note="3B lock"/>
-  <games gameNumber="33" date="2017-10-27T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME" note="3C lock"/>
-  <games gameNumber="34" date="2017-10-27T23:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME" note="3A lock"/>
-  <games gameNumber="35" date="2017-11-01T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Freedom 55" iceType="GAME" note="1B lock"/>
-  <games gameNumber="36" date="2017-11-01T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Trane Canada" iceType="GAME" note="1A lock"/>
-  <games gameNumber="37" date="2017-11-03T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME" note="1C lock"/>
-  <games gameNumber="38" date="2017-11-03T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME" note="5A lock"/>
-  <games gameNumber="39" date="2017-11-08T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Trane Canada" iceType="GAME" note="4B lock"/>
-  <games gameNumber="40" date="2017-11-08T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME" note="4A lock"/>
-  <games gameNumber="41" date="2017-11-10T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Young Drivers" iceType="GAME" note="3C lock"/>
-  <games gameNumber="42" date="2017-11-10T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME" note="3A lock"/>
-  <games gameNumber="43" date="2017-11-10T23:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME" note="3B lock"/>
-  <games gameNumber="44" date="2017-11-15T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Freedom 55" iceType="GAME" note="1B lock"/>
-  <games gameNumber="45" date="2017-11-15T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME" note="1C lock"/>
-  <games gameNumber="46" date="2017-11-17T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Trane Canada" iceType="GAME" note="1A lock"/>
-  <games gameNumber="47" date="2017-11-17T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME" note="5B lock"/>
-  <games gameNumber="48" date="2017-11-22T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME" note="2C lock"/>
-  <games gameNumber="49" date="2017-11-22T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="GAME" note="2A lock"/>
-  <games gameNumber="50" date="2017-11-24T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Young Drivers" iceType="GAME" note="2B lock"/>
-  <games gameNumber="51" date="2017-11-24T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME" note="5B lock"/>
-  <games gameNumber="52" date="2017-11-29T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME" note="4A lock"/>
-  <games gameNumber="53" date="2017-11-29T22:00:00.000-0500" arena="KRC Arena" home="Trane Canada" away="Freedom 55" iceType="GAME" note="4B lock"/>
-  <games gameNumber="54" date="2017-12-01T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME" note="3A lock"/>
-  <games gameNumber="55" date="2017-12-01T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME" note="3B lock"/>
-  <games gameNumber="56" date="2017-12-01T23:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Young Drivers" iceType="GAME" note="3C lock"/>
-  <games gameNumber="57" date="2017-12-06T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Trane Canada" iceType="GAME" note="1A lock"/>
-  <games gameNumber="58" date="2017-12-06T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME" note="1C lock"/>
-  <games gameNumber="59" date="2017-12-08T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME" note="1B lock"/>
-  <games gameNumber="60" date="2017-12-08T22:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME" note="5C lock"/>
-  <games gameNumber="61" date="2017-12-13T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME" note="2B lock"/>
-  <games gameNumber="62" date="2017-12-13T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME" note="2A lock"/>
-  <games gameNumber="63" date="2017-12-15T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME" note="2C lock"/>
-  <games gameNumber="64" date="2017-12-15T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME" note="5A lock"/>
-  <games gameNumber="65" date="2017-12-20T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME" note="5B"/>
-  <games gameNumber="66" date="2017-12-20T22:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Trane Canada" iceType="GAME" note="3C"/>
-  <games gameNumber="67" date="2017-12-22T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME" note="3A"/>
-  <games gameNumber="68" date="2017-12-22T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME" note="3A"/>
-  <games gameNumber="69" date="2018-01-05T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Trane Canada" iceType="GAME" note="5C"/>
-  <games gameNumber="70" date="2018-01-05T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME" note="5B lock"/>
-  <games gameNumber="71" date="2018-01-05T23:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME" note="5A"/>
-  <games gameNumber="72" date="2018-01-10T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME" note="4C lock"/>
-  <games gameNumber="73" date="2018-01-10T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME" note="4A lock"/>
-  <games gameNumber="74" date="2018-01-12T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Freedom 55" iceType="GAME" note="4B lock"/>
-  <games gameNumber="75" date="2018-01-12T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME" note="5A lock"/>
-  <games gameNumber="76" date="2018-01-17T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME" note="1C lock"/>
-  <games gameNumber="77" date="2018-01-17T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Young Drivers" iceType="GAME" note="1B lock"/>
-  <games gameNumber="78" date="2018-01-19T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Eagleson Flooring" iceType="GAME" note="1A lock"/>
-  <games gameNumber="79" date="2018-01-19T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME" note="5B lock"/>
-  <games gameNumber="80" date="2018-01-24T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME" note="2B"/>
-  <games gameNumber="81" date="2018-01-24T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME" note="2C"/>
-  <games gameNumber="82" date="2018-01-26T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Freedom 55" iceType="GAME" note="2A"/>
-  <games gameNumber="83" date="2018-01-26T22:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME" note="5C lock"/>
-  <games gameNumber="84" date="2018-01-31T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME" note="4A lock"/>
-  <games gameNumber="85" date="2018-01-31T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME" note="4C lock"/>
-  <games gameNumber="86" date="2018-02-02T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME" note="3C lock"/>
-  <games gameNumber="87" date="2018-02-02T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME" note="3A lock"/>
-  <games gameNumber="88" date="2018-02-02T23:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME" note="3B lock"/>
-  <games gameNumber="89" date="2018-02-07T21:00:00.000-0500" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME" note="1A"/>
-  <games gameNumber="90" date="2018-02-07T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Young Drivers" iceType="GAME" note="1B"/>
-  <games gameNumber="91" date="2018-02-09T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME" note="1C"/>
-  <games gameNumber="92" date="2018-02-09T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME" note="5A lock"/>
-  <games gameNumber="93" date="2018-02-14T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME" note="2A lock"/>
-  <games gameNumber="94" date="2018-02-14T22:00:00.000-0500" arena="KRC Arena" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME" note="2C lock"/>
-  <games gameNumber="95" date="2018-02-16T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Kanata Renovations" iceType="GAME" note="2B lock"/>
-  <games gameNumber="96" date="2018-02-16T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME" note="5B lock"/>
-  <games gameNumber="97" date="2018-02-21T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Trane Canada" iceType="GAME" note="4B lock"/>
-  <games gameNumber="98" date="2018-02-21T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME" note="4C lock"/>
-  <games gameNumber="99" date="2018-02-23T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME" note="3B lock"/>
-  <games gameNumber="100" date="2018-02-23T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME" note="3C lock"/>
-  <games gameNumber="101" date="2018-02-23T23:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME" note="3A lock"/>
-  <games gameNumber="102" date="2018-02-28T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME" note="4A lock"/>
-  <games gameNumber="103" date="2018-02-28T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Trane Canada" iceType="GAME" note="4B lock"/>
-  <games gameNumber="104" date="2018-03-02T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME" note="4C lock"/>
-  <games gameNumber="105" date="2018-03-02T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Trane Canada" iceType="GAME" note="5C lock"/>
+  <players playerName="Al Bergeron" team="Kanata Renovations" position="GOALTENDER"/>
+  <players playerName="Alain Bernard" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Alain Langlais" team="Trane Canada" position="Player"/>
+  <players playerName="Alan King" team="Young Drivers" position="Player"/>
+  <players playerName="Alan Palmer" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Anthony Hunter" team="Kanata Renovations" position="Player"/>
+  <players playerName="Bob Dawson" team="Trane Canada" position="Player"/>
+  <players playerName="Bob McLean" team="Kanata Renovations" position="Player"/>
+  <players playerName="Bob Star" team="Kanata Renovations" position="Player"/>
+  <players playerName="Brad Powe" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Brent Bradley" team="Young Drivers" position="Player"/>
+  <players playerName="Brian McMahon" team="Kanata Renovations" position="Player"/>
+  <players playerName="Brian Randall" team="Kanata Renovations" position="Player"/>
+  <players playerName="Bruce Williams" team="Trane Canada" position="Player"/>
+  <players playerName="Cam Creech" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Cameron Palmer" team="Young Drivers" position="Player"/>
+  <players playerName="Chris Evelyn" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Chuck Stevenson" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Dan Cottenden" team="Kanata Renovations" position="Player"/>
+  <players playerName="Dan Seguin" team="Freedom 55" position="GOALTENDER"/>
+  <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Dave Hay" team="Kanata Renovations" position="Player"/>
+  <players playerName="Dave Wimble" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Don O'Neill" team="Young Drivers" position="Player"/>
+  <players playerName="Doug Guy" team="Kanata Renovations" position="Player"/>
+  <players playerName="Eric Rutherford" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Garry Stewart" team="Freedom 55" position="Player"/>
+  <players playerName="George Taronno" team="Trane Canada" position="Player"/>
+  <players playerName="Gerry Frappier" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Gilles Mongeon" team="Trane Canada" position="Player"/>
+  <players playerName="Glen Vandermolen" team="Young Drivers" position="Player"/>
+  <players playerName="Greg O'Hearn" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Guy Bourbonniere" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Hal Mott" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Jake Duret" team="Freedom 55" position="Player"/>
+  <players playerName="Jamie Duckett" team="Urban Stone Surfaces" position="GOALTENDER"/>
+  <players playerName="Jamie Stairs" team="Freedom 55" position="Player"/>
+  <players playerName="Jeff Edwards" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Jim Hay" team="Young Drivers" position="GOALTENDER"/>
+  <players playerName="Joey Granata" team="Young Drivers" position="Player"/>
+  <players playerName="John Boivin" team="Young Drivers" position="Player"/>
+  <players playerName="John Kerr" team="Eagleson Flooring" position="Player"/>
+  <players playerName="John McMaster" team="Trane Canada" position="Player"/>
+  <players playerName="Kevin Caputo" team="Trane Canada" position="GOALTENDER"/>
+  <players playerName="Kevin Croutteau" team="Freedom 55" position="Player"/>
+  <players playerName="Kevin Kozonlanka" team="Kanata Renovations" position="Player"/>
+  <players playerName="Kevin MacDougall" team="Freedom 55" position="Player"/>
+  <players playerName="Kirk Shaw" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Klaus Holzhuter" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Larry Johnson" team="Freedom 55" position="Player"/>
+  <players playerName="Larry Perron" team="Freedom 55" position="Player"/>
+  <players playerName="Larry Tapp" team="Freedom 55" position="Player"/>
+  <players playerName="Lee Powell" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Lloyd Cosman" team="Freedom 55" position="Player"/>
+  <players playerName="Marc Mesec" team="Trane Canada" position="Player"/>
+  <players playerName="Marc Switalski" team="Trane Canada" position="Player"/>
+  <players playerName="Mark Smith" team="Freedom 55" position="Player"/>
+  <players playerName="Mike Brown" team="Trane Canada" position="Player"/>
+  <players playerName="Mike Craymer" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Mike Shurtcliffe" team="Kanata Renovations" position="Player"/>
+  <players playerName="Mike Vandenberg" team="Trane Canada" position="Player"/>
+  <players playerName="Moe Miller" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Oscar Giroux" team="Eagleson Flooring" position="GOALTENDER"/>
+  <players playerName="Pat Aubrey" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Pat D'Allaire" team="Young Drivers" position="Player"/>
+  <players playerName="Paul Cavanaugh" team="Young Drivers" position="Player"/>
+  <players playerName="Paul Goulet" team="Freedom 55" position="Player"/>
+  <players playerName="Richard Balance" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Rick Batty" team="Freedom 55" position="Player"/>
+  <players playerName="Rob Blondin" team="Eagleson Flooring" position="Player"/>
+  <players playerName="Rob Zellerer" team="Freedom 55" position="Player"/>
+  <players playerName="Robert Colson" team="Trane Canada" position="Player"/>
+  <players playerName="Robert Fitts" team="Kanata Renovations" position="Player"/>
+  <players playerName="Rocco Disipio" team="Trane Canada" position="Player"/>
+  <players playerName="Ron Pomphrey" team="Kanata Renovations" position="Player"/>
+  <players playerName="Simon Forknall" team="Kanata Renovations" position="Player"/>
+  <players playerName="Steve Lamarche" team="Young Drivers" position="Player"/>
+  <players playerName="Steve Markhouser" team="Young Drivers" position="Player"/>
+  <players playerName="Steve Williams" team="Trane Canada" position="Player"/>
+  <players playerName="Tim Stupich" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Tom Brewer" team="Young Drivers" position="Player"/>
+  <players playerName="Tony Moren" team="Young Drivers" position="Player"/>
+  <players playerName="Wai Chin" team="Eagleson Flooring" position="Player"/>
+  <games gameNumber="1" date="2017-09-06T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="2" date="2017-09-06T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="3" date="2017-09-08T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="4" date="2017-09-08T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="5" date="2017-09-13T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="6" date="2017-09-13T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="7" date="2017-09-15T21:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="8" date="2017-09-15T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="9" date="2017-09-20T21:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="10" date="2017-09-20T22:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="11" date="2017-09-22T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="12" date="2017-09-22T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="13" date="2017-09-27T21:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="14" date="2017-09-27T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="15" date="2017-09-29T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="16" date="2017-09-29T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="17" date="2017-10-04T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="18" date="2017-10-04T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="19" date="2017-10-06T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="20" date="2017-10-06T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="21" date="2017-10-11T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="22" date="2017-10-11T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="23" date="2017-10-13T21:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="24" date="2017-10-13T22:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="25" date="2017-10-13T23:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="26" date="2017-10-18T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="27" date="2017-10-18T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="28" date="2017-10-20T21:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="29" date="2017-10-20T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="30" date="2017-10-25T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="31" date="2017-10-25T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="32" date="2017-10-27T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="33" date="2017-10-27T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="34" date="2017-10-27T23:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="35" date="2017-11-01T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="36" date="2017-11-01T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="37" date="2017-11-03T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="38" date="2017-11-03T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="39" date="2017-11-08T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="40" date="2017-11-08T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="41" date="2017-11-10T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="42" date="2017-11-10T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="43" date="2017-11-10T23:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="44" date="2017-11-15T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="45" date="2017-11-15T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="46" date="2017-11-17T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="47" date="2017-11-17T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="48" date="2017-11-22T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="49" date="2017-11-22T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="50" date="2017-11-24T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="51" date="2017-11-24T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="52" date="2017-11-29T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="53" date="2017-11-29T22:00:00.000-0500" arena="KRC Arena" home="Trane Canada" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="54" date="2017-12-01T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="55" date="2017-12-01T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="56" date="2017-12-01T23:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="57" date="2017-12-06T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="58" date="2017-12-06T22:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="59" date="2017-12-08T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="60" date="2017-12-08T22:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="61" date="2017-12-13T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="62" date="2017-12-13T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="63" date="2017-12-15T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="64" date="2017-12-15T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="65" date="2017-12-20T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="66" date="2017-12-20T22:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="67" date="2017-12-22T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="68" date="2017-12-22T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="69" date="2018-01-05T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="70" date="2018-01-05T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="71" date="2018-01-05T23:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="72" date="2018-01-10T21:00:00.000-0500" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="73" date="2018-01-10T22:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="74" date="2018-01-12T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="75" date="2018-01-12T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="76" date="2018-01-17T21:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="77" date="2018-01-17T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="78" date="2018-01-19T21:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="79" date="2018-01-19T22:30:00.000-0500" arena="KRC Rink" home="Freedom 55" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="80" date="2018-01-24T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="81" date="2018-01-24T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="82" date="2018-01-26T21:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="83" date="2018-01-26T22:30:00.000-0500" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="84" date="2018-01-31T21:00:00.000-0500" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="85" date="2018-01-31T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="86" date="2018-02-02T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="87" date="2018-02-02T22:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="88" date="2018-02-02T23:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="89" date="2018-02-07T21:00:00.000-0500" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="90" date="2018-02-07T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="91" date="2018-02-09T21:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="92" date="2018-02-09T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="93" date="2018-02-14T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="94" date="2018-02-14T22:00:00.000-0500" arena="KRC Arena" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="95" date="2018-02-16T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="96" date="2018-02-16T22:30:00.000-0500" arena="KRC Rink" home="Urban Stone Surfaces" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="97" date="2018-02-21T21:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="98" date="2018-02-21T22:00:00.000-0500" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="99" date="2018-02-23T21:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Freedom 55" iceType="GAME"/>
+  <games gameNumber="100" date="2018-02-23T22:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="101" date="2018-02-23T23:30:00.000-0500" arena="KRC Rink" home="Eagleson Flooring" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="102" date="2018-02-28T21:00:00.000-0500" arena="KRC Arena" home="Kanata Renovations" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="103" date="2018-02-28T22:00:00.000-0500" arena="KRC Arena" home="Freedom 55" away="Trane Canada" iceType="GAME"/>
+  <games gameNumber="104" date="2018-03-02T21:30:00.000-0500" arena="KRC Rink" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
+  <games gameNumber="105" date="2018-03-02T22:30:00.000-0500" arena="KRC Rink" home="Kanata Renovations" away="Trane Canada" iceType="GAME"/>
 </com.ahunter.kmha:League>
