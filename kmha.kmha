@@ -12,7 +12,7 @@
   <players playerName="Brad Powe" team="Eagleson Flooring" position="Player"/>
   <players playerName="Brent Bradley" team="Young Drivers" position="Player"/>
   <players playerName="Brian McMahon" team="Kanata Renovations" position="Player" jerseyNumber="88"/>
-  <players playerName="Brian Randall" team="Kanata Renovations" position="Player"/>
+  <players playerName="Brian Randall" team="Kanata Renovations" position="Player" jerseyNumber="4"/>
   <players playerName="Bruce Williams" team="Trane Canada" position="Player"/>
   <players playerName="Cam Creech" team="Eagleson Flooring" position="Player"/>
   <players playerName="Cameron Palmer" team="Young Drivers" position="Player"/>
@@ -22,7 +22,7 @@
   <players playerName="Dan Seguin" team="Freedom 55" position="GOALTENDER"/>
   <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player"/>
   <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player"/>
-  <players playerName="Dave Hay" team="Kanata Renovations" position="Player"/>
+  <players playerName="Dave Hay" team="Kanata Renovations" position="Player" jerseyNumber="19"/>
   <players playerName="Dave Wimble" team="Urban Stone Surfaces" position="Player"/>
   <players playerName="Don O'Neill" team="Young Drivers" position="Player"/>
   <players playerName="Doug Guy" team="Kanata Renovations" position="Player" jerseyNumber="3"/>
@@ -75,8 +75,8 @@
   <players playerName="Robert Colson" team="Trane Canada" position="Player"/>
   <players playerName="Robert Fitts" team="Kanata Renovations" position="Player" jerseyNumber="8"/>
   <players playerName="Rocco Disipio" team="Trane Canada" position="Player"/>
-  <players playerName="Ron Pomphrey" team="Kanata Renovations" position="Player"/>
-  <players playerName="Simon Forknall" team="Kanata Renovations" position="Player"/>
+  <players playerName="Ron Pomphrey" team="Kanata Renovations" position="Player" jerseyNumber="6"/>
+  <players playerName="Simon Forknall" team="Kanata Renovations" position="Player" jerseyNumber="7"/>
   <players playerName="Steve Lamarche" team="Young Drivers" position="Player"/>
   <players playerName="Steve Markhouser" team="Young Drivers" position="Player"/>
   <players playerName="Steve Williams" team="Trane Canada" position="Player"/>
