@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?>
 <com.ahunter.kmha:League xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="kmha">
   <players playerName="Al Bergeron" team="Kanata Renovations" position="GOALTENDER" jerseyNumber="35"/>
-  <players playerName="Alain Bernard" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Alain Bernard" team="Urban Stone Surfaces" position="Player" jerseyNumber="8"/>
   <players playerName="Alain Langlais" team="Trane Canada" position="Player" jerseyNumber="10"/>
   <players playerName="Alan King" team="Young Drivers" position="Player"/>
-  <players playerName="Alan Palmer" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Alan Palmer" team="Urban Stone Surfaces" position="Player" jerseyNumber="7"/>
   <players playerName="Anthony Hunter" team="Kanata Renovations" position="Player" jerseyNumber="11"/>
   <players playerName="Bob Dawson" team="Trane Canada" position="Player" jerseyNumber="4"/>
   <players playerName="Bob McLean" team="Kanata Renovations" position="Player" jerseyNumber="9"/>
@@ -21,24 +21,24 @@
   <players playerName="Dan Cottenden" team="Kanata Renovations" position="Player" jerseyNumber="16"/>
   <players playerName="Dan Seguin" team="Freedom 55" position="GOALTENDER"/>
   <players playerName="Darin Bailey" team="Eagleson Flooring" position="Player" jerseyNumber="5"/>
-  <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player"/>
-  <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player" jerseyNumber="15"/>
+  <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player" jerseyNumber="12"/>
   <players playerName="Darryl Dodds" team="Trane Canada" position="Player"/>
   <players playerName="Dave Hay" team="Kanata Renovations" position="Player" jerseyNumber="19"/>
-  <players playerName="Dave Wimble" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Dave Wimble" team="Urban Stone Surfaces" position="Player" jerseyNumber="6"/>
   <players playerName="Don O'Neill" team="Young Drivers" position="Player"/>
   <players playerName="Doug Guy" team="Kanata Renovations" position="Player" jerseyNumber="3"/>
-  <players playerName="Eric Rutherford" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Eric Rutherford" team="Urban Stone Surfaces" position="Player" jerseyNumber="18"/>
   <players playerName="Garry Stewart" team="Freedom 55" position="Player"/>
   <players playerName="George Taronno" team="Trane Canada" position="Player"/>
   <players playerName="Gerry Frappier" team="Eagleson Flooring" position="Player" jerseyNumber="10"/>
   <players playerName="Gilles Mongeon" team="Trane Canada" position="Player" jerseyNumber="11"/>
   <players playerName="Glen Vandermolen" team="Young Drivers" position="Player"/>
-  <players playerName="Greg O'Hearn" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Greg O'Hearn" team="Urban Stone Surfaces" position="Player" jerseyNumber="11"/>
   <players playerName="Guy Bourbonniere" team="Eagleson Flooring" position="Player" jerseyNumber="2"/>
   <players playerName="Hal Mott" team="Eagleson Flooring" position="Player" jerseyNumber="6"/>
-  <players playerName="Jake Duret" team="Freedom 55" position="Player"/>
-  <players playerName="Jamie Duckett" team="Urban Stone Surfaces" position="GOALTENDER"/>
+  <players playerName="Jake Duret" team="Freedom 55" position="Player" jerseyNumber="1"/>
+  <players playerName="Jamie Duckett" team="Urban Stone Surfaces" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Jamie Stairs" team="Freedom 55" position="Player"/>
   <players playerName="Jeff Edwards" team="Eagleson Flooring" position="Player" jerseyNumber="11"/>
   <players playerName="Jim Hay" team="Young Drivers" position="GOALTENDER"/>
@@ -55,22 +55,22 @@
   <players playerName="Larry Johnson" team="Freedom 55" position="Player"/>
   <players playerName="Larry Perron" team="Freedom 55" position="Player"/>
   <players playerName="Larry Tapp" team="Freedom 55" position="Player"/>
-  <players playerName="Lee Powell" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Lee Powell" team="Urban Stone Surfaces" position="Player" jerseyNumber="4"/>
   <players playerName="Lloyd Cosman" team="Freedom 55" position="Player"/>
   <players playerName="Marc Mesec" team="Trane Canada" position="Player" jerseyNumber="7"/>
   <players playerName="Marc Switalski" team="Trane Canada" position="Player"/>
   <players playerName="Mark Smith" team="Freedom 55" position="Player"/>
   <players playerName="Mike Brown" team="Trane Canada" position="Player" jerseyNumber="3"/>
-  <players playerName="Mike Craymer" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Mike Craymer" team="Urban Stone Surfaces" position="Player" jerseyNumber="5"/>
   <players playerName="Mike Shurtliff" team="Kanata Renovations" position="Player" jerseyNumber="10"/>
   <players playerName="Mike Vandenberg" team="Trane Canada" position="Player" jerseyNumber="13"/>
-  <players playerName="Moe Miller" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Moe Miller" team="Urban Stone Surfaces" position="Player" jerseyNumber="2"/>
   <players playerName="Oscar Giroux" team="Eagleson Flooring" position="GOALTENDER" jerseyNumber="1"/>
-  <players playerName="Pat Aubrey" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Pat Aubrey" team="Urban Stone Surfaces" position="Player" jerseyNumber="9"/>
   <players playerName="Pat D'Allaire" team="Young Drivers" position="Player"/>
   <players playerName="Paul Cavanaugh" team="Young Drivers" position="Player"/>
   <players playerName="Paul Goulet" team="Freedom 55" position="Player"/>
-  <players playerName="Richard Balance" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Richard Balance" team="Urban Stone Surfaces" position="Player" jerseyNumber="19"/>
   <players playerName="Rick Batty" team="Freedom 55" position="Player"/>
   <players playerName="Rob Blondin" team="Eagleson Flooring" position="Player" jerseyNumber="13"/>
   <players playerName="Rob Zellerer" team="Freedom 55" position="Player"/>
@@ -81,7 +81,7 @@
   <players playerName="Steve Lamarche" team="Young Drivers" position="Player"/>
   <players playerName="Steve Markhouser" team="Young Drivers" position="Player"/>
   <players playerName="Steve Williams" team="Trane Canada" position="Player"/>
-  <players playerName="Tim Stupich" team="Urban Stone Surfaces" position="Player"/>
+  <players playerName="Tim Stupich" team="Urban Stone Surfaces" position="Player" jerseyNumber="10"/>
   <players playerName="Tom Brewer" team="Young Drivers" position="Player"/>
   <players playerName="Tony Moren" team="Young Drivers" position="Player"/>
   <players playerName="Wai Chin" team="Eagleson Flooring" position="Player" jerseyNumber="15"/>
