@@ -85,8 +85,21 @@
   <players playerName="Tom Brewer" team="Young Drivers" position="Player"/>
   <players playerName="Tony Moren" team="Young Drivers" position="Player"/>
   <players playerName="Wai Chin" team="Eagleson Flooring" position="Player" jerseyNumber="15"/>
-  <games gameNumber="1" date="2017-09-06T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME"/>
-  <games gameNumber="2" date="2017-09-06T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="1" date="2017-09-06T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Kanata Renovations" iceType="GAME">
+    <homePenalties period="1" number="10" minutes="2" code="TR" timeMinutes="17" timeSeconds="45"/>
+    <homeScoring period="1" timeMinutes="14" timeSeconds="32" goal="8" assist1="5" assist2="12"/>
+    <homeScoring period="1" timeMinutes="2" goal="10" assist1="11" assist2="12"/>
+    <awayScoring period="1" timeMinutes="13" timeSeconds="49" goal="19" assist1="3" assist2="8"/>
+    <awayScoring period="1" timeMinutes="7" timeSeconds="13" goal="11" assist1="3"/>
+    <awayScoring period="2" timeMinutes="17" timeSeconds="32" goal="8" assist1="6" assist2="7"/>
+  </games>
+  <games gameNumber="2" date="2017-09-06T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Eagleson Flooring" iceType="GAME">
+    <homePenalties period="2" number="15" minutes="2" code="SL" timeMinutes="12" timeSeconds="2"/>
+    <homeScoring period="2" timeMinutes="21" timeSeconds="50" goal="76"/>
+    <homeScoring period="2" timeMinutes="6" timeSeconds="12" goal="7"/>
+    <awayPenalties period="1" number="4" minutes="2" code="HKG" timeMinutes="10" timeSeconds="13"/>
+    <awayScoring period="1" timeMinutes="9" timeSeconds="46" goal="9" assist1="10" assist2="15"/>
+  </games>
   <games gameNumber="3" date="2017-09-08T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
   <games gameNumber="4" date="2017-09-08T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="5" date="2017-09-13T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
