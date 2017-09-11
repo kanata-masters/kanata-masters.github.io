@@ -23,14 +23,14 @@
   <players playerName="Darin Bailey" team="Eagleson Flooring" position="Player" jerseyNumber="5"/>
   <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player" jerseyNumber="15"/>
   <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player" jerseyNumber="12"/>
-  <players playerName="Darryl Dodds" team="Trane Canada" position="Player"/>
+  <players playerName="Darryl Dodds" team="Trane Canada" position="Player" jerseyNumber="14"/>
   <players playerName="Dave Hay" team="Kanata Renovations" position="Player" jerseyNumber="19"/>
   <players playerName="Dave Wimble" team="Urban Stone Surfaces" position="Player" jerseyNumber="6"/>
   <players playerName="Don O'Neill" team="Young Drivers" position="Player" jerseyNumber="12"/>
   <players playerName="Doug Guy" team="Kanata Renovations" position="Player" jerseyNumber="3"/>
   <players playerName="Eric Rutherford" team="Urban Stone Surfaces" position="Player" jerseyNumber="18"/>
   <players playerName="Garry Stewart" team="Freedom 55" position="Player" jerseyNumber="100"/>
-  <players playerName="George Taronno" team="Trane Canada" position="Player"/>
+  <players playerName="George Taronno" team="Trane Canada" position="Player" jerseyNumber="66"/>
   <players playerName="Gerry Frappier" team="Eagleson Flooring" position="Player" jerseyNumber="10"/>
   <players playerName="Gilles Mongeon" team="Trane Canada" position="Player" jerseyNumber="11"/>
   <players playerName="Glen Vandermolen" team="Young Drivers" position="Player" jerseyNumber="13"/>
@@ -45,7 +45,7 @@
   <players playerName="Joey Granata" team="Young Drivers" position="Player" jerseyNumber="6"/>
   <players playerName="John Boivin" team="Young Drivers" position="Player" jerseyNumber="3"/>
   <players playerName="John Kerr" team="Eagleson Flooring" position="Player" jerseyNumber="3"/>
-  <players playerName="John McMaster" team="Trane Canada" position="Player"/>
+  <players playerName="John McMaster" team="Trane Canada" position="Player" jerseyNumber="67"/>
   <players playerName="Kevin Caputo" team="Trane Canada" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Kevin Crotteau" team="Freedom 55" position="Player" jerseyNumber="16"/>
   <players playerName="Kevin Kozonlanka" team="Kanata Renovations" position="Player" jerseyNumber="12"/>
@@ -58,7 +58,7 @@
   <players playerName="Lee Powell" team="Urban Stone Surfaces" position="Player" jerseyNumber="4"/>
   <players playerName="Lloyd Cosman" team="Freedom 55" position="Player" jerseyNumber="8"/>
   <players playerName="Marc Mesec" team="Trane Canada" position="Player" jerseyNumber="7"/>
-  <players playerName="Marc Switalski" team="Trane Canada" position="Player"/>
+  <players playerName="Marc Switalski" team="Trane Canada" position="Player" jerseyNumber="68"/>
   <players playerName="Mark Smith" team="Freedom 55" position="Player" jerseyNumber="6"/>
   <players playerName="Mike Brown" team="Trane Canada" position="Player" jerseyNumber="3"/>
   <players playerName="Mike Craymer" team="Urban Stone Surfaces" position="Player" jerseyNumber="5"/>
@@ -75,13 +75,13 @@
   <players playerName="Rob Blondin" team="Eagleson Flooring" position="Player" jerseyNumber="13"/>
   <players playerName="Rob Zellerer" team="Freedom 55" position="Player" jerseyNumber="14"/>
   <players playerName="Robert Fitts" team="Kanata Renovations" position="Player" jerseyNumber="8"/>
-  <players playerName="Rocco Disipio" team="Trane Canada" position="Player"/>
+  <players playerName="Rocco Disipio" team="Trane Canada" position="Player" jerseyNumber="69"/>
   <players playerName="Ron Pumphrey" team="Kanata Renovations" position="Player" jerseyNumber="6"/>
   <players playerName="Simon Forknall" team="Kanata Renovations" position="Player" jerseyNumber="7"/>
   <players playerName="Steve Kittle" team="Freedom 55" position="Player" jerseyNumber="3"/>
   <players playerName="Steve Lamarche" team="Young Drivers" position="Player" jerseyNumber="14"/>
   <players playerName="Steve Markhouser" team="Young Drivers" position="Player" jerseyNumber="4"/>
-  <players playerName="Steve Williams" team="Trane Canada" position="Player"/>
+  <players playerName="Steve Williams" team="Trane Canada" position="Player" jerseyNumber="70"/>
   <players playerName="Tim Stupich" team="Urban Stone Surfaces" position="Player" jerseyNumber="10"/>
   <players playerName="Tom Brewer" team="Young Drivers" position="Player" jerseyNumber="8"/>
   <players playerName="Tony Moren" team="Young Drivers" position="Player" jerseyNumber="11"/>
@@ -101,8 +101,20 @@
     <awayPenalties period="1" number="4" minutes="2" code="HKG" timeMinutes="10" timeSeconds="13"/>
     <awayScoring period="1" timeMinutes="9" timeSeconds="46" goal="9" assist1="10" assist2="15"/>
   </games>
-  <games gameNumber="3" date="2017-09-08T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME"/>
-  <games gameNumber="4" date="2017-09-08T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="3" date="2017-09-08T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Young Drivers" iceType="GAME">
+    <homePenalties period="1" number="6" minutes="2" code="TR" timeMinutes="9" timeSeconds="59"/>
+    <awayPenalties period="2" number="12" minutes="2" code="TR" timeMinutes="1" timeSeconds="37"/>
+    <awayScoring period="1" timeMinutes="4" timeSeconds="24" goal="9" assist1="7" assist2="5"/>
+    <awayScoring period="2" timeMinutes="21" timeSeconds="7" goal="5" assist1="13" assist2="39"/>
+    <awayScoring period="2" timeMinutes="16" timeSeconds="19" goal="9" assist1="8" assist2="4"/>
+    <awayScoring period="2" timeMinutes="4" timeSeconds="14" goal="5" assist1="9" assist2="13"/>
+  </games>
+  <games gameNumber="4" date="2017-09-08T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME">
+    <homeScoring period="2" timeMinutes="7" timeSeconds="37" goal="14" assist1="11"/>
+    <awayPenalties period="2" minutes="2" code="TMP" timeMinutes="1" timeSeconds="9"/>
+    <awayScoring period="1" timeMinutes="15" timeSeconds="55" goal="11" assist1="88" assist2="10"/>
+    <awayScoring period="2" timeMinutes="18" timeSeconds="56" goal="88" assist1="12"/>
+  </games>
   <games gameNumber="5" date="2017-09-13T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
   <games gameNumber="6" date="2017-09-13T22:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="7" date="2017-09-15T21:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME"/>
