@@ -138,7 +138,7 @@
   <games gameNumber="8" date="2017-09-15T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME">
     <homeScoring period="2" timeMinutes="18" goal="13" assist1="3" assist2="5"/>
     <homeScoring period="2" timeMinutes="12" timeSeconds="42" goal="8" assist1="3" assist2="6"/>
-    <homeScoring period="3" timeMinutes="7" timeSeconds="38" goal="8" assist1="11"/>
+    <homeScoring period="2" timeMinutes="7" timeSeconds="38" goal="8" assist1="11"/>
     <awayPenalties period="2" number="7" minutes="2" code="TR" timeMinutes="15" timeSeconds="30"/>
     <awayScoring period="1" timeMinutes="12" timeSeconds="34" goal="5" assist1="14" assist2="7"/>
     <awayScoring period="1" timeMinutes="4" timeSeconds="9" goal="7"/>
