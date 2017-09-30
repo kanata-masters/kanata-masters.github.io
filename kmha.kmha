@@ -171,7 +171,7 @@
     <homePenalties period="2" number="2" minutes="2" code="INT" timeMinutes="13" timeSeconds="8"/>
     <homeScoring period="1" timeMinutes="16" timeSeconds="6" goal="12" assist1="10" assist2="11"/>
     <homeScoring period="1" timeMinutes="6" timeSeconds="36" goal="6" assist1="5" assist2="18"/>
-    <homeScoring period="1" timeMinutes="5" timeSeconds="31" goal="11" assist1="12" assist2="2"/>
+    <homeScoring period="1" timeMinutes="5" timeSeconds="31" goal="11" assist1="12"/>
     <homeScoring period="2" timeMinutes="7" timeSeconds="38" goal="5" assist1="10" assist2="6"/>
     <awayScoring period="2" timeMinutes="17" timeSeconds="17" goal="9" assist1="13" assist2="14"/>
     <awayScoring period="2" timeMinutes="3" timeSeconds="55" goal="7" assist1="6"/>
