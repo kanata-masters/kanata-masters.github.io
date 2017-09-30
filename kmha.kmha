@@ -36,7 +36,7 @@
   <players playerName="Glen Vandermolen" team="Young Drivers" position="Player" jerseyNumber="13"/>
   <players playerName="Greg O'Hearn" team="Urban Stone Surfaces" position="Player" jerseyNumber="11"/>
   <players playerName="Guy Bourbonniere" team="Eagleson Flooring" position="Player" jerseyNumber="2"/>
-  <players playerName="Hal Mott" team="Eagleson Flooring" position="Player" jerseyNumber="66"/>
+  <players playerName="Hal Mott" team="Eagleson Flooring" position="Player" jerseyNumber="6"/>
   <players playerName="Jake Duret" team="Freedom 55" position="Player" jerseyNumber="5"/>
   <players playerName="Jamie Duckett" team="Urban Stone Surfaces" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Jamie Stairs" team="Freedom 55" position="Player" jerseyNumber="11"/>
@@ -137,7 +137,7 @@
   </games>
   <games gameNumber="8" date="2017-09-15T22:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Young Drivers" iceType="GAME">
     <homeScoring period="2" timeMinutes="18" goal="13" assist1="3" assist2="5"/>
-    <homeScoring period="2" timeMinutes="12" timeSeconds="42" goal="8" assist1="3" assist2="6"/>
+    <homeScoring period="2" timeMinutes="12" timeSeconds="42" goal="8" assist1="3" assist2="66"/>
     <homeScoring period="2" timeMinutes="7" timeSeconds="38" goal="8" assist1="11"/>
     <awayPenalties period="2" number="7" minutes="2" code="TR" timeMinutes="15" timeSeconds="30"/>
     <awayScoring period="1" timeMinutes="12" timeSeconds="34" goal="5" assist1="14" assist2="7"/>
@@ -196,8 +196,21 @@
     <awayScoring period="1" timeMinutes="9" timeSeconds="19" goal="19" assist1="16"/>
     <awayScoring period="2" timeMinutes="16" timeSeconds="25" goal="8" assist1="10" assist2="19"/>
   </games>
-  <games gameNumber="15" date="2017-09-29T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME"/>
-  <games gameNumber="16" date="2017-09-29T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME"/>
+  <games gameNumber="15" date="2017-09-29T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Urban Stone Surfaces" iceType="GAME">
+    <homePenalties period="1" number="16" minutes="2" code="SL" timeMinutes="3" timeSeconds="49"/>
+    <homeScoring period="1" timeMinutes="9" timeSeconds="22" goal="88" assist1="7"/>
+    <homeScoring period="1" timeMinutes="5" timeSeconds="11" goal="6" assist1="5" assist2="35"/>
+    <homeScoring period="1" timeMinutes="3" timeSeconds="20" goal="88" assist1="10"/>
+    <awayScoring period="2" timeMinutes="21" timeSeconds="42" goal="18" assist1="3" assist2="6"/>
+  </games>
+  <games gameNumber="16" date="2017-09-29T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Eagleson Flooring" iceType="GAME">
+    <homePenalties period="1" number="7" minutes="2" code="HO" timeMinutes="5" timeSeconds="58"/>
+    <homePenalties period="2" number="3" minutes="2" code="RO" timeMinutes="2"/>
+    <homeScoring period="1" timeMinutes="14" timeSeconds="10" goal="7" assist1="9" assist2="4"/>
+    <awayPenalties period="1" number="4" minutes="2" code="SL" timeMinutes="15" timeSeconds="8"/>
+    <awayPenalties period="2" number="8" minutes="2" code="RO" timeMinutes="2"/>
+    <awayScoring period="2" timeSeconds="35" goal="4" assist1="6" assist2="5"/>
+  </games>
   <games gameNumber="17" date="2017-10-04T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="18" date="2017-10-04T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Urban Stone Surfaces" iceType="GAME"/>
   <games gameNumber="19" date="2017-10-06T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
