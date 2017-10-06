@@ -21,6 +21,7 @@
   <players playerName="Dan Cottenden" team="Kanata Renovations" position="Player" jerseyNumber="16"/>
   <players playerName="Dan Seguin" team="Freedom 55" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Darin Bailey" team="Eagleson Flooring" position="Player" jerseyNumber="5"/>
+  <players playerName="Darin Bailey" team="Kanata Renovations" position="Player" jerseyNumber="12"/>
   <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player" jerseyNumber="15"/>
   <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player" jerseyNumber="12"/>
   <players playerName="Daryl Dods" team="Trane Canada" position="Player" jerseyNumber="14"/>
@@ -48,7 +49,7 @@
   <players playerName="John McMaster" team="Trane Canada" position="Player" jerseyNumber="16"/>
   <players playerName="Kevin Caputo" team="Trane Canada" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Kevin Crotteau" team="Freedom 55" position="Player" jerseyNumber="16"/>
-  <players playerName="Kevin Kozonlanka" team="Kanata Renovations" position="Player" jerseyNumber="12"/>
+  <players playerName="Kevin Kozonlanka" team="Kanata Renovations" position="Player" jerseyNumber="22"/>
   <players playerName="Kevin MacDougall" team="Freedom 55" position="Player" jerseyNumber="15"/>
   <players playerName="Kirk Shaw" team="Eagleson Flooring" position="Player" jerseyNumber="8"/>
   <players playerName="Klaus Holzhuter" team="Eagleson Flooring" position="Player" jerseyNumber="14"/>
@@ -113,7 +114,7 @@
     <homeScoring period="2" timeMinutes="7" timeSeconds="37" goal="14" assist1="11"/>
     <awayPenalties period="2" minutes="2" code="TMP" timeMinutes="1" timeSeconds="9"/>
     <awayScoring period="1" timeMinutes="15" timeSeconds="55" goal="11" assist1="88" assist2="10"/>
-    <awayScoring period="2" timeMinutes="18" timeSeconds="56" goal="88" assist1="12"/>
+    <awayScoring period="2" timeMinutes="18" timeSeconds="56" goal="88" assist1="22"/>
   </games>
   <games gameNumber="5" date="2017-09-13T21:00:00.000-0400" arena="KRC Arena" home="Freedom 55" away="Eagleson Flooring" iceType="GAME">
     <homePenalties period="1" number="11" minutes="2" code="SL" timeMinutes="16" timeSeconds="39"/>
