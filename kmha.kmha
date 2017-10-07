@@ -71,6 +71,7 @@
   <players playerName="Pat D'Allaire" team="Young Drivers" position="Player" jerseyNumber="5"/>
   <players playerName="Paul Cavanaugh" team="Young Drivers" position="Player" jerseyNumber="7"/>
   <players playerName="Paul Goulet" team="Freedom 55" position="Player" jerseyNumber="19"/>
+  <players playerName="Pierre Bertrand" team="Trane Canada" jerseyNumber="5"/>
   <players playerName="Richard Balance" team="Urban Stone Surfaces" position="Player" jerseyNumber="19"/>
   <players playerName="Rick Batty" team="Freedom 55" position="Player" jerseyNumber="7"/>
   <players playerName="Rob Blondin" team="Eagleson Flooring" position="Player" jerseyNumber="13"/>
@@ -165,8 +166,8 @@
     <homeScoring period="2" timeMinutes="4" timeSeconds="45" goal="111" assist1="10" assist2="11"/>
     <awayScoring period="1" timeMinutes="11" timeSeconds="51" goal="11" assist1="9" assist2="4"/>
     <awayScoring period="1" timeMinutes="8" timeSeconds="42" goal="13" assist1="76" assist2="7"/>
-    <awayScoring period="1" timeMinutes="5" timeSeconds="36" goal="11" assist1="5" assist2="3"/>
-    <awayScoring period="2" timeMinutes="10" timeSeconds="58" goal="15" assist1="13" assist2="5"/>
+    <awayScoring period="1" timeMinutes="5" timeSeconds="36" goal="11" assist1="55" assist2="3"/>
+    <awayScoring period="2" timeMinutes="10" timeSeconds="58" goal="15" assist1="13" assist2="55"/>
   </games>
   <games gameNumber="12" date="2017-09-22T22:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME">
     <homePenalties period="2" number="2" minutes="2" code="INT" timeMinutes="13" timeSeconds="8"/>
