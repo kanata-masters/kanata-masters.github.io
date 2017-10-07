@@ -233,8 +233,25 @@
     <awayScoring period="2" timeMinutes="11" timeSeconds="32" goal="11" assist1="12" assist2="9"/>
     <awayScoring period="2" timeSeconds="5" goal="9" assist1="10" assist2="12"/>
   </games>
-  <games gameNumber="19" date="2017-10-06T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME"/>
-  <games gameNumber="20" date="2017-10-06T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="19" date="2017-10-06T21:30:00.000-0400" arena="KRC Rink" home="Freedom 55" away="Eagleson Flooring" iceType="GAME">
+    <homePenalties period="2" number="16" minutes="2" code="HKG" timeMinutes="22" timeSeconds="6"/>
+    <homePenalties period="2" number="16" minutes="2" code="TR" timeMinutes="4" timeSeconds="44"/>
+    <homeScoring period="1" timeMinutes="9" timeSeconds="46" goal="21" assist1="8"/>
+    <homeScoring period="2" timeMinutes="8" timeSeconds="52" goal="10" assist1="4"/>
+    <awayPenalties period="1" number="14" minutes="1" code="BDG" timeMinutes="4" timeSeconds="41"/>
+    <awayPenalties period="2" number="8" minutes="2" code="TR" timeMinutes="16" timeSeconds="45"/>
+    <awayScoring period="1" timeMinutes="1" timeSeconds="53" goal="6"/>
+    <awayScoring period="1" timeSeconds="11" goal="6" assist1="8"/>
+    <awayScoring period="2" timeMinutes="15" timeSeconds="39" goal="10" assist1="15" assist2="4"/>
+    <awayScoring period="2" timeMinutes="12" timeSeconds="10" goal="8" assist1="11" assist2="14"/>
+    <awayScoring period="2" timeMinutes="5" timeSeconds="55" goal="10" assist1="15" assist2="14"/>
+  </games>
+  <games gameNumber="20" date="2017-10-06T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME">
+    <homePenalties period="2" number="7" minutes="2" code="HS" timeMinutes="17" timeSeconds="31"/>
+    <homeScoring period="1" timeMinutes="10" timeSeconds="59" goal="4" assist1="5" assist2="11"/>
+    <homeScoring period="2" timeMinutes="6" timeSeconds="35" goal="11" assist1="12" assist2="9"/>
+    <awayPenalties period="1" number="10" minutes="2" code="BC" timeMinutes="13" timeSeconds="20"/>
+  </games>
   <games gameNumber="21" date="2017-10-11T21:00:00.000-0400" arena="KRC Arena" home="Young Drivers" away="Urban Stone Surfaces" iceType="GAME"/>
   <games gameNumber="22" date="2017-10-11T22:00:00.000-0400" arena="KRC Arena" home="Trane Canada" away="Freedom 55" iceType="GAME"/>
   <games gameNumber="23" date="2017-10-13T21:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
