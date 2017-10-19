@@ -306,8 +306,21 @@
     <awayPenalties period="2" number="5" minutes="2" code="SL" timeMinutes="12" timeSeconds="56"/>
     <awayScoring period="2" timeMinutes="7" timeSeconds="10" goal="7" assist1="22" assist2="13"/>
   </games>
-  <games gameNumber="26" date="2017-10-18T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME"/>
-  <games gameNumber="27" date="2017-10-18T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME"/>
+  <games gameNumber="26" date="2017-10-18T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Trane Canada" iceType="GAME">
+    <homeScoring period="1" timeMinutes="18" timeSeconds="26" goal="6" assist1="10" assist2="2"/>
+    <homeScoring period="1" timeMinutes="17" timeSeconds="39" goal="10"/>
+    <homeScoring period="1" timeMinutes="12" timeSeconds="31" goal="10" assist1="19" assist2="12"/>
+    <homeScoring period="1" timeMinutes="3" timeSeconds="36" goal="19" assist1="15" assist2="12"/>
+    <homeScoring period="1" timeMinutes="2" timeSeconds="28" goal="19" assist1="10" assist2="12"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="33" goal="14" assist1="16" assist2="11"/>
+  </games>
+  <games gameNumber="27" date="2017-10-18T22:00:00.000-0400" arena="KRC Arena" home="Kanata Renovations" away="Young Drivers" iceType="GAME">
+    <homePenalties period="1" number="88" minutes="2" code="HKG" timeMinutes="5" timeSeconds="57"/>
+    <homeScoring period="1" timeMinutes="15" timeSeconds="57" goal="6" assist1="8"/>
+    <homeScoring period="2" timeMinutes="2" timeSeconds="6" goal="88" assist1="19"/>
+    <homeScoring period="2" timeSeconds="19" goal="11" assist1="10" assist2="88"/>
+    <awayScoring period="1" timeMinutes="19" timeSeconds="34" goal="9" assist1="7" assist2="5"/>
+  </games>
   <games gameNumber="28" date="2017-10-20T21:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Freedom 55" iceType="GAME"/>
   <games gameNumber="29" date="2017-10-20T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="30" date="2017-10-25T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
