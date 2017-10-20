@@ -34,8 +34,8 @@ UID: KMHA-GAME-11
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170922T213000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 11 at 9:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 11 at 9:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20170922T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -70,8 +70,8 @@ UID: KMHA-GAME-22
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171011T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 22 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 22 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20171011T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -124,8 +124,8 @@ UID: KMHA-GAME-39
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171108T210000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 39 at 9:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 39 at 9:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20171108T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -160,8 +160,8 @@ UID: KMHA-GAME-53
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171129T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 53 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 53 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20171129T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -223,8 +223,8 @@ UID: KMHA-GAME-74
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180112T213000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 74 at 9:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 74 at 9:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20180112T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -286,8 +286,8 @@ UID: KMHA-GAME-97
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180221T210000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 97 at 9:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 97 at 9:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20180221T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -304,8 +304,8 @@ UID: KMHA-GAME-103
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180228T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 103 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Trane Canada game number 103 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20180228T230000
 END:VEVENT
 BEGIN:VEVENT

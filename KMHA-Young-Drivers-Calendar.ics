@@ -7,8 +7,8 @@ UID: KMHA-GAME-3
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170908T213000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 3 at 9:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 3 at 9:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20170908T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +43,8 @@ UID: KMHA-GAME-14
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170927T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 14 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 14 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20170927T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -115,8 +115,8 @@ UID: KMHA-GAME-35
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171101T210000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 35 at 9:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 35 at 9:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20171101T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ UID: KMHA-GAME-44
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171115T210000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 44 at 9:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 44 at 9:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20171115T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -169,8 +169,8 @@ UID: KMHA-GAME-59
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171208T213000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 59 at 9:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 59 at 9:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20171208T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +232,8 @@ UID: KMHA-GAME-77
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180117T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 77 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 77 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20180117T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +268,8 @@ UID: KMHA-GAME-90
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180207T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 90 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Young Drivers game number 90 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20180207T230000
 END:VEVENT
 BEGIN:VEVENT

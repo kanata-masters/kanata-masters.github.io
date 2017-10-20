@@ -25,8 +25,8 @@ UID: KMHA-GAME-10
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170920T220000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 10 at 10:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 10 at 10:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20170920T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -133,8 +133,8 @@ UID: KMHA-GAME-47
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171117T223000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 47 at 10:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 47 at 10:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20171117T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -151,8 +151,8 @@ UID: KMHA-GAME-51
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171124T223000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 51 at 10:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 51 at 10:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20171124T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -187,8 +187,8 @@ UID: KMHA-GAME-65
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171220T210000
 LOCATION:KRC Arena
-SUMMARY:Freedom 55 at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 65 at 9:00PM versus Freedom 55 at KRC Arena
+SUMMARY:Big Rig at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 65 at 9:00PM versus Big Rig at KRC Arena
 DTEND;TZID=America/Toronto:20171220T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ UID: KMHA-GAME-70
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180105T223000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 70 at 10:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 70 at 10:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20180105T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +232,8 @@ UID: KMHA-GAME-79
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180119T223000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 79 at 10:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 79 at 10:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20180119T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -286,8 +286,8 @@ UID: KMHA-GAME-96
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180216T223000
 LOCATION:KRC Rink
-SUMMARY:Freedom 55 at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 96 at 10:30PM versus Freedom 55 at KRC Rink
+SUMMARY:Big Rig at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Urban Stone Surfaces game number 96 at 10:30PM versus Big Rig at KRC Rink
 DTEND;TZID=America/Toronto:20180216T233000
 END:VEVENT
 BEGIN:VEVENT
