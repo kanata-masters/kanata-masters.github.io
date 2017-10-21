@@ -22,6 +22,7 @@
   <players playerName="Dan Seguin" team="Big Rig" position="GOALTENDER" jerseyNumber="1"/>
   <players playerName="Darin Bailey" team="Eagleson Flooring" position="Player" jerseyNumber="5"/>
   <players playerName="Darin Bailey" team="Kanata Renovations" position="Player" jerseyNumber="12"/>
+  <players playerName="Darin Bailey" team="Big Rig" jerseyNumber="9"/>
   <players playerName="Darrell Smorhay" team="Urban Stone Surfaces" position="Player" jerseyNumber="15"/>
   <players playerName="Darryl Burwash" team="Urban Stone Surfaces" position="Player" jerseyNumber="12"/>
   <players playerName="Daryl Dods" team="Trane Canada" position="Player" jerseyNumber="14"/>
@@ -296,7 +297,7 @@
     <awayPenalties period="1" number="10" minutes="2" code="TR" timeMinutes="1" timeSeconds="40"/>
     <awayPenalties period="2" number="94" minutes="2" code="SL" timeMinutes="8" timeSeconds="4"/>
     <awayScoring period="2" timeMinutes="16" timeSeconds="21" goal="16" assist1="8" assist2="94"/>
-    <awayScoring period="2" timeMinutes="14" timeSeconds="42" goal="94" assist1="3" assist2="8"/>
+    <awayScoring period="2" timeMinutes="14" timeSeconds="42" goal="9" assist1="3" assist2="8"/>
   </games>
   <games gameNumber="25" date="2017-10-13T23:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME">
     <homeScoring period="1" timeMinutes="12" timeSeconds="52" goal="13" assist1="11" assist2="4"/>
@@ -321,8 +322,23 @@
     <homeScoring period="2" timeSeconds="19" goal="11" assist1="10" assist2="88"/>
     <awayScoring period="1" timeMinutes="19" timeSeconds="34" goal="9" assist1="7" assist2="5"/>
   </games>
-  <games gameNumber="28" date="2017-10-20T21:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Big Rig" iceType="GAME"/>
-  <games gameNumber="29" date="2017-10-20T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="28" date="2017-10-20T21:30:00.000-0400" arena="KRC Rink" home="Eagleson Flooring" away="Big Rig" iceType="GAME">
+    <homePenalties period="1" number="13" minutes="2" code="HS" timeSeconds="33"/>
+    <homePenalties period="2" number="8" minutes="2" code="HKG" timeMinutes="4" timeSeconds="58"/>
+    <homeScoring period="1" timeMinutes="18" timeSeconds="38" goal="13" assist1="9"/>
+    <homeScoring period="1" timeMinutes="8" timeSeconds="32" goal="6" assist1="11" assist2="14"/>
+    <awayPenalties period="1" number="14" minutes="2" code="HKG" timeMinutes="12" timeSeconds="42"/>
+    <awayPenalties period="1" number="16" minutes="2" code="HKG" timeMinutes="11" timeSeconds="58"/>
+    <awayScoring period="1" timeMinutes="4" timeSeconds="28" goal="6" assist1="10"/>
+    <awayScoring period="2" timeMinutes="21" timeSeconds="37" goal="5" assist1="14" assist2="11"/>
+    <awayScoring period="2" timeMinutes="12" timeSeconds="31" goal="8" assist1="9" assist2="12"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="14" goal="10" assist1="8"/>
+  </games>
+  <games gameNumber="29" date="2017-10-20T22:30:00.000-0400" arena="KRC Rink" home="Trane Canada" away="Kanata Renovations" iceType="GAME">
+    <awayScoring period="2" timeMinutes="19" timeSeconds="47" goal="9" assist1="88" assist2="6"/>
+    <awayScoring period="2" timeMinutes="13" timeSeconds="9" goal="88" assist1="11"/>
+    <awayScoring period="2" timeMinutes="11" timeSeconds="36" goal="11" assist1="5" assist2="88"/>
+  </games>
   <games gameNumber="30" date="2017-10-25T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
   <games gameNumber="31" date="2017-10-25T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
   <games gameNumber="32" date="2017-10-27T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Big Rig" iceType="GAME"/>
