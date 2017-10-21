@@ -16,8 +16,8 @@ UID: KMHA-GAME-5
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170913T210000
 LOCATION:KRC Arena
-SUMMARY:Big Rig at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 5 at 9:00PM versus Big Rig at KRC Arena
+SUMMARY:Big Rig Brewery at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 5 at 9:00PM versus Big Rig Brewery at KRC Arena
 DTEND;TZID=America/Toronto:20170913T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -61,8 +61,8 @@ UID: KMHA-GAME-19
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171006T213000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 19 at 9:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 19 at 9:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171006T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ UID: KMHA-GAME-28
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171020T213000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 28 at 9:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 28 at 9:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171020T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -151,8 +151,8 @@ UID: KMHA-GAME-49
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171122T220000
 LOCATION:KRC Arena
-SUMMARY:Big Rig at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 49 at 10:00PM versus Big Rig at KRC Arena
+SUMMARY:Big Rig Brewery at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 49 at 10:00PM versus Big Rig Brewery at KRC Arena
 DTEND;TZID=America/Toronto:20171122T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -187,8 +187,8 @@ UID: KMHA-GAME-62
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171213T220000
 LOCATION:KRC Arena
-SUMMARY:Big Rig at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 62 at 10:00PM versus Big Rig at KRC Arena
+SUMMARY:Big Rig Brewery at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 62 at 10:00PM versus Big Rig Brewery at KRC Arena
 DTEND;TZID=America/Toronto:20171213T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -250,8 +250,8 @@ UID: KMHA-GAME-82
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180126T213000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 82 at 9:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 82 at 9:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20180126T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -295,8 +295,8 @@ UID: KMHA-GAME-93
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180214T210000
 LOCATION:KRC Arena
-SUMMARY:Big Rig at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 93 at 9:00PM versus Big Rig at KRC Arena
+SUMMARY:Big Rig Brewery at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 93 at 9:00PM versus Big Rig Brewery at KRC Arena
 DTEND;TZID=America/Toronto:20180214T220000
 END:VEVENT
 BEGIN:VEVENT

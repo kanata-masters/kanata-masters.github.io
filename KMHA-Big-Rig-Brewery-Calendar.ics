@@ -8,7 +8,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170908T213000
 LOCATION:KRC Rink
 SUMMARY:Young Drivers at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 3 at 9:30PM versus Young Drivers at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 3 at 9:30PM versus Young Drivers at KRC Rink
 DTEND;TZID=America/Toronto:20170908T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170913T210000
 LOCATION:KRC Arena
 SUMMARY:Eagleson Flooring at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 5 at 9:00PM versus Eagleson Flooring at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 5 at 9:00PM versus Eagleson Flooring at KRC Arena
 DTEND;TZID=America/Toronto:20170913T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +26,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170920T220000
 LOCATION:KRC Arena
 SUMMARY:Urban Stone Surfaces at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 10 at 10:00PM versus Urban Stone Surfaces at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 10 at 10:00PM versus Urban Stone Surfaces at KRC Arena
 DTEND;TZID=America/Toronto:20170920T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170922T213000
 LOCATION:KRC Rink
 SUMMARY:Trane Canada at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 11 at 9:30PM versus Trane Canada at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 11 at 9:30PM versus Trane Canada at KRC Rink
 DTEND;TZID=America/Toronto:20170922T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20170927T220000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 14 at 10:00PM versus Young Drivers at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 14 at 10:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20170927T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171006T213000
 LOCATION:KRC Rink
 SUMMARY:Eagleson Flooring at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 19 at 9:30PM versus Eagleson Flooring at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 19 at 9:30PM versus Eagleson Flooring at KRC Rink
 DTEND;TZID=America/Toronto:20171006T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +62,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171011T220000
 LOCATION:KRC Arena
 SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 22 at 10:00PM versus Trane Canada at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 22 at 10:00PM versus Trane Canada at KRC Arena
 DTEND;TZID=America/Toronto:20171011T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +71,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171013T223000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 24 at 10:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 24 at 10:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20171013T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171020T213000
 LOCATION:KRC Rink
 SUMMARY:Eagleson Flooring at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 28 at 9:30PM versus Eagleson Flooring at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 28 at 9:30PM versus Eagleson Flooring at KRC Rink
 DTEND;TZID=America/Toronto:20171020T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +89,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171027T213000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 32 at 9:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 32 at 9:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20171027T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +98,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171101T210000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 35 at 9:00PM versus Young Drivers at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 35 at 9:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20171101T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +107,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171108T210000
 LOCATION:KRC Arena
 SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 39 at 9:00PM versus Trane Canada at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 39 at 9:00PM versus Trane Canada at KRC Arena
 DTEND;TZID=America/Toronto:20171108T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +116,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171110T233000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 43 at 11:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 43 at 11:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20171111T003000
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +125,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171115T210000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 44 at 9:00PM versus Young Drivers at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 44 at 9:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20171115T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -134,7 +134,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171117T223000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 47 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 47 at 10:30PM versus Urban Stone Surfaces at KRC Rink
 DTEND;TZID=America/Toronto:20171117T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +143,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171122T220000
 LOCATION:KRC Arena
 SUMMARY:Eagleson Flooring at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 49 at 10:00PM versus Eagleson Flooring at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 49 at 10:00PM versus Eagleson Flooring at KRC Arena
 DTEND;TZID=America/Toronto:20171122T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +152,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171124T223000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 51 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 51 at 10:30PM versus Urban Stone Surfaces at KRC Rink
 DTEND;TZID=America/Toronto:20171124T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -161,7 +161,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171129T220000
 LOCATION:KRC Arena
 SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 53 at 10:00PM versus Trane Canada at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 53 at 10:00PM versus Trane Canada at KRC Arena
 DTEND;TZID=America/Toronto:20171129T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +170,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171201T223000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 55 at 10:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 55 at 10:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20171201T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -179,7 +179,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171208T213000
 LOCATION:KRC Rink
 SUMMARY:Young Drivers at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 59 at 9:30PM versus Young Drivers at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 59 at 9:30PM versus Young Drivers at KRC Rink
 DTEND;TZID=America/Toronto:20171208T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -188,7 +188,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171213T220000
 LOCATION:KRC Arena
 SUMMARY:Eagleson Flooring at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 62 at 10:00PM versus Eagleson Flooring at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 62 at 10:00PM versus Eagleson Flooring at KRC Arena
 DTEND;TZID=America/Toronto:20171213T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -197,7 +197,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171220T210000
 LOCATION:KRC Arena
 SUMMARY:Urban Stone Surfaces at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 65 at 9:00PM versus Urban Stone Surfaces at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 65 at 9:00PM versus Urban Stone Surfaces at KRC Arena
 DTEND;TZID=America/Toronto:20171220T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -206,7 +206,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171222T223000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 68 at 10:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 68 at 10:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20171222T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -215,7 +215,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180105T223000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 70 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 70 at 10:30PM versus Urban Stone Surfaces at KRC Rink
 DTEND;TZID=America/Toronto:20180105T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -224,7 +224,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180112T213000
 LOCATION:KRC Rink
 SUMMARY:Trane Canada at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 74 at 9:30PM versus Trane Canada at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 74 at 9:30PM versus Trane Canada at KRC Rink
 DTEND;TZID=America/Toronto:20180112T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -233,7 +233,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180117T220000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 77 at 10:00PM versus Young Drivers at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 77 at 10:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20180117T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -242,7 +242,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180119T223000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 79 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 79 at 10:30PM versus Urban Stone Surfaces at KRC Rink
 DTEND;TZID=America/Toronto:20180119T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -251,7 +251,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180126T213000
 LOCATION:KRC Rink
 SUMMARY:Eagleson Flooring at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 82 at 9:30PM versus Eagleson Flooring at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 82 at 9:30PM versus Eagleson Flooring at KRC Rink
 DTEND;TZID=America/Toronto:20180126T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -260,7 +260,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180202T233000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 88 at 11:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 88 at 11:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20180203T003000
 END:VEVENT
 BEGIN:VEVENT
@@ -269,7 +269,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180207T220000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 90 at 10:00PM versus Young Drivers at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 90 at 10:00PM versus Young Drivers at KRC Arena
 DTEND;TZID=America/Toronto:20180207T230000
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +278,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180214T210000
 LOCATION:KRC Arena
 SUMMARY:Eagleson Flooring at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 93 at 9:00PM versus Eagleson Flooring at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 93 at 9:00PM versus Eagleson Flooring at KRC Arena
 DTEND;TZID=America/Toronto:20180214T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -287,7 +287,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180216T223000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 96 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 96 at 10:30PM versus Urban Stone Surfaces at KRC Rink
 DTEND;TZID=America/Toronto:20180216T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -296,7 +296,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180221T210000
 LOCATION:KRC Arena
 SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 97 at 9:00PM versus Trane Canada at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 97 at 9:00PM versus Trane Canada at KRC Arena
 DTEND;TZID=America/Toronto:20180221T220000
 END:VEVENT
 BEGIN:VEVENT
@@ -305,7 +305,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180223T213000
 LOCATION:KRC Rink
 SUMMARY:Kanata Renovations at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 99 at 9:30PM versus Kanata Renovations at KRC Rink
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 99 at 9:30PM versus Kanata Renovations at KRC Rink
 DTEND;TZID=America/Toronto:20180223T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -314,7 +314,7 @@ DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180228T220000
 LOCATION:KRC Arena
 SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Big Rig game number 103 at 10:00PM versus Trane Canada at KRC Arena
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 103 at 10:00PM versus Trane Canada at KRC Arena
 DTEND;TZID=America/Toronto:20180228T230000
 END:VEVENT
 END:VCALENDAR

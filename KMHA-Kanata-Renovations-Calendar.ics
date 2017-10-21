@@ -70,8 +70,8 @@ UID: KMHA-GAME-24
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171013T223000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 24 at 10:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 24 at 10:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171013T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -106,8 +106,8 @@ UID: KMHA-GAME-32
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171027T213000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 32 at 9:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 32 at 9:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171027T223000
 END:VEVENT
 BEGIN:VEVENT
@@ -133,8 +133,8 @@ UID: KMHA-GAME-43
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171110T233000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 43 at 11:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 11:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 43 at 11:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171111T003000
 END:VEVENT
 BEGIN:VEVENT
@@ -169,8 +169,8 @@ UID: KMHA-GAME-55
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171201T223000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 55 at 10:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 55 at 10:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171201T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ UID: KMHA-GAME-68
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20171222T223000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 68 at 10:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 68 at 10:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20171222T233000
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +268,8 @@ UID: KMHA-GAME-88
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180202T233000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 88 at 11:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 11:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 88 at 11:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20180203T003000
 END:VEVENT
 BEGIN:VEVENT
@@ -295,8 +295,8 @@ UID: KMHA-GAME-99
 DTSTAMP:20170904T235900
 DTSTART;TZID=America/Toronto:20180223T213000
 LOCATION:KRC Rink
-SUMMARY:Big Rig at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 99 at 9:30PM versus Big Rig at KRC Rink
+SUMMARY:Big Rig Brewery at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 99 at 9:30PM versus Big Rig Brewery at KRC Rink
 DTEND;TZID=America/Toronto:20180223T223000
 END:VEVENT
 BEGIN:VEVENT
