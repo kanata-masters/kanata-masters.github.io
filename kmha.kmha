@@ -339,8 +339,30 @@
     <awayScoring period="2" timeMinutes="13" timeSeconds="9" goal="88" assist1="11"/>
     <awayScoring period="2" timeMinutes="11" timeSeconds="36" goal="11" assist1="5" assist2="88"/>
   </games>
-  <games gameNumber="30" date="2017-10-25T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME"/>
-  <games gameNumber="31" date="2017-10-25T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME"/>
+  <games gameNumber="30" date="2017-10-25T21:00:00.000-0400" arena="KRC Arena" home="Urban Stone Surfaces" away="Young Drivers" iceType="GAME">
+    <homePenalties period="2" number="9" minutes="2" code="RO" timeMinutes="11" timeSeconds="40"/>
+    <homePenalties period="2" number="8" minutes="2" code="BC" timeMinutes="3" timeSeconds="30"/>
+    <homeScoring period="1" timeMinutes="15" timeSeconds="10" goal="6" assist1="7" assist2="18"/>
+    <homeScoring period="1" timeMinutes="6" timeSeconds="12" goal="12" assist1="11" assist2="9"/>
+    <homeScoring period="1" timeMinutes="4" timeSeconds="39" goal="18" assist1="6" assist2="10"/>
+    <homeScoring period="2" timeMinutes="1" timeSeconds="18" goal="6" assist1="10"/>
+    <awayPenalties period="2" number="13" minutes="2" code="RO" timeMinutes="11" timeSeconds="40"/>
+    <awayScoring period="1" timeMinutes="16" goal="11" assist1="6" assist2="15"/>
+    <awayScoring period="1" timeMinutes="5" timeSeconds="48" goal="9" assist1="12" assist2="5"/>
+    <awayScoring period="1" timeMinutes="3" timeSeconds="3" goal="4" assist1="9" assist2="5"/>
+    <awayScoring period="1" timeSeconds="18" goal="5" assist1="9" assist2="4"/>
+    <awayScoring period="2" timeMinutes="6" timeSeconds="20" goal="16" assist1="4" assist2="6"/>
+    <awayScoring period="2" timeSeconds="23" goal="9" assist1="15" assist2="14"/>
+  </games>
+  <games gameNumber="31" date="2017-10-25T22:00:00.000-0400" arena="KRC Arena" home="Eagleson Flooring" away="Kanata Renovations" iceType="GAME">
+    <homePenalties period="2" number="6" minutes="2" code="TR" timeMinutes="10" timeSeconds="33"/>
+    <homeScoring period="1" timeMinutes="3" timeSeconds="21" goal="2" assist1="13" assist2="6"/>
+    <homeScoring period="2" timeMinutes="13" timeSeconds="8" goal="8" assist1="9"/>
+    <awayScoring period="1" timeMinutes="13" timeSeconds="53" goal="3"/>
+    <awayScoring period="1" timeMinutes="9" timeSeconds="26" goal="8" assist1="6"/>
+    <awayScoring period="2" timeMinutes="9" timeSeconds="50" goal="5" assist1="19" assist2="9"/>
+    <awayScoring period="2" timeSeconds="18" goal="11" assist1="6" assist2="19"/>
+  </games>
   <games gameNumber="32" date="2017-10-27T21:30:00.000-0400" arena="KRC Rink" home="Kanata Renovations" away="Big Rig Brewery" iceType="GAME"/>
   <games gameNumber="33" date="2017-10-27T22:30:00.000-0400" arena="KRC Rink" home="Young Drivers" away="Trane Canada" iceType="GAME"/>
   <games gameNumber="34" date="2017-10-27T23:30:00.000-0400" arena="KRC Rink" home="Urban Stone Surfaces" away="Eagleson Flooring" iceType="GAME"/>
