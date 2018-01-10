@@ -317,4 +317,49 @@ SUMMARY:Trane Canada at 10:30PM
 DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 105 at 10:30PM versus Trane Canada at KRC Rink
 DTEND;TZID=America/Toronto:20180302T233000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-203
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180309T213000
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 203 at 9:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20180309T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-206
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180314T220000
+LOCATION:KRC Arena
+SUMMARY:Big Rig Brewery at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 206 at 10:00PM versus Big Rig Brewery at KRC Arena
+DTEND;TZID=America/Toronto:20180314T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-208
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180316T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 208 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20180316T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-212
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180323T190000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 7:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 212 at 7:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20180323T200000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-214
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180328T220000
+LOCATION:KRC Arena
+SUMMARY:Young Drivers at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Kanata Renovations game number 214 at 10:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20180328T230000
+END:VEVENT
 END:VCALENDAR

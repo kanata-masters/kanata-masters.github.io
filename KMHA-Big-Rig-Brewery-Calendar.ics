@@ -317,4 +317,49 @@ SUMMARY:Trane Canada at 10:00PM
 DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 103 at 10:00PM versus Trane Canada at KRC Arena
 DTEND;TZID=America/Toronto:20180228T230000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-201
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180307T210000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 201 at 9:00PM versus Eagleson Flooring at KRC Arena
+DTEND;TZID=America/Toronto:20180307T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-206
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180314T220000
+LOCATION:KRC Arena
+SUMMARY:Kanata Renovations at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 206 at 10:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20180314T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-207
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180316T213000
+LOCATION:KRC Rink
+SUMMARY:Young Drivers at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 207 at 9:30PM versus Young Drivers at KRC Rink
+DTEND;TZID=America/Toronto:20180316T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-210
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180321T210000
+LOCATION:KRC Arena
+SUMMARY:Trane Canada at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 210 at 9:00PM versus Trane Canada at KRC Arena
+DTEND;TZID=America/Toronto:20180321T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-213
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180323T180000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 6:00PM
+DESCRIPTION: Kanata Masters Hockey: Big Rig Brewery game number 213 at 6:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20180323T190000
+END:VEVENT
 END:VCALENDAR
