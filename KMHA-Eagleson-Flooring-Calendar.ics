@@ -3,363 +3,318 @@ VERSION:2.0
 X-WR-TIMEZONE:America/Toronto
 PRODID:Kanata Masters Hockey Association
 BEGIN:VEVENT
-UID: KMHA-GAME-2
+UID: KMHA-GAME-3
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20170906T220000
-LOCATION:KRC Arena
-SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 2 at 10:00PM versus Trane Canada at KRC Arena
-DTEND;TZID=America/Toronto:20170906T230000
+DTSTART;TZID=America/Toronto:20180907T213000
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 3 at 9:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20180907T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-5
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20170913T210000
+DTSTART;TZID=America/Toronto:20180912T210000
 LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 5 at 9:00PM versus Big Rig Brewery at KRC Arena
-DTEND;TZID=America/Toronto:20170913T220000
+SUMMARY:Kanata Renovations at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 5 at 9:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20180912T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-8
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20170915T223000
+DTSTART;TZID=America/Toronto:20180914T223000
 LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 8 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20170915T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-9
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20170920T210000
-LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 9 at 9:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20170920T220000
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 8 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20180914T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-13
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20170927T210000
+DTSTART;TZID=America/Toronto:20180921T223000
+LOCATION:KRC Rink
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 13 at 10:30PM versus Big Rig Brewery at KRC Rink
+DTEND;TZID=America/Toronto:20180921T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-14
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20180926T210000
 LOCATION:KRC Arena
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 13 at 9:00PM versus Trane Canada at KRC Arena
-DTEND;TZID=America/Toronto:20170927T220000
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 14 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20180926T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-16
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20170929T223000
+DTSTART;TZID=America/Toronto:20180928T213000
 LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 16 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20170929T233000
+SUMMARY:Kanata Renovations at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 16 at 9:30PM versus Kanata Renovations at KRC Rink
+DTEND;TZID=America/Toronto:20180928T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-19
+UID: KMHA-GAME-20
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171006T213000
-LOCATION:KRC Rink
-SUMMARY:Big Rig Brewery at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 19 at 9:30PM versus Big Rig Brewery at KRC Rink
-DTEND;TZID=America/Toronto:20171006T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-23
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171013T213000
+DTSTART;TZID=America/Toronto:20181005T213000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 23 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20171013T223000
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 20 at 9:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20181005T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-28
+UID: KMHA-GAME-25
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171020T213000
+DTSTART;TZID=America/Toronto:20181012T223000
 LOCATION:KRC Rink
-SUMMARY:Big Rig Brewery at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 28 at 9:30PM versus Big Rig Brewery at KRC Rink
-DTEND;TZID=America/Toronto:20171020T223000
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 25 at 10:30PM versus Big Rig Brewery at KRC Rink
+DTEND;TZID=America/Toronto:20181012T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-26
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20181017T210000
+LOCATION:KRC Arena
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 26 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20181017T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-29
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20181019T223000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 29 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20181019T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-31
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171025T220000
+DTSTART;TZID=America/Toronto:20181024T210000
 LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 31 at 10:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20171025T230000
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 31 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20181024T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-34
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171027T233000
+DTSTART;TZID=America/Toronto:20181026T223000
 LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 34 at 11:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20171028T003000
+SUMMARY:Urban Stone Surfaces at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 34 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20181026T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-36
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171101T220000
-LOCATION:KRC Arena
-SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 36 at 10:00PM versus Trane Canada at KRC Arena
-DTEND;TZID=America/Toronto:20171101T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-38
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171103T223000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 38 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20171103T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-40
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171108T220000
+DTSTART;TZID=America/Toronto:20181031T220000
 LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 40 at 10:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20171108T230000
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 36 at 10:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20181031T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-42
+UID: KMHA-GAME-37
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171110T223000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 42 at 10:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20171110T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-46
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171117T213000
+DTSTART;TZID=America/Toronto:20181102T213000
 LOCATION:KRC Rink
 SUMMARY:Trane Canada at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 46 at 9:30PM versus Trane Canada at KRC Rink
-DTEND;TZID=America/Toronto:20171117T223000
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 37 at 9:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20181102T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-49
+UID: KMHA-GAME-41
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171122T220000
+DTSTART;TZID=America/Toronto:20181107T220000
 LOCATION:KRC Arena
 SUMMARY:Big Rig Brewery at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 49 at 10:00PM versus Big Rig Brewery at KRC Arena
-DTEND;TZID=America/Toronto:20171122T230000
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 41 at 10:00PM versus Big Rig Brewery at KRC Arena
+DTEND;TZID=America/Toronto:20181107T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-52
+UID: KMHA-GAME-47
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171129T210000
-LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 52 at 9:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20171129T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-54
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171201T213000
+DTSTART;TZID=America/Toronto:20181116T223000
 LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 54 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20171201T223000
+SUMMARY:Kanata Renovations at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 47 at 10:30PM versus Kanata Renovations at KRC Rink
+DTEND;TZID=America/Toronto:20181116T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-57
+UID: KMHA-GAME-50
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171206T210000
+DTSTART;TZID=America/Toronto:20181123T213000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 50 at 9:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20181123T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-53
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20181128T210000
 LOCATION:KRC Arena
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 57 at 9:00PM versus Trane Canada at KRC Arena
-DTEND;TZID=America/Toronto:20171206T220000
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 53 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20181128T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-56
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20181130T223000
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 56 at 10:30PM versus Urban Stone Surfaces at KRC Rink
+DTEND;TZID=America/Toronto:20181130T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-58
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20181205T220000
+LOCATION:KRC Arena
+SUMMARY:Big Rig Brewery at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 58 at 10:00PM versus Big Rig Brewery at KRC Arena
+DTEND;TZID=America/Toronto:20181205T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-62
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171213T220000
+DTSTART;TZID=America/Toronto:20181212T220000
 LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 62 at 10:00PM versus Big Rig Brewery at KRC Arena
-DTEND;TZID=America/Toronto:20171213T230000
+SUMMARY:Kanata Renovations at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 62 at 10:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20181212T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-64
+UID: KMHA-GAME-66
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171215T223000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 64 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20171215T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-67
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20171222T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 67 at 9:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20171222T223000
+DTSTART;TZID=America/Toronto:20181219T220000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 66 at 10:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20181219T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-71
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180105T233000
+DTSTART;TZID=America/Toronto:20190104T233000
 LOCATION:KRC Rink
-SUMMARY:Young Drivers at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 71 at 11:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20180106T003000
+SUMMARY:Trane Canada at 11:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 71 at 11:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20190105T003000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-73
+UID: KMHA-GAME-72
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180110T220000
+DTSTART;TZID=America/Toronto:20190109T210000
 LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 73 at 10:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20180110T230000
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 72 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20190109T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-75
+UID: KMHA-GAME-74
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180112T223000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 75 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20180112T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-78
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180119T213000
-LOCATION:KRC Rink
-SUMMARY:Trane Canada at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 78 at 9:30PM versus Trane Canada at KRC Rink
-DTEND;TZID=America/Toronto:20180119T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-82
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180126T213000
+DTSTART;TZID=America/Toronto:20190111T213000
 LOCATION:KRC Rink
 SUMMARY:Big Rig Brewery at 9:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 82 at 9:30PM versus Big Rig Brewery at KRC Rink
-DTEND;TZID=America/Toronto:20180126T223000
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 74 at 9:30PM versus Big Rig Brewery at KRC Rink
+DTEND;TZID=America/Toronto:20190111T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-77
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20190116T220000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 77 at 10:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20190116T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-81
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20190123T220000
+LOCATION:KRC Arena
+SUMMARY:Kanata Renovations at 10:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 81 at 10:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20190123T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-84
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180131T210000
+DTSTART;TZID=America/Toronto:20190125T233000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 11:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 84 at 11:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20190126T003000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-85
+DTSTAMP:20170904T235900
+DTSTART;TZID=America/Toronto:20190130T210000
 LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 84 at 9:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20180131T220000
+SUMMARY:Young Drivers at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 85 at 9:00PM versus Young Drivers at KRC Arena
+DTEND;TZID=America/Toronto:20190130T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-87
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180202T223000
+DTSTART;TZID=America/Toronto:20190201T213000
 LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 87 at 10:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20180202T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-89
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180207T210000
-LOCATION:KRC Arena
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 89 at 9:00PM versus Trane Canada at KRC Arena
-DTEND;TZID=America/Toronto:20180207T220000
+SUMMARY:Big Rig Brewery at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 87 at 9:30PM versus Big Rig Brewery at KRC Rink
+DTEND;TZID=America/Toronto:20190201T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-92
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180209T223000
+DTSTART;TZID=America/Toronto:20190208T223000
 LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 92 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20180209T233000
+SUMMARY:Trane Canada at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 92 at 10:30PM versus Trane Canada at KRC Rink
+DTEND;TZID=America/Toronto:20190208T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-93
+UID: KMHA-GAME-94
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180214T210000
+DTSTART;TZID=America/Toronto:20190213T210000
 LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 93 at 9:00PM versus Big Rig Brewery at KRC Arena
-DTEND;TZID=America/Toronto:20180214T220000
+SUMMARY:Urban Stone Surfaces at 9:00PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 94 at 9:00PM versus Urban Stone Surfaces at KRC Arena
+DTEND;TZID=America/Toronto:20190213T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-101
+UID: KMHA-GAME-98
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180223T233000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 101 at 11:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20180224T003000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-102
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180228T210000
+DTSTART;TZID=America/Toronto:20190220T210000
 LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 102 at 9:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20180228T220000
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 98 at 9:00PM versus Kanata Renovations at KRC Arena
+DTEND;TZID=America/Toronto:20190220T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-201
+UID: KMHA-GAME-100
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180307T210000
-LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 201 at 9:00PM versus Big Rig Brewery at KRC Arena
-DTEND;TZID=America/Toronto:20180307T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-204
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180309T223000
+DTSTART;TZID=America/Toronto:20190222T213000
 LOCATION:KRC Rink
-SUMMARY:Young Drivers at 10:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 204 at 10:30PM versus Young Drivers at KRC Rink
-DTEND;TZID=America/Toronto:20180309T233000
+SUMMARY:Young Drivers at 9:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 100 at 9:30PM versus Young Drivers at KRC Rink
+DTEND;TZID=America/Toronto:20190222T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-209
+UID: KMHA-GAME-105
 DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180316T233000
+DTSTART;TZID=America/Toronto:20190301T223000
 LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 11:30PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 209 at 11:30PM versus Urban Stone Surfaces at KRC Rink
-DTEND;TZID=America/Toronto:20180317T003000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-212
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180323T190000
-LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 7:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 212 at 7:00PM versus Kanata Renovations at KRC Arena
-DTEND;TZID=America/Toronto:20180323T200000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-215
-DTSTAMP:20170904T235900
-DTSTART;TZID=America/Toronto:20180328T210000
-LOCATION:KRC Arena
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 215 at 9:00PM versus Trane Canada at KRC Arena
-DTEND;TZID=America/Toronto:20180328T220000
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION: Kanata Masters Hockey: Eagleson Flooring game number 105 at 10:30PM versus Big Rig Brewery at KRC Rink
+DTEND;TZID=America/Toronto:20190301T233000
 END:VEVENT
 END:VCALENDAR
