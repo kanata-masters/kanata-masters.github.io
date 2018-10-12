@@ -1,0 +1,484 @@
+# Kanata Masters Hockey Association Constitution
+## Originally Approved by the KMHA Board of Directors, May 30th, 2011
+Revised: September 6, 2017
+
+# 1. Purpose of the Kanata Masters
+
+1.1 The name of the association is the Kanata Masters Hockey Association, abbreviated as KMHA.
+
+1.2 The aim of the Kanata Masters Hockey Association (KMHA) is to provide a safe and friendly environment for our
+members to play a game they enjoy at an adult recreational level.
+
+1.3 This Constitution lays out the rules and regulations followed by the KMHA.
+                      
+1.4 The Constitution will be reviewed annually. Changes and/or revisions must be forwarded to the Board of Directors and
+be approved by a majority vote as per Article 2.5 and 2.6.
+
+1.5 The fiscal year for the KMHA commences August 1st and ends July 31st.
+
+1.6 During the regular season of the KMHA, each team will play of thirty-five (35) games and each of the six (6) teams
+will play every other team seven (7) times.
+
+1.7 During the playoffs of the KMHA, each team will play of five (5) games and each of the six (6) teams will play every
+other team one (1) time.
+
+# 2. Board of Directors
+
+2.1 The Board of Directors shall carry out the business of the KMHA.
+
+2.2 The Board of Directors is empowered to make all rules, regulations, constitutional amendments and decisions for the
+operation of the KMHA.
+
+2.3 The Board of Directors will consist of a President and six team Captains, for a total of seven (7), all of which
+must be active players in the KMHA. 
+
+2.4 The Constitution does not prevent the President from being a team Captain. In this case the Board of Directors
+will be the six (6) team captains.
+
+2.5 Each member of the Board of Directors will be entitled to one (1) vote on matters pertaining to business of the
+Board.
+
+2.6 The President shall cast the deciding vote in the event of a tie vote.
+
+2.7 When a vote is requested by members of the Board of Directors, votes must be cast within twenty-four (24) hours by
+the President or team Captains. Proxy votes are not permitted.
+
+2.8 Any one member of the Board of Directors may be removed for cause upon a written motion that is signed by all
+other members of the Board of Directors. 
+
+# 3. Executive Committee
+
+3.1 Individuals on the Board of Directors shall execute positions of the Executive Committee. This committee will be
+comprised with the following positions and duties:
+
+3.1.1 President
+
+3.1.1.1. Shall be the official spokesperson for the KMHA.
+
+3.1.1.2. Shall call all meetings of the Board of Directors or Executive Committee.
+
+3.1.1.3. Preside at all called meetings of the Board of Directors or Executive Committee.
+
+3.1.1.4. Co-sign all cheques.
+
+3.1.1.5. Prepare an agenda for all meetings and distribute them prior to the called meeting.
+
+3.1.1.6. Record all minutes of the Executive and Board meetings.
+
+3.1.1.7. Ensure all Board members receive minutes following the meeting.
+
+3.1.1.8. Act as the third member of the Disciplinary Committee (as per Article 3.1).
+
+3.1.1.9. Be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.2 Treasurer
+
+3.1.2.1. Purchase ice from the City of Ottawa.
+
+3.1.2.2. Maintain all financial records of the KMHA.
+
+3.1.2.3. Maintain registration records of players.
+
+3.1.2.4. Maintain CAHRA player insurance for all registered players.
+
+3.1.2.5. Be the Official Signee for all financial matters for the KMHA.
+
+3.1.2.6. Will prepare a budget for the following season.
+
+3.1.2.7. Will provide the budget for the year-end banquet.
+
+3.1.2.8. Submit a financial report at the annual meeting detailing expenditures, revenues and bank balance.
+
+3.1.2.9. Replace the President on the Disciplinary Committee in the event the President is unavailable or has to
+remove himself due to a conflict.
+
+3.1.2.9. Be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.3 Disciplinary Committee
+
+3.1.3.1. The Disciplinary Committee will be comprised of a minimum of three (3) members from the Board of Directors.
+
+3.1.3.2 The President will be a member of the Disciplinary Committee.
+
+3.1.3.3 The Disciplinary Committee shall review and investigate all matters brought forward to their attention and
+shall strive to assess all discipline issues within seventy-two (72) hours.
+
+3.1.3.4 The Disciplinary Committee shall strive to notify a player and his Captain in writing of any suspension no less
+than twenty-four (24) hours before the player’s next game.
+
+3.1.3.5 While carrying out an investigation, the Disciplinary Committee may have the scenario where it is known that
+the incident under investigation will require a lengthy suspension; the only decision required is the length of the
+suspension. In this scenario, the Disciplinary Committee may suspend the player indefinitely, pending the
+completion of the investigation.
+
+3.1.3.6 In carrying out an investigation, the Disciplinary Committee shall provide the Captains (or their
+representative) of players involved in the altercation an opportunity to provide details of the incident.
+
+3.1.3.7 Upon completion of the review, the Disciplinary Committee shall prepare a written report for the Board of
+Directors which shall include:
+
+1. Summary of the events.
+2. Mitigating factors.
+3. Recommended action/discipline.
+
+3.1.3.8 At any time the Disciplinary Committee is empowered to refer the recommended action/discipline to the Board of
+Directors for consideration. In such situations, the Captain of the Player(s) involved in the altercation are deemed
+to be in conflict of interest and are ineligible to participate in any related vote by the Board of Directors.
+
+3.1.3.9 In the event the Board of Directors votes on the disciplinary action to be taken, the vote will be conducted in
+a timely fashion and will be completed no more than twenty-four (24) hours (as per 2.7).
+
+3.1.3.10 Upon receiving a suspension notice, the player may file a written protest via his Captain. The protest will be
+reviewed by the Board of Directors. The Player filing the protest remains under suspension during the review of the
+protest.
+
+3.1.3.11. The Disciplinary Committee will be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.4 Scheduler
+
+3.1.4.1. Prepare the schedule for the regular season and playoffs.
+
+3.1.4.2. Be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.5 Referee Liaison
+
+3.1.5.1. Work with the Head Referee to ensuring there are Referees available for each game.
+
+3.1.5.2. Will ensure Referees are paid for each game.
+
+3.1.5.3. Shall be the KMHA representative in discussing all officiating matters with the Head Referee.
+
+3.1.5.4. Shall ensure all Referee Reports are in order and reported to the Disciplinary Committee.
+
+3.1.5.5. Be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.6 Timekeeper Liaison
+
+3.1.6.1. Ensuring there is a Timekeeper available for each game to run the clock and accurately record game statistics.
+
+3.1.6.2. Ensure the Timekeeper is paid for each game.
+
+3.1.6.3. Be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.7 Website Manager and Statistician
+
+3.1.7.1 Will be responsible for ensuring the KMHA website is updated on a regular basis.
+
+3.1.7.2 Will report penalties exceeding the set limit for suspension of a player to the Disciplinary Committee.
+
+3.1.7.3. Be elected annually by the Board of Directors for a one (1) year term.
+
+3.1.8 Banquet Liaison
+
+3.1.8.1. Shall be responsible to coordinate and implement the annual year-end banquet, including:
+- Meal plan
+- Location
+- Attendance
+- Prizes
+- Raffles
+- Recovery of KMHA Trophies from previous years winners
+
+3.1.8.2. Shall submit their proposal to the Board of Directors no later than the end of the regular season.
+
+3.1.8.3. Be elected annually by the Board of Directors for a one (1) year term.
+
+# 4. Annual Board Meeting
+
+4.1 An Annual Board Meeting may be held at or near the end of the regular season for the purpose of carrying on the
+business of the KMHA and to ratify the actions of the Board of Directors. The agenda will include:
+
+4.1.1 Election of Board of Directors and Executive Committee for the next year.
+
+4.1.2 Lottery for draft positions.
+
+4.1.3 Review financial statements.
+
+4.1.4 Review the past season and consider any changes to be implemented to the Constitution for the following season.
+
+4.1.5 The Treasurer will present the proposed budget for the Captains to agree on fees for next season.
+
+4.1.6 The Scheduler will present any proposed schedule changes for the Captains to agree on for the next season.
+
+4.2 The Board of Directors will hold at least one (1) meeting during the course of the regular season to review issues
+of the current season and suggest changes that could be implemented in the current season.
+
+4.3 All Board of Directors and Executive Committee meetings will be determined by the President upon necessity or
+requirement to carry out KMHA business.
+
+4.4 The quorum of a Board of Directors meeting shall be ALL of the members of the Board of Directors.
+
+# 5. Player Fees
+
+5.1 The Board of Directors will decide before the registration process begins the fees for the upcoming season
+including:
+
+5.1.1 First amount.
+
+5.1.2 Final amount.
+
+5.2 To be eligible for registration, a player must provide post dated cheques for the first and final amount before
+11:00pm of the night of annual KMHA banquet.
+
+5.3 Any player who fails to provide their cheques before the deadline in Article 5.2 may be subject to having their
+registration denied. 
+
+5.4 Any player with issues with their first amount cheque and have not made alternate arrangements with the Treasurer
+before their first game will be be removed from the KMHA.
+ 
+5.5 Any player with issues with their final amount cheque and have not made alternate arrangements with the Treasurer
+before their next game will be be removed from the KMHA. No refunds of the first amount will be made to the removed
+player.
+
+# 6. Player Eligibility
+
+6.1 Eligible players must be male and fifty (50) years of age at the time of the annual draft.
+
+6.2 The Board of Directors has the discretion to waive Article 5.1.
+
+6.3 Eligible players must be in good standing with the League, which includes but is not limited to financial standing,
+disciplinary standing and team sweaters having been returned.
+
+6.6 KMHA registrations will be accepted in the following priority:
+
+6.6.1 Players who have played at least two (2) seasons in the KMHA and are in good standing.
+
+6.6.2 Players who have played their first year and are in good standing and have been accepted back in the KMHA.
+
+6.6.3 Alumni players who have played at least two (2) previous seasons in the KMHA.
+
+6.6.4 New Players, where preference will be given to players from the spares list who participated during the season.
+
+6.7 The Board of Directors has the discretion to waive the order in Article 5.6.
+
+# 7. Annual Draft
+
+7.1 Team rosters will be established based on the annual KMHA draft with no protected players.
+
+7.2 The list of eligible players shall be divided based on their KMHA status and be listed numerically. 
+
+7.3 The Board of Directors may agree to provide a numerical list of players ordering their relative strength of hockey
+skills from high (10) to low (1).
+
+7.4 The draft order selection will be by a draw of a marked ballot numbered one (1) to six (6) prior to the drafting
+process.
+
+7.5 The order of drafting players off the draft list will be one (1) to six (6) and then six (6) to one (1).
+
+7.6 Trading of draft positions (draft order) is permissible up to the start of the draft. Once the President indicates
+that the draft will commence no further trading of draft positions (draft order) are allowable.
+
+7.7 Trading of specific draft picks is not permissible. More specifically, Captains cannot trade single or multiple
+draft picks (i.e. overall pick #12 and #29 for overall picks #19 and #21).
+
+7.8 Drafting two goaltenders is not permitted.
+
+7.9 Trading of players is allowed, but all trades must be approved vote of the Board of Directors present at the draft.
+ 
+7.10 There will be NO trading after the closure of the draft meeting.
+
+7.11 The draft will be deemed closed by the President and this will occur approximately 30 minutes from the time the
+last player being selected.
+
+7.12 Team rosters shall number fourteen (14) including one goaltender and cannot ever exceed this number. 
+
+7.13 The Captains will be rated for the purpose of the draft. They must select themselves in the round where they are
+rated.
+
+7.14 The Captains will agree on the ratings of the Captains prior to the draft by vote.
+
+# 8. Multi-Game Player Replacement
+
+8.1 If a team is losing a player for an extended period of time (minimum of four (4) weeks), the Captain has the option
+to pick up an assessed player of equal caliber from the spares list. The spare player will pay fifteen ($15) per game.
+The following procedures are to be followed:
+
+8.1.1 The Captain seeking a replacement player will notify the Board of Directors.
+
+8.1.2 The email shall contain information on the length of time the player will not be available and the reason
+(i.e. injury, personal) and the proposed replacement.
+
+8.2 The Captain utilizing a replacement player will be responsible for collecting the fifteen dollar ($15) fee for each
+game played and ensuring that the player that is absent receives the funds.
+
+8.3 The refund available to the player that is absent for an extended period of time is limited to the KMHA fees
+collected for games played by the replacement player.
+
+8.4 A Multi-Game Player Replacement is optional and their is no guarantee an injured player will receive a refund during
+their injury.
+
+# 9. Single Game Player Replacement (Regular Season)
+
+9.1 A Captain has the option to have a single game replacement player(s) if they would otherwise have less than ten (10)
+skaters (i.e. nine (9) skaters not including the goaltender).
+
+9.2 A single game replacement player shall be an active player in the KMHA or a player on the official spares list.
+
+9.3 It is desired to have as many players as possible play for the spares list for evaluation as future members of the
+KMHA.
+
+9.4 In the spirit of fair play, it is expected that a single game replacement player will be of equal or 
+lower skill than the player being replaced. It is not fair play to replace your missing ninth, tenth and eleventh round
+drafted player with a first round player.
+
+9.5 When selecting an active player in the KMHA, you cannot have a player spare to play BEFORE their own game on the
+same night.
+
+9.6 Captains should first try to get a substitute goaltender who is not already playing that night.
+
+9.7 A Player under suspension from the KMHA is not eligible to play as a single game replacement until their suspension
+has been served. For the purpose of single game replacement their suspension is deemed to be complete at the
+completion of the last game they were suspended. In this manner they could play as a single game replacement before
+they actually play with their own team again.
+
+9.8 A Team may not replace a player who is currently under suspension from the KMHA.
+
+9.9 Penalty minutes assessed while playing for another team as a replacement player are included in a player’s total
+penalty minutes in assessing a suspension under Article 15.
+
+9.10 When utilizing a single game replacement player(s) the team roster may not exceed ten (10) skaters plus a
+goaltender.
+
+9.11 In all situations, the Captain utilizing a single game replacement is required to notify the full Board of
+Directors in advance of the game.
+
+9.12 The Captain utilizing a single game replacement player will be responsible for collecting a ten dollar ($10) fee
+for each game played and ensuring the fee is given to the Treasurer. The game fee only applies to players from the
+spares list and not active players in the KMHA. 
+
+# 10. Playing Rules
+
+10.1 The KMHA will observe the Hockey Canada playing rules, following the Hockey Canada Referee's Case Book / Rule
+Combination 2018-2020 available for download from the Hockey Canada website. However, the KMHA will observe specific
+variations of the rules as expected in Article 10.
+
+10.2 The KMHA will observe the Hockey Canada Minimum Suspension Guidelines available for download from the Hockey Canada
+website.
+
+10.3 Minor penalties will be three (3) minutes in duration running time except in the last two (2) minutes of the game
+when it is stop time.
+
+10.4 A short-handed team may only change players on-the-fly. Changing or attempting to change during any other situation
+will result in a two (2) minute Delay of Game penalty. The exceptions are:
+
+10.4.1 If the game is in the final two (2) minutes and it is in stop time.
+
+10.4.2 The offending team scores short-handed.
+
+10.4.3 The opposing team receives a penalty leaving both teams at equal strength.
+
+10.5 Full equipment, including a CSA certified hockey helmet is required. The League highly recommends all players wear
+full-face protectors (masks), althrough wearing full-face protectors, eye protectors or BNQ approved throat protectors
+are not manditory in the KMHA (we are not enforcing Rule 3.6 in the Hockey Canada Rule Book)
+
+10.6 The game will consist of two (2), twenty-two (22) minute periods. Teams will NOT change ends at the end of the first
+(1st) period.
+
+10.7 The last two (2) minutes of the second (2nd) period will be stop time except when the score differential exceeds
+two (2) goals.
+
+10.8 The game will begin four (4) minutes after the posted starting time for the game. The clock will initially be set
+to twenty-three (23) minutes for the first (1st) period. At three (3) minutes after the posted starting time the
+timekeeper shall sound the horn and start the clock. The game will begin at precisely twenty-two (22) minutes. Teams not
+ready for the opening faceoff will be assessed a two (2) minute Delay of Game penalty.
+
+10.9 A team’s defensive blue line, that is the blue line closest to the goal they are defending, will be used for
+assessing whether a team has intentionally iced the puck.
+
+10.10 A full slap shot or faking a slap shot is forbidden. A slap shot is defined as when a stick is raised above the
+knee with the resulting action being able to slap at the puck. The play is blown dead and the face-off will take place
+in the offending player’s zone.
+
+10.11 A player taking a slap shot or faking a slap shot in their defensive zone, while their team is shorthanded, will
+be assessed a minor penalty for Delay of Game.
+
+10.12 Play will be stopped immediately when the goaltender has been hit in the face mask by a shot.
+
+10.13 If a puck hits the face mask of the goaltender and goes DIRECTLY in the net, a goal shall be allowed.
+
+10.14 When an offensive player stands or falls in the goaltender's crease, the play is immediately whistled dead and
+followed by a faceoff outside the defensive blueline. 
+
+10.15 accumulation of three (3) minor penalties to a player in one game will result in ejection from that game and one 
+additional game suspension.
+
+10.15 Players reaching a plateau of twenty (20) minutes in penalties will receive a one game suspension.
+
+10.16 Players reaching a plateau of thirty (30) minutes in penalties will receive a two game suspension.
+
+10.17 Players reaching a plateau of fourty (40) minutes in penalties will receive a three game suspension.
+
+10.18 All players' penalties will be reset to zero (0) at the start of the playoffs. The threshold to miss a game due to
+the amount of penalty minutes is ten (10) in the playoffs.
+
+10.19 Ten minute misconducts are recorded as ten minutes in the official KMHA penalty statistics.
+
+10.20 Match and game misconducts are recorded as five minutes in the official KMHA penalty statistics.
+
+# 11. Regular Season Standings
+
+11.1 In case of a tie, the following will apply for the regular season:
+
+11.1.1 Most wins among the tied teams.
+
+11.1.2 Goal Differential: Using the total goals scored during the regular season, the greater positive differential
+between goals for and against among the tied teams.
+
+11.1.3 Most Goals For: Using the total goals scored during the regular season, the greater number of goals for among the
+tied teams.
+
+11.1.4 Least Goals Against: Using the total goals scored during the regular season, the fewer number of goals against
+among the tied teams.
+
+11.1.5 Fewest penalty minutes: Using the total penalty minutes during the regular season, the fewer number of penalty
+minutes among the tied teams.
+
+11.1.6 Flip of a coin.
+
+# 12. Playoff Standings
+
+12.1 In case of a tie, the following will apply in the playoffs:
+
+12.1.1 Most wins among the tied teams.
+
+12.1.2 Head to Head Record: Most points in games against each other among the tied teams. The head to head tie breaker
+only applies when their are two (2) teams tied, not three (3) or more tied teams. 
+
+12.1.3 Goal Differential: Using the total goals scored during the playoffs, the greater positive differential
+between goals for and against among the tied teams.
+
+12.1.4 Most Goals For: Using the total goals scored during the playoffs, the greater number of goals for among the tied
+teams.
+
+12.1.5 Least Goals Against: Using the total goals scored during the playoffs, the fewer number of goals against among
+the tied teams.
+
+12.1.6 Fewest penalty minutes: Using the total penalty minutes during the playoffs, the fewer number of penalty minutes
+among the tied teams.
+
+12.1.7 Flip of a coin.
+
+# 13. Playoff Finals and Banquet
+
+13.1 Once the playoffs have been completed, a set of final games will be played for the KMHA playoff championship.
+
+13.2 First place in the playoffs will play fourth place in the playoffs, second place in the playoffs will play Third
+place.
+
+13.3 The winners of he games in Article 13.2 will play in a final game for the championship.
+
+13.4 Fifth place in the playoffs will play sixth place in the playoffs for a fun final game.
+
+13.5 If there is a tie in any of the playoff games of Article 13.2 or Article 13.3, a shootout will commence
+immediately and the end of the game. The rules for the shootout is as follows:
+
+13.5.1 Each team selects three players for the shootout.
+
+13.5.2 Both teams will go at the same time during the shootout.
+
+13.5.3 If the shootout is tied after three shooters, additional rounds occur until a winner is declared.
+
+13.5.4 A shooter can only go once, unless all other players have gone.
+
+13.5.5 Timekeepers will keep track of who is shooting for each team.
+
+13.6 The annual KMHA banquet will occur after the final game.
