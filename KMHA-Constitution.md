@@ -1,8 +1,8 @@
 # Kanata Masters Hockey Association Constitution
-## Originally Approved by the KMHA Board of Directors, May 30th, 2011
+#### Originally Approved by the KMHA Board of Directors, May 30th, 2011
 Revised: September 6, 2017
 
-# 1. Purpose of the Kanata Masters
+#### 1. Purpose of the Kanata Masters
 
 1.1 The name of the association is the Kanata Masters Hockey Association, abbreviated as KMHA.
 
@@ -22,7 +22,7 @@ will play every other team seven (7) times.
 1.7 During the playoffs of the KMHA, each team will play of five (5) games and each of the six (6) teams will play every
 other team one (1) time.
 
-# 2. Board of Directors
+#### 2. Board of Directors
 
 2.1 The Board of Directors shall carry out the business of the KMHA.
 
@@ -46,7 +46,7 @@ the President or team Captains. Proxy votes are not permitted.
 2.8 Any one member of the Board of Directors may be removed for cause upon a written motion that is signed by all
 other members of the Board of Directors. 
 
-# 3. Executive Committee
+#### 3. Executive Committee
 
 3.1 Individuals on the Board of Directors shall execute positions of the Executive Committee. This committee will be
 comprised with the following positions and duties:
@@ -182,7 +182,7 @@ protest.
 
 3.1.8.3. Be elected annually by the Board of Directors for a one (1) year term.
 
-# 4. Annual Board Meeting
+#### 4. Annual Board Meeting
 
 4.1 An Annual Board Meeting may be held at or near the end of the regular season for the purpose of carrying on the
 business of the KMHA and to ratify the actions of the Board of Directors. The agenda will include:
@@ -207,7 +207,7 @@ requirement to carry out KMHA business.
 
 4.4 The quorum of a Board of Directors meeting shall be ALL of the members of the Board of Directors.
 
-# 5. Player Fees
+#### 5. Player Fees
 
 5.1 The Board of Directors will decide before the registration process begins the fees for the upcoming season
 including:
@@ -229,7 +229,7 @@ before their first game will be be removed from the KMHA.
 before their next game will be be removed from the KMHA. No refunds of the first amount will be made to the removed
 player.
 
-# 6. Player Eligibility
+#### 6. Player Eligibility
 
 6.1 Eligible players must be male and fifty (50) years of age at the time of the annual draft.
 
@@ -250,7 +250,7 @@ disciplinary standing and team sweaters having been returned.
 
 6.7 The Board of Directors has the discretion to waive the order in Article 5.6.
 
-# 7. Annual Draft
+#### 7. Annual Draft
 
 7.1 Team rosters will be established based on the annual KMHA draft with no protected players.
 
@@ -286,7 +286,7 @@ rated.
 
 7.14 The Captains will agree on the ratings of the Captains prior to the draft by vote.
 
-# 8. Multi-Game Player Replacement
+#### 8. Multi-Game Player Replacement
 
 8.1 If a team is losing a player for an extended period of time (minimum of four (4) weeks), the Captain has the option
 to pick up an assessed player of equal caliber from the spares list. The spare player will pay fifteen ($15) per game.
@@ -306,7 +306,7 @@ collected for games played by the replacement player.
 8.4 A Multi-Game Player Replacement is optional and their is no guarantee an injured player will receive a refund during
 their injury.
 
-# 9. Single Game Player Replacement (Regular Season)
+#### 9. Single Game Player Replacement (Regular Season)
 
 9.1 A Captain has the option to have a single game replacement player(s) if they would otherwise have less than ten (10)
 skaters (i.e. nine (9) skaters not including the goaltender).
@@ -345,7 +345,7 @@ Directors in advance of the game.
 for each game played and ensuring the fee is given to the Treasurer. The game fee only applies to players from the
 spares list and not active players in the KMHA. 
 
-# 10. Playing Rules
+#### 10. Playing Rules
 
 10.1 The KMHA will observe the Hockey Canada playing rules, following the Hockey Canada Referee's Case Book / Rule
 Combination 2018-2020 available for download from the Hockey Canada website. However, the KMHA will observe specific
@@ -414,7 +414,7 @@ the amount of penalty minutes is ten (10) in the playoffs.
 
 10.20 Match and game misconducts are recorded as five minutes in the official KMHA penalty statistics.
 
-# 11. Regular Season Standings
+#### 11. Regular Season Standings
 
 11.1 In case of a tie, the following will apply for the regular season:
 
@@ -434,7 +434,7 @@ minutes among the tied teams.
 
 11.1.6 Flip of a coin.
 
-# 12. Playoff Standings
+#### 12. Playoff Standings
 
 12.1 In case of a tie, the following will apply in the playoffs:
 
@@ -457,7 +457,7 @@ among the tied teams.
 
 12.1.7 Flip of a coin.
 
-# 13. Playoff Finals and Banquet
+#### 13. Playoff Finals and Banquet
 
 13.1 Once the playoffs have been completed, a set of final games will be played for the KMHA playoff championship.
 
