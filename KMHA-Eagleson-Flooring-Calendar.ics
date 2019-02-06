@@ -466,14 +466,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-207
 DTSTAMP:20180904T235900
-DTSTART;TZID=America/Toronto:20190315T203000
+DTSTART;TZID=America/Toronto:20190315T213000
 LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 8:30PM
+SUMMARY:Urban Stone Surfaces at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Eagleson Flooring game number 207
-  at 8:30PM versus Urban Stone Surfaces
+  at 9:30PM versus Urban Stone Surfaces
   at KRC Rink
-DTEND;TZID=America/Toronto:20190315T213000
+DTEND;TZID=America/Toronto:20190315T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-213
