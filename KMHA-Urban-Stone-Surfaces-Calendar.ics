@@ -490,13 +490,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-212
 DTSTAMP:20180904T235900
-DTSTART;TZID=America/Toronto:20190322T180000
+DTSTART;TZID=America/Toronto:20190322T213000
 LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 6:00PM
+SUMMARY:Big Rig Brewery at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 212
-  at 6:00PM versus Big Rig Brewery
+  at 9:30PM versus Big Rig Brewery
   at KRC Arena
-DTEND;TZID=America/Toronto:20190322T190000
+DTEND;TZID=America/Toronto:20190322T223000
 END:VEVENT
 END:VCALENDAR
