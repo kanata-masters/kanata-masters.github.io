@@ -464,16 +464,16 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20190313T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-209
+UID: KMHA-GAME-207
 DTSTAMP:20180904T235900
-DTSTART;TZID=America/Toronto:20190315T233000
+DTSTART;TZID=America/Toronto:20190315T203000
 LOCATION:KRC Rink
-SUMMARY:Kanata Renovations at 11:30PM
+SUMMARY:Kanata Renovations at 8:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 209
-  at 11:30PM versus Kanata Renovations
+  Trane Canada game number 207
+  at 8:30PM versus Kanata Renovations
   at KRC Rink
-DTEND;TZID=America/Toronto:20190316T003000
+DTEND;TZID=America/Toronto:20190315T213000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-210
@@ -490,13 +490,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-214
 DTSTAMP:20180904T235900
-DTSTART;TZID=America/Toronto:20190327T210000
+DTSTART;TZID=America/Toronto:20190327T203000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Eagleson Flooring at 8:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 214
-  at 9:00PM versus Eagleson Flooring
+  at 8:30PM versus Eagleson Flooring
   at KRC Arena
-DTEND;TZID=America/Toronto:20190327T220000
+DTEND;TZID=America/Toronto:20190327T213000
 END:VEVENT
 END:VCALENDAR
