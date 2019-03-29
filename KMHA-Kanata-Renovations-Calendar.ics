@@ -499,4 +499,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20190327T223000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-216
+DTSTAMP:20180904T235900
+DTSTART;TZID=America/Toronto:20190329T160000
+LOCATION:Jack Charron
+SUMMARY:Eagleson Flooring at 4:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Kanata Renovations game number 216
+  at 4:00PM versus Eagleson Flooring
+  at Jack Charron
+DTEND;TZID=America/Toronto:20190329T170000
+END:VEVENT
 END:VCALENDAR

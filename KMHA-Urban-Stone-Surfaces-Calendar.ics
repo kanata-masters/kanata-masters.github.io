@@ -499,4 +499,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20190322T223000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-218
+DTSTAMP:20180904T235900
+DTSTART;TZID=America/Toronto:20190329T180000
+LOCATION:Jack Charron
+SUMMARY:Big Rig Brewery at 6:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Urban Stone Surfaces game number 218
+  at 6:00PM versus Big Rig Brewery
+  at Jack Charron
+DTEND;TZID=America/Toronto:20190329T190000
+END:VEVENT
 END:VCALENDAR
