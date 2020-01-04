@@ -440,16 +440,16 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20200226T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-203
+UID: KMHA-GAME-201
 DTSTAMP:20190902T235900
-DTSTART;TZID=America/Toronto:20200306T213000
-LOCATION:KRC Rink
-SUMMARY:Trane Canada at 9:30PM
+DTSTART;TZID=America/Toronto:20200304T210000
+LOCATION:KRC Arena
+SUMMARY:Trane Canada at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Kanata Renovations game number 203
-  at 9:30PM versus Trane Canada
-  at KRC Rink
-DTEND;TZID=America/Toronto:20200306T223000
+  Kanata Renovations game number 201
+  at 9:00PM versus Trane Canada
+  at KRC Arena
+DTEND;TZID=America/Toronto:20200304T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-205

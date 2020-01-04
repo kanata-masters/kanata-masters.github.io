@@ -440,26 +440,26 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20200226T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-201
+UID: KMHA-GAME-203
 DTSTAMP:20190902T235900
-DTSTART;TZID=America/Toronto:20200304T210000
-LOCATION:KRC Arena
-SUMMARY:Young Drivers at 9:00PM
+DTSTART;TZID=America/Toronto:20200306T213000
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 201
-  at 9:00PM versus Young Drivers
-  at KRC Arena
-DTEND;TZID=America/Toronto:20200304T220000
+  Urban Stone Surfaces game number 203
+  at 9:30PM versus Trane Canada
+  at KRC Rink
+DTEND;TZID=America/Toronto:20200306T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-207
 DTSTAMP:20190902T235900
 DTSTART;TZID=America/Toronto:20200311T220000
 LOCATION:KRC Arena
-SUMMARY:Trane Canada at 10:00PM
+SUMMARY:Young Drivers at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 207
-  at 10:00PM versus Trane Canada
+  at 10:00PM versus Young Drivers
   at KRC Arena
 DTEND;TZID=America/Toronto:20200311T230000
 END:VEVENT
