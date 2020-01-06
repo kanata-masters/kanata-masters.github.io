@@ -370,14 +370,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-88
 DTSTAMP:20190902T235900
-DTSTART;TZID=America/Toronto:20200131T210000
-LOCATION:Walter Baker A
-SUMMARY:Kanata Renovations at 9:00PM
+DTSTART;TZID=America/Toronto:20200131T223000
+LOCATION:KRC Rink
+SUMMARY:Kanata Renovations at 10:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 88
-  at 9:00PM versus Kanata Renovations
-  at Walter Baker A
-DTEND;TZID=America/Toronto:20200131T220000
+  at 10:30PM versus Kanata Renovations
+  at KRC Rink
+DTEND;TZID=America/Toronto:20200131T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-92

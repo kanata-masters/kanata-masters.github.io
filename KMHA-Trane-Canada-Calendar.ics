@@ -358,14 +358,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-87
 DTSTAMP:20190902T235900
-DTSTART;TZID=America/Toronto:20200131T200000
-LOCATION:Walter Baker A
-SUMMARY:Big Rig Brewery at 8:00PM
+DTSTART;TZID=America/Toronto:20200131T213000
+LOCATION:KRC Rink
+SUMMARY:Big Rig Brewery at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 87
-  at 8:00PM versus Big Rig Brewery
-  at Walter Baker A
-DTEND;TZID=America/Toronto:20200131T210000
+  at 9:30PM versus Big Rig Brewery
+  at KRC Rink
+DTEND;TZID=America/Toronto:20200131T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-90
