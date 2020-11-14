@@ -58,179 +58,107 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-8
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201014T220000
+DTSTART;TZID=America/Toronto:20201111T220000
 LOCATION:KRC Arena
 SUMMARY:Big Rig Brewery at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 8
   at 10:00PM versus Big Rig Brewery
   at KRC Arena
-DTEND;TZID=America/Toronto:20201014T230000
+DTEND;TZID=America/Toronto:20201111T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-9
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201016T213000
+DTSTART;TZID=America/Toronto:20201113T213000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 9
   at 9:30PM versus Urban Stone Surfaces
   at KRC Rink
-DTEND;TZID=America/Toronto:20201016T223000
+DTEND;TZID=America/Toronto:20201113T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-11
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201021T220000
+DTSTART;TZID=America/Toronto:20201118T220000
 LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 11
   at 10:00PM versus Kanata Renovations
   at KRC Arena
-DTEND;TZID=America/Toronto:20201021T230000
+DTEND;TZID=America/Toronto:20201118T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-13
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201028T210000
+DTSTART;TZID=America/Toronto:20201125T210000
 LOCATION:KRC Arena
 SUMMARY:Big Rig Brewery at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 13
   at 9:00PM versus Big Rig Brewery
   at KRC Arena
-DTEND;TZID=America/Toronto:20201028T220000
+DTEND;TZID=America/Toronto:20201125T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-15
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201030T213000
+DTSTART;TZID=America/Toronto:20201127T213000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 15
   at 9:30PM versus Urban Stone Surfaces
   at KRC Rink
-DTEND;TZID=America/Toronto:20201030T223000
+DTEND;TZID=America/Toronto:20201127T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-16
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201104T210000
+DTSTART;TZID=America/Toronto:20201202T210000
 LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 16
   at 9:00PM versus Kanata Renovations
   at KRC Arena
-DTEND;TZID=America/Toronto:20201104T220000
+DTEND;TZID=America/Toronto:20201202T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-20
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201111T220000
+DTSTART;TZID=America/Toronto:20201209T220000
 LOCATION:KRC Arena
 SUMMARY:Big Rig Brewery at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 20
   at 10:00PM versus Big Rig Brewery
   at KRC Arena
-DTEND;TZID=America/Toronto:20201111T230000
+DTEND;TZID=America/Toronto:20201209T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-21
 DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201113T213000
+DTSTART;TZID=America/Toronto:20201211T213000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 21
   at 9:30PM versus Urban Stone Surfaces
   at KRC Rink
-DTEND;TZID=America/Toronto:20201113T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-23
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201118T220000
-LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 23
-  at 10:00PM versus Kanata Renovations
-  at KRC Arena
-DTEND;TZID=America/Toronto:20201118T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-25
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201125T210000
-LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 25
-  at 9:00PM versus Big Rig Brewery
-  at KRC Arena
-DTEND;TZID=America/Toronto:20201125T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-27
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201127T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 27
-  at 9:30PM versus Urban Stone Surfaces
-  at KRC Rink
-DTEND;TZID=America/Toronto:20201127T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-28
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201202T210000
-LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 28
-  at 9:00PM versus Kanata Renovations
-  at KRC Arena
-DTEND;TZID=America/Toronto:20201202T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-32
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201209T220000
-LOCATION:KRC Arena
-SUMMARY:Big Rig Brewery at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 32
-  at 10:00PM versus Big Rig Brewery
-  at KRC Arena
-DTEND;TZID=America/Toronto:20201209T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-33
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20201211T213000
-LOCATION:KRC Rink
-SUMMARY:Urban Stone Surfaces at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 33
-  at 9:30PM versus Urban Stone Surfaces
-  at KRC Rink
 DTEND;TZID=America/Toronto:20201211T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-35
+UID: KMHA-GAME-23
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20201216T220000
 LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 35
+  Trane Canada game number 23
   at 10:00PM versus Kanata Renovations
   at KRC Arena
 DTEND;TZID=America/Toronto:20201216T230000
