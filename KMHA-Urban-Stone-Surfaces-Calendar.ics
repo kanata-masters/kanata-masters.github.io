@@ -224,157 +224,85 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20211217T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-54
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20220107T213000
-LOCATION:KRC Rink
-SUMMARY:Big Rig Brewery at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 54
-  at 9:30PM versus Big Rig Brewery
-  at KRC Rink
-DTEND;TZID=America/Toronto:20220107T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-57
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20220112T220000
-LOCATION:KRC Arena
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 57
-  at 10:00PM versus Kanata Renovations
-  at KRC Arena
-DTEND;TZID=America/Toronto:20220112T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-58
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20220114T213000
-LOCATION:KRC Rink
-SUMMARY:Young Drivers at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 58
-  at 9:30PM versus Young Drivers
-  at KRC Rink
-DTEND;TZID=America/Toronto:20220114T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-61
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20220119T210000
-LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 61
-  at 9:00PM versus Eagleson Flooring
-  at KRC Arena
-DTEND;TZID=America/Toronto:20220119T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-64
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20220121T223000
-LOCATION:KRC Rink
-SUMMARY:Big Rig Brewery at 10:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 64
-  at 10:30PM versus Big Rig Brewery
-  at KRC Rink
-DTEND;TZID=America/Toronto:20220121T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-67
-DTSTAMP:20200831T235900
-DTSTART;TZID=America/Toronto:20220128T213000
-LOCATION:KRC Rink
-SUMMARY:Kanata Renovations at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 67
-  at 9:30PM versus Kanata Renovations
-  at KRC Rink
-DTEND;TZID=America/Toronto:20220128T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-71
+UID: KMHA-GAME-53
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220202T220000
 LOCATION:KRC Arena
 SUMMARY:Trane Canada at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 71
+  Urban Stone Surfaces game number 53
   at 10:00PM versus Trane Canada
   at KRC Arena
 DTEND;TZID=America/Toronto:20220202T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-73
+UID: KMHA-GAME-55
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220204T223000
 LOCATION:KRC Rink
 SUMMARY:Young Drivers at 10:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 73
+  Urban Stone Surfaces game number 55
   at 10:30PM versus Young Drivers
   at KRC Rink
 DTEND;TZID=America/Toronto:20220204T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-76
+UID: KMHA-GAME-58
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220211T213000
 LOCATION:KRC Rink
 SUMMARY:Big Rig Brewery at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 76
+  Urban Stone Surfaces game number 58
   at 9:30PM versus Big Rig Brewery
   at KRC Rink
 DTEND;TZID=America/Toronto:20220211T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-79
+UID: KMHA-GAME-61
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220216T210000
 LOCATION:KRC Arena
 SUMMARY:Kanata Renovations at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 79
+  Urban Stone Surfaces game number 61
   at 9:00PM versus Kanata Renovations
   at KRC Arena
 DTEND;TZID=America/Toronto:20220216T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-83
+UID: KMHA-GAME-65
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220223T210000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 83
+  Urban Stone Surfaces game number 65
   at 9:00PM versus Young Drivers
   at KRC Arena
 DTEND;TZID=America/Toronto:20220223T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-85
+UID: KMHA-GAME-67
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220225T213000
 LOCATION:KRC Rink
 SUMMARY:Eagleson Flooring at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 85
+  Urban Stone Surfaces game number 67
   at 9:30PM versus Eagleson Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20220225T223000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-89
+UID: KMHA-GAME-71
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220304T213000
 LOCATION:KRC Rink
 SUMMARY:Trane Canada at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 89
+  Urban Stone Surfaces game number 71
   at 9:30PM versus Trane Canada
   at KRC Rink
 DTEND;TZID=America/Toronto:20220304T223000
