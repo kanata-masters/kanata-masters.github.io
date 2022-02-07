@@ -288,10 +288,10 @@ UID: KMHA-GAME-67
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220225T213000
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:30PM
+SUMMARY:Big Rig Brewery at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 67
-  at 9:30PM versus Eagleson Flooring
+  at 9:30PM versus Big Rig Brewery
   at KRC Rink
 DTEND;TZID=America/Toronto:20220225T223000
 END:VEVENT
