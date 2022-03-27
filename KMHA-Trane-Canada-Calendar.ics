@@ -356,13 +356,13 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20220323T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-222
+UID: KMHA-GAME-212
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220325T233000
 LOCATION:KRC Rink
 SUMMARY:Eagleson Flooring at 11:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Trane Canada game number 222
+  Trane Canada game number 212
   at 11:30PM versus Eagleson Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20220326T003000

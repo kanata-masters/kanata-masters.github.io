@@ -356,13 +356,13 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20220318T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-220
+UID: KMHA-GAME-210
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220325T213000
 LOCATION:KRC Rink
 SUMMARY:Young Drivers at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 220
+  Big Rig Brewery game number 210
   at 9:30PM versus Young Drivers
   at KRC Rink
 DTEND;TZID=America/Toronto:20220325T223000

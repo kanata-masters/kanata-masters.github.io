@@ -344,25 +344,25 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20220323T230000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-221
+UID: KMHA-GAME-211
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220325T223000
 LOCATION:KRC Rink
 SUMMARY:Urban Stone Surfaces at 10:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Kanata Renovations game number 221
+  Kanata Renovations game number 211
   at 10:30PM versus Urban Stone Surfaces
   at KRC Rink
 DTEND;TZID=America/Toronto:20220325T233000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-223
+UID: KMHA-GAME-213
 DTSTAMP:20200831T235900
 DTSTART;TZID=America/Toronto:20220330T210000
 LOCATION:KRC Arena
 SUMMARY:Young Drivers at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Kanata Renovations game number 223
+  Kanata Renovations game number 213
   at 9:00PM versus Young Drivers
   at KRC Arena
 DTEND;TZID=America/Toronto:20220330T220000
