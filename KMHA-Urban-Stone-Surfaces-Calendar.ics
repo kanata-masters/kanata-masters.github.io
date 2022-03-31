@@ -367,4 +367,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20220330T230000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-217
+DTSTAMP:20200831T235900
+DTSTART;TZID=America/Toronto:20220401T190000
+LOCATION:Jack Charron
+SUMMARY:Eagleson Flooring at 7:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Urban Stone Surfaces game number 217
+  at 7:00PM versus Eagleson Flooring
+  at Jack Charron
+DTEND;TZID=America/Toronto:20220401T200000
+END:VEVENT
 END:VCALENDAR

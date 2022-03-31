@@ -367,4 +367,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20220330T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-215
+DTSTAMP:20200831T235900
+DTSTART;TZID=America/Toronto:20220401T170000
+LOCATION:Jack Charron
+SUMMARY:Big Rig Brewery at 5:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Kanata Renovations game number 215
+  at 5:00PM versus Big Rig Brewery
+  at Jack Charron
+DTEND;TZID=America/Toronto:20220401T180000
+END:VEVENT
 END:VCALENDAR

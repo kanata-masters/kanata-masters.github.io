@@ -367,4 +367,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Rink
 DTEND;TZID=America/Toronto:20220326T003000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-216
+DTSTAMP:20200831T235900
+DTSTART;TZID=America/Toronto:20220401T180000
+LOCATION:Jack Charron
+SUMMARY:Young Drivers at 6:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Trane Canada game number 216
+  at 6:00PM versus Young Drivers
+  at Jack Charron
+DTEND;TZID=America/Toronto:20220401T190000
+END:VEVENT
 END:VCALENDAR
