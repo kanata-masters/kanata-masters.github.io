@@ -475,4 +475,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Rink
 DTEND;TZID=America/Toronto:20230324T223000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-217
+DTSTAMP:20200831T235900
+DTSTART;TZID=America/Toronto:20230331T180000
+LOCATION:Jack Charron
+SUMMARY:Eagleson Flooring at 6:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 217
+  at 6:00PM versus Eagleson Flooring
+  at Jack Charron
+DTEND;TZID=America/Toronto:20230331T190000
+END:VEVENT
 END:VCALENDAR

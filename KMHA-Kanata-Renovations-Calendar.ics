@@ -475,4 +475,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20230329T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-215
+DTSTAMP:20200831T235900
+DTSTART;TZID=America/Toronto:20230331T160000
+LOCATION:Jack Charron
+SUMMARY:Trane Canada at 4:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Kanata Renovations game number 215
+  at 4:00PM versus Trane Canada
+  at Jack Charron
+DTEND;TZID=America/Toronto:20230331T170000
+END:VEVENT
 END:VCALENDAR
