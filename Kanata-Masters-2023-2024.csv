@@ -1,0 +1,136 @@
+game_number,ice_type,arena,date,time,week,home_sponsor_name,away_sponsor_name,comment
+1,GAME,KRC Arena,Wed Sep 6 2023,9:00 PM,Week 1,Young Drivers,Trane Canada,2
+2,GAME,KRC Arena,Wed Sep 6 2023,10:00 PM,Week 1,Big Rig Brewery,Eagleson Flooring,3
+3,GAME,KRC Rink,Fri Sep 8 2023,9:15 PM,Week 1,Urban Stone Surfaces,Kanata Renovations,1
+4,GAME,KRC Rink,Fri Sep 8 2023,10:15 PM,Week 1,Eagleson Flooring,Trane Canada,Purple
+5,GAME,KRC Arena,Wed Sep 13 2023,9:00 PM,Week 2,Eagleson Flooring,Young Drivers,2
+6,GAME,KRC Arena,Wed Sep 13 2023,10:00 PM,Week 2,Big Rig Brewery,Urban Stone Surfaces,3
+7,GAME,KRC Rink,Fri Sep 15 2023,9:15 PM,Week 2,Kanata Renovations,Trane Canada,1
+8,GAME,KRC Rink,Fri Sep 15 2023,10:15 PM,Week 2,Young Drivers,Urban Stone Surfaces,Purple
+9,GAME,KRC Arena,Wed Sep 20 2023,9:00 PM,Week 3,Kanata Renovations,Young Drivers,2
+10,GAME,KRC Arena,Wed Sep 20 2023,10:00 PM,Week 3,Big Rig Brewery,Trane Canada,3
+11,GAME,KRC Rink,Fri Sep 22 2023,9:15 PM,Week 3,Urban Stone Surfaces,Eagleson Flooring,1
+12,GAME,KRC Rink,Fri Sep 22 2023,10:15 PM,Week 3,Kanata Renovations,Big Rig Brewery,Purple
+13,GAME,KRC Arena,Wed Sep 27 2023,9:00 PM,Week 4,Young Drivers,Big Rig Brewery,1
+14,GAME,KRC Arena,Wed Sep 27 2023,10:00 PM,Week 4,Kanata Renovations,Eagleson Flooring,2
+15,GAME,KRC Rink,Fri Sep 29 2023,9:15 PM,Week 4,Urban Stone Surfaces,Trane Canada,3
+,,,,,,,,
+16,GAME,KRC Rink,Fri Sep 29 2023,10:15 PM,Week 4,Big Rig Brewery,Eagleson Flooring,Red
+17,GAME,KRC Arena,Wed Oct 4 2023,9:00 PM,Week 5,Young Drivers,Urban Stone Surfaces,1
+18,GAME,KRC Arena,Wed Oct 4 2023,10:00 PM,Week 5,Eagleson Flooring,Trane Canada,2
+19,GAME,KRC Rink,Fri Oct 6 2023,9:15 PM,Week 5,Kanata Renovations,Big Rig Brewery,3
+20,GAME,KRC Rink,Fri Oct 6 2023,10:15 PM,Week 5,Young Drivers,Trane Canada,Red
+21,GAME,KRC Arena,Wed Oct 11 2023,9:00 PM,Week 6,Big Rig Brewery,Urban Stone Surfaces,3
+22,GAME,KRC Arena,Wed Oct 11 2023,10:00 PM,Week 6,Kanata Renovations,Trane Canada,1
+23,GAME,KRC Rink,Fri Oct 13 2023,9:15 PM,Week 6,Eagleson Flooring,Young Drivers,2
+24,GAME,KRC Rink,Fri Oct 13 2023,10:15 PM,Week 6,Urban Stone Surfaces,Kanata Renovations,Red
+25,GAME,KRC Arena,Wed Oct 18 2023,9:00 PM,Week 7,Big Rig Brewery,Trane Canada,3
+26,GAME,KRC Arena,Wed Oct 18 2023,10:00 PM,Week 7,Urban Stone Surfaces,Eagleson Flooring,1
+27,GAME,KRC Rink,Fri Oct 20 2023,9:15 PM,Week 7,Kanata Renovations,Young Drivers,2
+28,GAME,KRC Rink,Fri Oct 20 2023,10:15 PM,Week 7,Urban Stone Surfaces,Trane Canada,Yellow
+29,GAME,KRC Arena,Wed Oct 25 2023,9:00 PM,Week 8,Kanata Renovations,Big Rig Brewery,3
+30,GAME,KRC Arena,Wed Oct 25 2023,10:00 PM,Week 8,Young Drivers,Urban Stone Surfaces,1
+,,,,,,,,2
+31,GAME,KRC Rink,Fri Oct 27 2023,9:15 PM,Week 8,Eagleson Flooring,Trane Canada,
+32,GAME,KRC Rink,Fri Oct 27 2023,10:15 PM,Week 8,Young Drivers,Big Rig Brewery,Yellow
+33,GAME,KRC Arena,Wed Nov 1 2023,9:00 PM,Week 9,Big Rig Brewery,Eagleson Flooring,3
+34,GAME,KRC Arena,Wed Nov 1 2023,10:00 PM,Week 9,Urban Stone Surfaces,Kanata Renovations,1
+35,GAME,KRC Rink,Fri Nov 3 2023,9:15 PM,Week 9,Young Drivers,Trane Canada,2
+36,GAME,KRC Rink,Fri Nov 3 2023,10:15 PM,Week 9,Kanata Renovations,Eagleson Flooring,Yellow
+37,GAME,KRC Arena,Wed Nov 8 2023,9:00 PM,Week 10,Kanata Renovations,Trane Canada,1
+38,GAME,KRC Arena,Wed Nov 8 2023,10:00 PM,Week 10,Eagleson Flooring,Young Drivers,2
+39,GAME,KRC Rink,Fri Nov 10 2023,9:15 PM,Week 10,Big Rig Brewery,Urban Stone Surfaces,3
+40,GAME,KRC Rink,Fri Nov 10 2023,10:15 PM,Week 10,Kanata Renovations,Young Drivers,Blue
+41,GAME,KRC Arena,Wed Nov 15 2023,9:00 PM,Week 11,Eagleson Flooring,Trane Canada,2
+42,GAME,KRC Arena,Wed Nov 15 2023,10:00 PM,Week 11,Kanata Renovations,Big Rig Brewery,3
+43,GAME,KRC Rink,Fri Nov 17 2023,9:15 PM,Week 11,Young Drivers,Urban Stone Surfaces,1
+44,GAME,KRC Rink,Fri Nov 17 2023,10:15 PM,Week 11,Big Rig Brewery,Trane Canada,Blue
+45,GAME,KRC Arena,Wed Nov 22 2023,9:00 PM,Week 12,Kanata Renovations,Eagleson Flooring,2
+,,,,,,,,
+46,GAME,KRC Arena,Wed Nov 22 2023,10:00 PM,Week 12,Urban Stone Surfaces,Trane Canada,3
+47,GAME,KRC Rink,Fri Nov 24 2023,9:15 PM,Week 12,Young Drivers,Big Rig Brewery,1
+48,GAME,KRC Rink,Fri Nov 24 2023,10:15 PM,Week 12,Urban Stone Surfaces,Eagleson Flooring,Blue
+49,GAME,KRC Arena,Wed Nov 29 2023,9:00 PM,Week 13,Urban Stone Surfaces,Kanata Renovations,1
+50,GAME,KRC Arena,Wed Nov 29 2023,10:00 PM,Week 13,Young Drivers,Trane Canada,2
+51,GAME,KRC Rink,Fri Dec 1 2023,9:15 PM,Week 13,Big Rig Brewery,Eagleson Flooring,3
+52,GAME,KRC Rink,Fri Dec 1 2023,10:15 PM,Week 13,Kanata Renovations,Trane Canada,Green
+53,GAME,KRC Arena,Wed Dec 6 2023,9:00 PM,Week 14,Urban Stone Surfaces,Eagleson Flooring,1
+54,GAME,KRC Arena,Wed Dec 6 2023,10:00 PM,Week 14,Kanata Renovations,Young Drivers,2
+55,GAME,KRC Rink,Fri Dec 8 2023,9:15 PM,Week 14,Big Rig Brewery,Trane Canada,3
+56,GAME,KRC Rink,Fri Dec 8 2023,10:15 PM,Week 14,Eagleson Flooring,Young Drivers,Green
+57,GAME,KRC Arena,Wed Dec 13 2023,9:00 PM,Week 15,Urban Stone Surfaces,Trane Canada,3
+58,GAME,KRC Arena,Wed Dec 13 2023,10:00 PM,Week 15,Young Drivers,Big Rig Brewery,1
+59,GAME,KRC Rink,Fri Dec 15 2023,9:15 PM,Week 15,Kanata Renovations,Eagleson Flooring,2
+60,GAME,KRC Rink,Fri Dec 15 2023,10:15 PM,Week 15,Big Rig Brewery,Urban Stone Surfaces,Green
+,,,,,,,,
+61,GAME,KRC Arena,Wed Dec 20 2023,9:00 PM,Week 16,Eagleson Flooring,Trane Canada,Purple
+62,GAME,KRC Arena,Wed Dec 20 2023,10:00 PM,Week 16,Urban Stone Surfaces,Kanata Renovations,
+63,GAME,KRC Rink,Fri Dec 22 2023,9:15 PM,Week 16,Young Drivers,Trane Canada,
+64,GAME,KRC Rink,Fri Dec 22 2023,10:15 PM,Week 16,Big Rig Brewery,Eagleson Flooring,
+65,GAME,KRC Arena,Wed Dec 27 2023,9:00 PM,Week 17,Young Drivers,Urban Stone Surfaces,Purple
+66,GAME,KRC Arena,Wed Dec 27 2023,10:00 PM,Week 17,Kanata Renovations,Trane Canada,
+67,GAME,KRC Rink,Fri Dec 29 2023,9:15 PM,Week 17,Big Rig Brewery,Urban Stone Surfaces,
+68,GAME,KRC Rink,Fri Dec 29 2023,10:15 PM,Week 17,Eagleson Flooring,Young Drivers,
+69,GAME,KRC Arena,Wed Jan 3 2024,9:00 PM,Week 18,Kanata Renovations,Big Rig Brewery,Purple
+70,GAME,KRC Arena,Wed Jan 3 2024,10:00 PM,Week 18,Urban Stone Surfaces,Eagleson Flooring,
+71,GAME,KRC Rink,Fri Jan 5 2024,9:15 PM,Week 18,Kanata Renovations,Young Drivers,
+72,GAME,KRC Rink,Fri Jan 5 2024,10:15 PM,Week 18,Big Rig Brewery,Trane Canada,
+73,GAME,KRC Arena,Wed Jan 10 2024,9:00 PM,Week 19,Urban Stone Surfaces,Kanata Renovations,Red
+74,GAME,KRC Arena,Wed Jan 10 2024,10:00 PM,Week 19,Young Drivers,Big Rig Brewery,
+75,GAME,KRC Rink,Fri Jan 12 2024,9:15 PM,Week 19,Urban Stone Surfaces,Trane Canada,
+,,,,,,,,
+76,GAME,KRC Rink,Fri Jan 12 2024,10:15 PM,Week 19,Kanata Renovations,Eagleson Flooring,
+77,GAME,KRC Arena,Wed Jan 17 2024,9:00 PM,Week 20,Big Rig Brewery,Urban Stone Surfaces,
+78,GAME,KRC Arena,Wed Jan 17 2024,10:00 PM,Week 20,Young Drivers,Trane Canada,Red
+79,GAME,KRC Rink,Fri Jan 19 2024,9:15 PM,Week 20,Kanata Renovations,Trane Canada,
+80,GAME,KRC Rink,Fri Jan 19 2024,10:15 PM,Week 20,Eagleson Flooring,Young Drivers,
+81,GAME,KRC Arena,Wed Jan 24 2024,9:00 PM,Week 21,Big Rig Brewery,Eagleson Flooring,Red
+82,GAME,KRC Arena,Wed Jan 24 2024,10:00 PM,Week 21,Kanata Renovations,Young Drivers,
+83,GAME,Nepean Sportsplex 3,Fri Jan 26 2024,9:30 PM,Week 21,Big Rig Brewery,Trane Canada,Big-Eagle-Trane-Urban
+84,GAME,Nepean Sportsplex 3,Fri Jan 26 2024,10:30 PM,Week 21,Urban Stone Surfaces,Eagleson Flooring,
+85,GAME,KRC Arena,Wed Jan 31 2024,9:00 PM,Week 22,Young Drivers,Big Rig Brewery,Yellow
+86,GAME,KRC Arena,Wed Jan 31 2024,10:00 PM,Week 22,Eagleson Flooring,Trane Canada,
+87,GAME,KRC Rink,Fri Feb 2 2024,9:15 PM,Week 22,Kanata Renovations,Big Rig Brewery,
+88,GAME,KRC Rink,Fri Feb 2 2024,10:15 PM,Week 22,Young Drivers,Urban Stone Surfaces,
+89,GAME,KRC Arena,Wed Feb 7 2024,9:00 PM,Week 23,Kanata Renovations,Eagleson Flooring,Yellow
+90,GAME,KRC Arena,Wed Feb 7 2024,10:00 PM,Week 23,Big Rig Brewery,Urban Stone Surfaces,
+,,,,,,,,
+91,GAME,KRC Rink,Fri Feb 9 2024,9:15 PM,Week 23,Eagleson Flooring,Young Drivers,
+92,GAME,KRC Rink,Fri Feb 9 2024,10:15 PM,Week 23,Kanata Renovations,Trane Canada,
+93,GAME,KRC Arena,Wed Feb 14 2024,9:00 PM,Week 24,Urban Stone Surfaces,Trane Canada,Yellow
+94,GAME,KRC Arena,Wed Feb 14 2024,10:00 PM,Week 24,Big Rig Brewery,Eagleson Flooring,
+95,GAME,Nepean Sportsplex 3,Fri Feb 16 2024,9:30 PM,Week 24,Young Drivers,Trane Canada,Kanata-Trane-Young-Urban
+96,GAME,Nepean Sportsplex 3,Fri Feb 16 2024,10:30 PM,Week 24,Urban Stone Surfaces,Kanata Renovations,
+97,GAME,KRC Arena,Wed Feb 21 2024,9:00 PM,Week 25,Urban Stone Surfaces,Eagleson Flooring,Blue
+98,GAME,KRC Arena,Wed Feb 21 2024,10:00 PM,Week 25,Kanata Renovations,Big Rig Brewery,
+99,GAME,KRC Rink,Fri Feb 23 2024,9:15 PM,Week 25,Eagleson Flooring,Trane Canada,
+100,GAME,KRC Rink,Fri Feb 23 2024,10:15 PM,Week 25,Young Drivers,Urban Stone Surfaces,
+101,GAME,KRC Arena,Wed Feb 28 2024,9:00 PM,Week 26,Kanata Renovations,Young Drivers,Blue
+102,GAME,KRC Arena,Wed Feb 28 2024,10:00 PM,Week 26,Urban Stone Surfaces,Trane Canada,
+103,GAME,Nepean Sportsplex 3,Fri Mar 1 2024,9:30 PM,Week 26,Kanata Renovations,Eagleson Flooring,Big-Eagle-Kanata-Young
+104,GAME,Nepean Sportsplex 3,Fri Mar 1 2024,10:30 PM,Week 26,Young Drivers,Big Rig Brewery,
+105,GAME,KRC Arena,Wed Mar 6 2024,9:00 PM,Week 27,Big Rig Brewery,Trane Canada,Blue
+,,,,,,,,
+201,PLAYOFF,KRC Arena,Wed Mar 6 2024,10:00 PM,Week 27,Urban Stone Surfaces,Kanata Renovations,
+202,PLAYOFF,KRC Rink,Fri Mar 8 2024,9:15 PM,Week 27,Young Drivers,Trane Canada,
+203,PLAYOFF,KRC Rink,Fri Mar 8 2024,10:15 PM,Week 27,Big Rig Brewery,Eagleson Flooring,
+204,PLAYOFF,KRC Arena,Wed Mar 13 2024,9:00 PM,Week 28,Big Rig Brewery,Urban Stone Surfaces,March Break
+205,PLAYOFF,KRC Arena,Wed Mar 13 2024,10:00 PM,Week 28,Kanata Renovations,Young Drivers,March Break
+206,PLAYOFF,KRC Rink,Fri Mar 15 2024,9:15 PM,Week 28,Urban Stone Surfaces,Eagleson Flooring,March Break
+207,PLAYOFF,KRC Rink,Fri Mar 15 2024,10:15 PM,Week 28,Big Rig Brewery,Trane Canada,March Break
+208,PLAYOFF,KRC Arena,Wed Mar 20 2024,9:00 PM,Week 29,Kanata Renovations,Trane Canada,
+209,PLAYOFF,KRC Arena,Wed Mar 20 2024,10:00 PM,Week 29,Young Drivers,Big Rig Brewery,
+210,PLAYOFF,KRC Rink,Fri Mar 22 2024,9:15 PM,Week 29,Urban Stone Surfaces,Trane Canada,
+211,PLAYOFF,KRC Rink,Fri Mar 22 2024,10:15 PM,Week 29,Kanata Renovations,Eagleson Flooring,
+212,PLAYOFF,KRC Arena,Wed Mar 27 2024,9:00 PM,Week 30,Eagleson Flooring,Young Drivers,
+213,PLAYOFF,KRC Arena,Wed Mar 27 2024,10:00 PM,Week 30,Kanata Renovations,Big Rig Brewery,Mar 29 Easter
+214,PLAYOFF,KRC Arena,Wed Apr 3 2024,9:00 PM,Week 31,Eagleson Flooring,Trane Canada,
+215,PLAYOFF,KRC Arena,Wed Apr 3 2024,10:00 PM,Week 31,Young Drivers,Urban Stone Surfaces,
+,,,,,,,,
+216,PLAYOFF,Jack Charron,Fri Apr 5 2024,4:00 PM,Week 31,Second,Third,Finals
+217,PLAYOFF,Jack Charron,Fri Apr 5 2024,5:00 PM,Week 31,First,Fourth,Finals
+218,PLAYOFF,Jack Charron,Fri Apr 5 2024,6:00 PM,Week 31,Fifth,Sixth,Finals
+219,PLAYOFF,Jack Charron,Fri Apr 5 2024,7:00 PM,Week 31,Final,Final,Finals
+,,,,,,,,
+skip,,,Wednesdays,62,,,,
+skip,,,Fridays,6,,,,
