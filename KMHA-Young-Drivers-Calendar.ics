@@ -259,4 +259,244 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20231213T230000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-63
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20231222T211500
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 9:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 63
+  at 9:15PM versus Trane Canada
+  at KRC Rink
+DTEND;TZID=America/Toronto:20231222T221500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-65
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20231227T210000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 9:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 65
+  at 9:00PM versus Urban Stone Surfaces
+  at KRC Arena
+DTEND;TZID=America/Toronto:20231227T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-68
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20231229T221500
+LOCATION:KRC Rink
+SUMMARY:Eagleson Flooring at 10:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 68
+  at 10:15PM versus Eagleson Flooring
+  at KRC Rink
+DTEND;TZID=America/Toronto:20231229T231500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-71
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240105T211500
+LOCATION:KRC Rink
+SUMMARY:Kanata Renovations at 9:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 71
+  at 9:15PM versus Kanata Renovations
+  at KRC Rink
+DTEND;TZID=America/Toronto:20240105T221500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-74
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240110T220000
+LOCATION:KRC Arena
+SUMMARY:Big Rig Brewery at 10:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 74
+  at 10:00PM versus Big Rig Brewery
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240110T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-78
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240117T220000
+LOCATION:KRC Arena
+SUMMARY:Trane Canada at 10:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 78
+  at 10:00PM versus Trane Canada
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240117T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-80
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240119T221500
+LOCATION:KRC Rink
+SUMMARY:Eagleson Flooring at 10:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 80
+  at 10:15PM versus Eagleson Flooring
+  at KRC Rink
+DTEND;TZID=America/Toronto:20240119T231500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-82
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240124T220000
+LOCATION:KRC Arena
+SUMMARY:Kanata Renovations at 10:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 82
+  at 10:00PM versus Kanata Renovations
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240124T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-85
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240131T210000
+LOCATION:KRC Arena
+SUMMARY:Big Rig Brewery at 9:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 85
+  at 9:00PM versus Big Rig Brewery
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240131T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-88
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240202T221500
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 10:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 88
+  at 10:15PM versus Urban Stone Surfaces
+  at KRC Rink
+DTEND;TZID=America/Toronto:20240202T231500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-91
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240209T211500
+LOCATION:KRC Rink
+SUMMARY:Eagleson Flooring at 9:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 91
+  at 9:15PM versus Eagleson Flooring
+  at KRC Rink
+DTEND;TZID=America/Toronto:20240209T221500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-95
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240216T213000
+LOCATION:Nepean Sportsplex 3
+SUMMARY:Trane Canada at 9:30PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 95
+  at 9:30PM versus Trane Canada
+  at Nepean Sportsplex 3
+DTEND;TZID=America/Toronto:20240216T223000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-100
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240223T221500
+LOCATION:KRC Rink
+SUMMARY:Urban Stone Surfaces at 10:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 100
+  at 10:15PM versus Urban Stone Surfaces
+  at KRC Rink
+DTEND;TZID=America/Toronto:20240223T231500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-101
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240228T210000
+LOCATION:KRC Arena
+SUMMARY:Kanata Renovations at 9:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 101
+  at 9:00PM versus Kanata Renovations
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240228T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-104
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240301T223000
+LOCATION:Nepean Sportsplex 3
+SUMMARY:Big Rig Brewery at 10:30PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 104
+  at 10:30PM versus Big Rig Brewery
+  at Nepean Sportsplex 3
+DTEND;TZID=America/Toronto:20240301T233000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-202
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240308T211500
+LOCATION:KRC Rink
+SUMMARY:Trane Canada at 9:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 202
+  at 9:15PM versus Trane Canada
+  at KRC Rink
+DTEND;TZID=America/Toronto:20240308T221500
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-205
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240313T220000
+LOCATION:KRC Arena
+SUMMARY:Kanata Renovations at 10:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 205
+  at 10:00PM versus Kanata Renovations
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240313T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-209
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240320T220000
+LOCATION:KRC Arena
+SUMMARY:Big Rig Brewery at 10:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 209
+  at 10:00PM versus Big Rig Brewery
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240320T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-212
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240327T210000
+LOCATION:KRC Arena
+SUMMARY:Eagleson Flooring at 9:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 212
+  at 9:00PM versus Eagleson Flooring
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240327T220000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-215
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240403T220000
+LOCATION:KRC Arena
+SUMMARY:Urban Stone Surfaces at 10:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 215
+  at 10:00PM versus Urban Stone Surfaces
+  at KRC Arena
+DTEND;TZID=America/Toronto:20240403T230000
+END:VEVENT
 END:VCALENDAR
