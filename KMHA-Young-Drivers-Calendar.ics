@@ -36,10 +36,10 @@ UID: KMHA-GAME-5
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20230913T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 5
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20230913T220000
 END:VEVENT
@@ -108,10 +108,10 @@ UID: KMHA-GAME-23
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231013T211500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:15PM
+SUMMARY:Infinity Flooring at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 23
-  at 9:15PM versus Eagleson Flooring
+  at 9:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20231013T221500
 END:VEVENT
@@ -168,10 +168,10 @@ UID: KMHA-GAME-38
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231108T220000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 10:00PM
+SUMMARY:Infinity Flooring at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 38
-  at 10:00PM versus Eagleson Flooring
+  at 10:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20231108T230000
 END:VEVENT
@@ -240,10 +240,10 @@ UID: KMHA-GAME-56
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231208T221500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:15PM
+SUMMARY:Infinity Flooring at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 56
-  at 10:15PM versus Eagleson Flooring
+  at 10:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20231208T231500
 END:VEVENT
@@ -288,10 +288,10 @@ UID: KMHA-GAME-68
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231229T221500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:15PM
+SUMMARY:Infinity Flooring at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 68
-  at 10:15PM versus Eagleson Flooring
+  at 10:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20231229T231500
 END:VEVENT
@@ -336,10 +336,10 @@ UID: KMHA-GAME-80
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240119T221500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:15PM
+SUMMARY:Infinity Flooring at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 80
-  at 10:15PM versus Eagleson Flooring
+  at 10:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20240119T231500
 END:VEVENT
@@ -384,10 +384,10 @@ UID: KMHA-GAME-91
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240209T211500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:15PM
+SUMMARY:Infinity Flooring at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 91
-  at 9:15PM versus Eagleson Flooring
+  at 9:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20240209T221500
 END:VEVENT
@@ -480,10 +480,10 @@ UID: KMHA-GAME-212
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240327T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 212
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20240327T220000
 END:VEVENT

@@ -36,10 +36,10 @@ UID: KMHA-GAME-4
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20230908T221500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:15PM
+SUMMARY:Infinity Flooring at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 4
-  at 10:15PM versus Eagleson Flooring
+  at 10:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20230908T231500
 END:VEVENT
@@ -84,10 +84,10 @@ UID: KMHA-GAME-18
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231004T220000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 10:00PM
+SUMMARY:Infinity Flooring at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 18
-  at 10:00PM versus Eagleson Flooring
+  at 10:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20231004T230000
 END:VEVENT
@@ -144,10 +144,10 @@ UID: KMHA-GAME-31
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231027T211500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:15PM
+SUMMARY:Infinity Flooring at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 31
-  at 9:15PM versus Eagleson Flooring
+  at 9:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20231027T221500
 END:VEVENT
@@ -180,10 +180,10 @@ UID: KMHA-GAME-41
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231115T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 41
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20231115T220000
 END:VEVENT
@@ -264,10 +264,10 @@ UID: KMHA-GAME-61
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231220T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 61
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20231220T220000
 END:VEVENT
@@ -360,10 +360,10 @@ UID: KMHA-GAME-86
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240131T220000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 10:00PM
+SUMMARY:Infinity Flooring at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 86
-  at 10:00PM versus Eagleson Flooring
+  at 10:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20240131T230000
 END:VEVENT
@@ -408,10 +408,10 @@ UID: KMHA-GAME-99
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240223T211500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:15PM
+SUMMARY:Infinity Flooring at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 99
-  at 9:15PM versus Eagleson Flooring
+  at 9:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20240223T221500
 END:VEVENT
@@ -492,10 +492,10 @@ UID: KMHA-GAME-214
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240403T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Trane Canada game number 214
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20240403T220000
 END:VEVENT

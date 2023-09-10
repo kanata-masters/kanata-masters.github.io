@@ -60,10 +60,10 @@ UID: KMHA-GAME-11
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20230922T211500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:15PM
+SUMMARY:Infinity Flooring at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 11
-  at 9:15PM versus Eagleson Flooring
+  at 9:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20230922T221500
 END:VEVENT
@@ -120,10 +120,10 @@ UID: KMHA-GAME-26
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231018T220000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 10:00PM
+SUMMARY:Infinity Flooring at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 26
-  at 10:00PM versus Eagleson Flooring
+  at 10:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20231018T230000
 END:VEVENT
@@ -204,10 +204,10 @@ UID: KMHA-GAME-48
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231124T221500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 10:15PM
+SUMMARY:Infinity Flooring at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 48
-  at 10:15PM versus Eagleson Flooring
+  at 10:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20231124T231500
 END:VEVENT
@@ -228,10 +228,10 @@ UID: KMHA-GAME-53
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20231206T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 53
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20231206T220000
 END:VEVENT
@@ -300,10 +300,10 @@ UID: KMHA-GAME-70
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240103T220000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 10:00PM
+SUMMARY:Infinity Flooring at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 70
-  at 10:00PM versus Eagleson Flooring
+  at 10:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20240103T230000
 END:VEVENT
@@ -348,10 +348,10 @@ UID: KMHA-GAME-84
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240126T223000
 LOCATION:Nepean Sportsplex 3
-SUMMARY:Eagleson Flooring at 10:30PM
+SUMMARY:Infinity Flooring at 10:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 84
-  at 10:30PM versus Eagleson Flooring
+  at 10:30PM versus Infinity Flooring
   at Nepean Sportsplex 3
 DTEND;TZID=America/Toronto:20240126T233000
 END:VEVENT
@@ -408,10 +408,10 @@ UID: KMHA-GAME-97
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240221T210000
 LOCATION:KRC Arena
-SUMMARY:Eagleson Flooring at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 97
-  at 9:00PM versus Eagleson Flooring
+  at 9:00PM versus Infinity Flooring
   at KRC Arena
 DTEND;TZID=America/Toronto:20240221T220000
 END:VEVENT
@@ -468,10 +468,10 @@ UID: KMHA-GAME-206
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240315T211500
 LOCATION:KRC Rink
-SUMMARY:Eagleson Flooring at 9:15PM
+SUMMARY:Infinity Flooring at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 206
-  at 9:15PM versus Eagleson Flooring
+  at 9:15PM versus Infinity Flooring
   at KRC Rink
 DTEND;TZID=America/Toronto:20240315T221500
 END:VEVENT
