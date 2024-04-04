@@ -499,4 +499,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20240403T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-217
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240405T170000
+LOCATION:Jack Charron
+SUMMARY:Young Drivers at 5:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Trane Canada game number 217
+  at 5:00PM versus Young Drivers
+  at Jack Charron
+DTEND;TZID=America/Toronto:20240405T180000
+END:VEVENT
 END:VCALENDAR

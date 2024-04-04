@@ -499,4 +499,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at KRC Arena
 DTEND;TZID=America/Toronto:20240403T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-218
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240405T180000
+LOCATION:Jack Charron
+SUMMARY:Kanata Renovations at 6:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Infinity Flooring game number 218
+  at 6:00PM versus Kanata Renovations
+  at Jack Charron
+DTEND;TZID=America/Toronto:20240405T190000
+END:VEVENT
 END:VCALENDAR

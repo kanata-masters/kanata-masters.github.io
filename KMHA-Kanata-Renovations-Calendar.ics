@@ -504,10 +504,10 @@ UID: KMHA-GAME-218
 DTSTAMP:20230828T235900
 DTSTART;TZID=America/Toronto:20240405T180000
 LOCATION:Jack Charron
-SUMMARY:Fifth at 6:00PM
+SUMMARY:Infinity Flooring at 6:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Kanata Renovations game number 218
-  at 6:00PM versus Fifth
+  at 6:00PM versus Infinity Flooring
   at Jack Charron
 DTEND;TZID=America/Toronto:20240405T190000
 END:VEVENT
