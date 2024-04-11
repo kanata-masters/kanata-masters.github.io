@@ -511,4 +511,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at Jack Charron
 DTEND;TZID=America/Toronto:20240405T170000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-219
+DTSTAMP:20230828T235900
+DTSTART;TZID=America/Toronto:20240405T190000
+LOCATION:Jack Charron
+SUMMARY:Young Drivers at 7:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Big Rig Brewery game number 219
+  at 7:00PM versus Young Drivers
+  at Jack Charron
+DTEND;TZID=America/Toronto:20240405T200000
+END:VEVENT
 END:VCALENDAR
