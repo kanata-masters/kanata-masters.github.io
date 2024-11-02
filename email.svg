@@ -1,0 +1,15 @@
+<svg viewBox="0 0 163 30" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        text {
+        dominant-baseline: middle;
+        fill: #000;
+        font-family: fantasy;
+        font-size: 20px;
+        font-weight: bold;
+        text-anchor: middle;
+        }
+    </style>
+    <a href="mailto:ahunterplus@gmail.com">
+        <text x="50%" y="50%">This Email Address</text>
+    </a>
+</svg>
