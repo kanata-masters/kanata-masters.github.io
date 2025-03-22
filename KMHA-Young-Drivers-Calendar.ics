@@ -439,4 +439,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at Tony Graham Arena
 DTEND;TZID=America/Toronto:20250326T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-216
+DTSTAMP:20240826T235900
+DTSTART;TZID=America/Toronto:20250328T170000
+LOCATION:Tony Graham Arena
+SUMMARY:Urban Stone Surfaces at 5:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Young Drivers game number 216
+  at 5:00PM versus Urban Stone Surfaces
+  at Tony Graham Arena
+DTEND;TZID=America/Toronto:20250328T180000
+END:VEVENT
 END:VCALENDAR
