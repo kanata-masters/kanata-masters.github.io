@@ -22,14 +22,14 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID: KMHA-GAME-3
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250905T211500
+DTSTART;TZID=America/Toronto:20250919T211500
 LOCATION:Tony Graham Arena
-SUMMARY:Kanata Renovations at 9:15PM
+SUMMARY:Trane Canada at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 3
-  at 9:15PM versus Kanata Renovations
+  at 9:15PM versus Trane Canada
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250905T221500
+DTEND;TZID=America/Toronto:20250919T221500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-6
@@ -58,14 +58,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-11
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250919T211500
+DTSTART;TZID=America/Toronto:20250905T211500
 LOCATION:Tony Graham Arena
-SUMMARY:Trane Canada at 9:15PM
+SUMMARY:Kanata Renovations at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 11
-  at 9:15PM versus Trane Canada
+  at 9:15PM versus Kanata Renovations
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250919T221500
+DTEND;TZID=America/Toronto:20250905T221500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-15

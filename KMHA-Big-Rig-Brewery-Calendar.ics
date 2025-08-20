@@ -22,14 +22,26 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID: KMHA-GAME-2
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250903T220000
+DTSTART;TZID=America/Toronto:20250917T220000
 LOCATION:Tony Graham Arena
-SUMMARY:Trane Canada at 10:00PM
+SUMMARY:Infinity Flooring at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Big Rig Brewery game number 2
-  at 10:00PM versus Trane Canada
+  at 10:00PM versus Infinity Flooring
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250903T230000
+DTEND;TZID=America/Toronto:20250917T230000
+END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-4
+DTSTAMP:20250825T235900
+DTSTART;TZID=America/Toronto:20250919T221500
+LOCATION:Tony Graham Arena
+SUMMARY:Kanata Renovations at 10:15PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Big Rig Brewery game number 4
+  at 10:15PM versus Kanata Renovations
+  at Tony Graham Arena
+DTEND;TZID=America/Toronto:20250919T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-6
@@ -46,26 +58,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-10
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250917T220000
+DTSTART;TZID=America/Toronto:20250903T220000
 LOCATION:Tony Graham Arena
-SUMMARY:Infinity Flooring at 10:00PM
+SUMMARY:Trane Canada at 10:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Big Rig Brewery game number 10
-  at 10:00PM versus Infinity Flooring
+  at 10:00PM versus Trane Canada
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250917T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-12
-DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250919T221500
-LOCATION:Tony Graham Arena
-SUMMARY:Kanata Renovations at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 12
-  at 10:15PM versus Kanata Renovations
-  at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250919T231500
+DTEND;TZID=America/Toronto:20250903T230000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-13

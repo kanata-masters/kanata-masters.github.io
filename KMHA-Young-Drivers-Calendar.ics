@@ -22,14 +22,14 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID: KMHA-GAME-1
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250903T210000
+DTSTART;TZID=America/Toronto:20250917T210000
 LOCATION:Tony Graham Arena
-SUMMARY:Infinity Flooring at 9:00PM
+SUMMARY:Kanata Renovations at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 1
-  at 9:00PM versus Infinity Flooring
+  at 9:00PM versus Kanata Renovations
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250903T220000
+DTEND;TZID=America/Toronto:20250917T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-5
@@ -58,14 +58,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-9
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250917T210000
+DTSTART;TZID=America/Toronto:20250903T210000
 LOCATION:Tony Graham Arena
-SUMMARY:Kanata Renovations at 9:00PM
+SUMMARY:Infinity Flooring at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 9
-  at 9:00PM versus Kanata Renovations
+  at 9:00PM versus Infinity Flooring
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250917T220000
+DTEND;TZID=America/Toronto:20250903T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-13
