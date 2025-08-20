@@ -22,26 +22,26 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID: KMHA-GAME-1
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250917T210000
+DTSTART;TZID=America/Toronto:20250903T210000
 LOCATION:Tony Graham Arena
 SUMMARY:Young Drivers at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Kanata Renovations game number 1
   at 9:00PM versus Young Drivers
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250917T220000
+DTEND;TZID=America/Toronto:20250903T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-4
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250919T221500
+DTSTART;TZID=America/Toronto:20250905T221500
 LOCATION:Tony Graham Arena
 SUMMARY:Big Rig Brewery at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Kanata Renovations game number 4
   at 10:15PM versus Big Rig Brewery
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250919T231500
+DTEND;TZID=America/Toronto:20250905T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-7
@@ -58,14 +58,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-11
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20250905T211500
+DTSTART;TZID=America/Toronto:20250919T211500
 LOCATION:Tony Graham Arena
 SUMMARY:Urban Stone Surfaces at 9:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Kanata Renovations game number 11
   at 9:15PM versus Urban Stone Surfaces
   at Tony Graham Arena
-DTEND;TZID=America/Toronto:20250905T221500
+DTEND;TZID=America/Toronto:20250919T221500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-14
