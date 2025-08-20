@@ -1,16 +1,16 @@
 game_number,ice_type,arena,date,time,week,home_sponsor_name,away_sponsor_name,comment
-1,GAME,Tony Graham Arena,Wed Sep 3 2025,9:00 PM,Week 1,Young Drivers,Infinity Flooring,2
-2,GAME,Tony Graham Arena,Wed Sep 3 2025,10:00 PM,Week 1,Big Rig Brewery,Trane Canada,3
-3,GAME,Tony Graham Arena,Fri Sep 5 2025,9:15 PM,Week 1,Urban Stone Surfaces,Kanata Renovations,1
-4,GAME,Tony Graham Arena,Fri Sep 5 2025,10:15 PM,Week 1,Trane Canada,Infinity Flooring,Purple
+1,GAME,Tony Graham Arena,Wed Sep 17 2025,9:00 PM,Week 3,Kanata Renovations,Young Drivers,2
+2,GAME,Tony Graham Arena,Wed Sep 17 2025,10:00 PM,Week 3,Big Rig Brewery,Infinity Flooring,3
+3,GAME,Tony Graham Arena,Fri Sep 19 2025,9:15 PM,Week 3,Urban Stone Surfaces,Trane Canada,1
+4,GAME,Tony Graham Arena,Fri Sep 19 2025,10:15 PM,Week 3,Kanata Renovations,Big Rig Brewery,Purple
 5,GAME,Tony Graham Arena,Wed Sep 10 2025,9:00 PM,Week 2,Trane Canada,Young Drivers,2
 6,GAME,Tony Graham Arena,Wed Sep 10 2025,10:00 PM,Week 2,Big Rig Brewery,Urban Stone Surfaces,3
 7,GAME,Tony Graham Arena,Fri Sep 12 2025,9:15 PM,Week 2,Kanata Renovations,Infinity Flooring,1
 8,GAME,Tony Graham Arena,Fri Sep 12 2025,10:15 PM,Week 2,Young Drivers,Urban Stone Surfaces,Purple
-9,GAME,Tony Graham Arena,Wed Sep 17 2025,9:00 PM,Week 3,Kanata Renovations,Young Drivers,2
-10,GAME,Tony Graham Arena,Wed Sep 17 2025,10:00 PM,Week 3,Big Rig Brewery,Infinity Flooring,3
-11,GAME,Tony Graham Arena,Fri Sep 19 2025,9:15 PM,Week 3,Urban Stone Surfaces,Trane Canada,1
-12,GAME,Tony Graham Arena,Fri Sep 19 2025,10:15 PM,Week 3,Kanata Renovations,Big Rig Brewery,Purple
+9,GAME,Tony Graham Arena,Wed Sep 3 2025,9:00 PM,Week 1,Young Drivers,Infinity Flooring,2
+10,GAME,Tony Graham Arena,Wed Sep 3 2025,10:00 PM,Week 1,Big Rig Brewery,Trane Canada,3
+11,GAME,Tony Graham Arena,Fri Sep 5 2025,9:15 PM,Week 1,Urban Stone Surfaces,Kanata Renovations,1
+12,GAME,Tony Graham Arena,Fri Sep 5 2025,10:15 PM,Week 1,Trane Canada,Infinity Flooring,Purple
 13,GAME,Tony Graham Arena,Wed Sep 24 2025,9:00 PM,Week 4,Young Drivers,Big Rig Brewery,1
 14,GAME,Tony Graham Arena,Wed Sep 24 2025,10:00 PM,Week 4,Kanata Renovations,Trane Canada,2
 15,GAME,Tony Graham Arena,Fri Sep 26 2025,9:15 PM,Week 4,Urban Stone Surfaces,Infinity Flooring,3
