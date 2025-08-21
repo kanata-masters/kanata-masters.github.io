@@ -93,8 +93,8 @@ game_number,ice_type,arena,date,time,week,home_sponsor_name,away_sponsor_name,co
 86,GAME,Tony Graham Arena,Fri Feb 6 2026,10:15 PM,Week 23,Kanata Renovations,Infinity Flooring,Green
 87,GAME,Tony Graham Arena,Wed Feb 11 2026,9:00 PM,Week 24,Urban Stone Surfaces,Infinity Flooring,Yellow
 88,GAME,Tony Graham Arena,Wed Feb 11 2026,10:00 PM,Week 24,Big Rig Brewery,Trane Canada,Red
-89,GAME,Nepean Sportsplex 3,Fri Feb 13 2026,9:30 PM,Week 24,Young Drivers,Infinity Flooring,Red
-90,GAME,Nepean Sportsplex 3,Fri Feb 13 2026,10:30 PM,Week 24,Urban Stone Surfaces,Kanata Renovations,Red
+89,GAME,Nepean Sportsplex 3,Fri Feb 13 2026,9:30 PM,Week 24,Urban Stone Surfaces,Kanata Renovations,Red
+90,GAME,Nepean Sportsplex 3,Fri Feb 13 2026,10:30 PM,Week 24,Young Drivers,Infinity Flooring,Red
 91,GAME,Tony Graham Arena,Wed Feb 18 2026,9:00 PM,Week 25 ,Big Rig Brewery,Infinity Flooring,Blue
 92,GAME,Tony Graham Arena,Wed Feb 18 2026,10:00 PM,Week 25,Kanata Renovations,Young Drivers,Blue
 93,GAME,Tony Graham Arena,Fri Feb 20 2026,9:15 PM,Week 25,Urban Stone Surfaces,Trane Canada,Blue
@@ -105,8 +105,8 @@ game_number,ice_type,arena,date,time,week,home_sponsor_name,away_sponsor_name,co
 201,PLAYOFF,Tony Graham Arena,Fri Feb 27 2026,9:15 PM,Week 27,Kanata Renovations,Big Rig Brewery,Purple
 202,PLAYOFF,Tony Graham Arena,Wed Mar 4 2026,9:00 PM,Week 27,Big Rig Brewery,Urban Stone Surfaces,Green-ok
 203,PLAYOFF,Tony Graham Arena,Wed Mar 4 2026,10:00 PM,Week 27,Young Drivers,Infinity Flooring,Red
-204,PLAYOFF,Nepean Sportsplex 3,Fri Mar 6 2026,9:15 PM,Week 28,Big Rig Brewery,Trane Canada,Red
-205,PLAYOFF,Nepean Sportsplex 3,Fri Mar 6 2026,10:15 PM,Week 28,Urban Stone Surfaces,Kanata Renovations,Red
+204,PLAYOFF,Nepean Sportsplex 3,Fri Mar 6 2026,9:30 PM,Week 28,Big Rig Brewery,Trane Canada,Red
+205,PLAYOFF,Nepean Sportsplex 3,Fri Mar 6 2026,10:30 PM,Week 28,Urban Stone Surfaces,Kanata Renovations,Red
 206,PLAYOFF,Tony Graham Arena,Wed Mar 11 2026,9:00 PM,Week 28,Trane Canada,Young Drivers,Green-ok
 207,PLAYOFF,Tony Graham Arena,Wed Mar 11 2026,10:00 PM,Week 28,Big Rig Brewery,Infinity Flooring,Blue-March Break
 208,PLAYOFF,Tony Graham Arena,Fri Mar 13 2026,9:15 PM,Week 29,Kanata Renovations,Young Drivers,Blue
