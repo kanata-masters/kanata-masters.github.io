@@ -368,16 +368,16 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20260211T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-89
+UID: KMHA-GAME-90
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20260213T213000
+DTSTART;TZID=America/Toronto:20260213T223000
 LOCATION:Nepean Sportsplex 3
-SUMMARY:Young Drivers at 9:30PM
+SUMMARY:Young Drivers at 10:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Infinity Flooring game number 89
-  at 9:30PM versus Young Drivers
+  Infinity Flooring game number 90
+  at 10:30PM versus Young Drivers
   at Nepean Sportsplex 3
-DTEND;TZID=America/Toronto:20260213T223000
+DTEND;TZID=America/Toronto:20260213T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-91

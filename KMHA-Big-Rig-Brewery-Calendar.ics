@@ -430,14 +430,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-204
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20260306T211500
+DTSTART;TZID=America/Toronto:20260306T213000
 LOCATION:Nepean Sportsplex 3
-SUMMARY:Trane Canada at 9:15PM
+SUMMARY:Trane Canada at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Big Rig Brewery game number 204
-  at 9:15PM versus Trane Canada
+  at 9:30PM versus Trane Canada
   at Nepean Sportsplex 3
-DTEND;TZID=America/Toronto:20260306T221500
+DTEND;TZID=America/Toronto:20260306T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-207

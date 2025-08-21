@@ -368,16 +368,16 @@ DESCRIPTION:Kanata Masters Hockey:
 DTEND;TZID=America/Toronto:20260211T220000
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-90
+UID: KMHA-GAME-89
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20260213T223000
+DTSTART;TZID=America/Toronto:20260213T213000
 LOCATION:Nepean Sportsplex 3
-SUMMARY:Kanata Renovations at 10:30PM
+SUMMARY:Kanata Renovations at 9:30PM
 DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 90
-  at 10:30PM versus Kanata Renovations
+  Urban Stone Surfaces game number 89
+  at 9:30PM versus Kanata Renovations
   at Nepean Sportsplex 3
-DTEND;TZID=America/Toronto:20260213T233000
+DTEND;TZID=America/Toronto:20260213T223000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-93
@@ -418,14 +418,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-205
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20260306T221500
+DTSTART;TZID=America/Toronto:20260306T223000
 LOCATION:Nepean Sportsplex 3
-SUMMARY:Kanata Renovations at 10:15PM
+SUMMARY:Kanata Renovations at 10:30PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 205
-  at 10:15PM versus Kanata Renovations
+  at 10:30PM versus Kanata Renovations
   at Nepean Sportsplex 3
-DTEND;TZID=America/Toronto:20260306T231500
+DTEND;TZID=America/Toronto:20260306T233000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-209
