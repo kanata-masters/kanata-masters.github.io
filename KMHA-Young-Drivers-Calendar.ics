@@ -430,14 +430,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-208
 DTSTAMP:20250825T235900
-DTSTART;TZID=America/Toronto:20260313T211500
-LOCATION:Tony Graham Arena
-SUMMARY:Kanata Renovations at 9:15PM
+DTSTART;TZID=America/Toronto:20260313T210000
+LOCATION:J.A. Dulude
+SUMMARY:Kanata Renovations at 9:00PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 208
-  at 9:15PM versus Kanata Renovations
-  at Tony Graham Arena
-DTEND;TZID=America/Toronto:20260313T221500
+  at 9:00PM versus Kanata Renovations
+  at J.A. Dulude
+DTEND;TZID=America/Toronto:20260313T220000
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-211
