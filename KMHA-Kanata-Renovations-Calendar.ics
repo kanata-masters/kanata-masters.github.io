@@ -463,4 +463,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at Tony Graham Arena
 DTEND;TZID=America/Toronto:20260320T231500
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-217
+DTSTAMP:20250825T235900
+DTSTART;TZID=America/Toronto:20260327T170000
+LOCATION:Jack Charron
+SUMMARY:Fourth at 5:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Kanata Renovations game number 217
+  at 5:00PM versus Fourth
+  at Jack Charron
+DTEND;TZID=America/Toronto:20260327T180000
+END:VEVENT
 END:VCALENDAR

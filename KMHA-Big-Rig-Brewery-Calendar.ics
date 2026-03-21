@@ -463,4 +463,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at Tony Graham Arena
 DTEND;TZID=America/Toronto:20260318T230000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-216
+DTSTAMP:20250825T235900
+DTSTART;TZID=America/Toronto:20260327T160000
+LOCATION:Jack Charron
+SUMMARY:Third at 4:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Big Rig Brewery game number 216
+  at 4:00PM versus Third
+  at Jack Charron
+DTEND;TZID=America/Toronto:20260327T170000
+END:VEVENT
 END:VCALENDAR
