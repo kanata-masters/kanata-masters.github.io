@@ -463,4 +463,16 @@ DESCRIPTION:Kanata Masters Hockey:
   at Tony Graham Arena
 DTEND;TZID=America/Toronto:20260325T220000
 END:VEVENT
+BEGIN:VEVENT
+UID: KMHA-GAME-218
+DTSTAMP:20250825T235900
+DTSTART;TZID=America/Toronto:20260327T180000
+LOCATION:Jack Charron
+SUMMARY:Young Drivers at 6:00PM
+DESCRIPTION:Kanata Masters Hockey: 
+  Trane Canada game number 218
+  at 6:00PM versus Young Drivers
+  at Jack Charron
+DTEND;TZID=America/Toronto:20260327T190000
+END:VEVENT
 END:VCALENDAR
