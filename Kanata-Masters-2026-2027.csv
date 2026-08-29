@@ -1,0 +1,125 @@
+game_number,ice_type,arena,date,time,week,home_sponsor_name,away_sponsor_name,comment
+1,GAME,Tony Graham Arena,Wed Sep 02 2026,9:00 PM,Week 3,Kanata Renovations,Young Drivers,2
+1,GAME,Nepean Sportsplex MacDonald,Wed Sep 2 2026,10:15 PM,Week 1,Young Drivers,Trane Canada
+2,GAME,Nepean Sportsplex 3,Fri Sep 4 2026,9:30 PM,Week 1,Urban Stone,Kanata Renovations
+3,GAME,Nepean Sportsplex 3,Fri Sep 4 2026,10:30 PM,Week 1,Big Rig Brewery,Infinity Flooring
+4,GAME,Nepean Sportsplex MacDonald,Wed Sep 9 2026,10:15 PM,Week 2,Urban Stone,Infinity Flooring
+5,GAME,Nepean Sportsplex 3,Fri Sep 11 2026,9:30 PM,Week 2,Big Rig Brewery,Trane Canada
+6,GAME,Nepean Sportsplex 3,Fri Sep 11 2026,10:30 PM,Week 2,Kanata Renovations,Young Drivers
+7,GAME,Nepean Sportsplex MacDonald,Wed Sep 16 2026,10:15 PM,Week 3,Kanata Renovations,Trane Canada
+8,GAME,Nepean Sportsplex 3,Fri Sep 18 2026,9:30 PM,Week 3,Big Rig Brewery,Urban Stone
+9,GAME,Nepean Sportsplex 3,Fri Sep 18 2026,10:30 PM,Week 3,Infinity Flooring,Young Drivers
+10,GAME,Nepean Sportsplex MacDonald,Wed Sep 23 2026,10:15 PM,Week 4,Young Drivers,Big Rig Brewery
+11,GAME,Nepean Sportsplex 3,Fri Sep 25 2026,9:30 PM,Week 4,Kanata Renovations,Infinity Flooring
+12,GAME,Nepean Sportsplex 3,Fri Sep 25 2026,10:30 PM,Week 4,Urban Stone,Trane Canada
+13,GAME,Nepean Sportsplex MacDonald,Wed Sep 30 2026,10:15 PM,Week 5,Young Drivers,Urban Stone
+14,GAME,Nepean Sportsplex 3,Fri Oct 2 2026,9:30 PM,Week 5,Infinity Flooring,Trane Canada
+15,GAME,Nepean Sportsplex 3,Fri Oct 2 2026,10:30 PM,Week 5,Kanata Renovations,Big Rig Brewery
+,,,,,,,
+16,GAME,Nepean Sportsplex MacDonald,Wed Oct 7 2026,10:15 PM,Week 6,Young Drivers,Trane Canada
+17,GAME,Nepean Sportsplex 3,Fri Oct 9 2026,9:30 PM,Week 6,Big Rig Brewery,Infinity Flooring
+18,GAME,Nepean Sportsplex 3,Fri Oct 9 2026,10:30 PM,Week 6,Urban Stone,Kanata Renovations
+,,,,,,,
+19,GAME,Tony Graham Arena Tom Flood,Wed Oct 14 2026,9:15 PM,Week 7,Young Drivers,Trane Canada
+20,GAME,Tony Graham Arena Tom Flood,Wed Oct 14 2026,10:15 PM,Week 7,Urban Stone,Kanata Renovations
+21,GAME,Tony Graham Arena Gary Burke,Fri Oct 16 2026,9:00 PM,Week 7,Big Rig Brewery,Infinity Flooring
+22,GAME,Tony Graham Arena Gary Burke,Fri Oct 16 2026,10:00 PM,Week 7,Urban Stone,Infinity Flooring
+23,GAME,Tony Graham Arena Tom Flood,Wed Oct 21 2026,9:15 PM,Week 8,Big Rig Brewery,Trane Canada
+24,GAME,Tony Graham Arena Tom Flood,Wed Oct 21 2026,10:15 PM,Week 8,Kanata Renovations,Young Drivers
+25,GAME,Tony Graham Arena Gary Burke,Fri Oct 23 2026,9:00 PM,Week 8,Kanata Renovations,Trane Canada
+26,GAME,Tony Graham Arena Gary Burke,Fri Oct 23 2026,10:00 PM,Week 8,Big Rig Brewery,Urban Stone
+27,GAME,Tony Graham Arena Tom Flood,Wed Oct 28 2026,9:15 PM,Week 9,Infinity Flooring,Young Drivers
+28,GAME,Tony Graham Arena Tom Flood,Wed Oct 28 2026,10:15 PM,Week 9,Young Drivers,Big Rig Brewery
+29,GAME,Tony Graham Arena Gary Burke,Fri Oct 30 2026,9:00 PM,Week 9,Kanata Renovations,Infinity Flooring
+30,GAME,Tony Graham Arena Gary Burke,Fri Oct 30 2026,10:00 PM,Week 9,Urban Stone,Trane Canada
+31,GAME,Tony Graham Arena Tom Flood,Wed Nov 4 2026,9:15 PM,Week 10,Young Drivers,Urban Stone
+32,GAME,Tony Graham Arena Tom Flood,Wed Nov 4 2026,10:15 PM,Week 10,Infinity Flooring,Trane Canada
+33,GAME,Tony Graham Arena Gary Burke,Fri Nov 6 2026,9:00 PM,Week 10,Kanata Renovations,Big Rig Brewery
+,,,,,,,
+34,GAME,Tony Graham Arena Gary Burke,Fri Nov 6 2026,10:00 PM,Week 10,Big Rig Brewery,Trane Canada
+35,GAME,Tony Graham Arena Tom Flood,Wed Nov 11 2026,9:15 PM,Week 11,Urban Stone,Infinity Flooring
+36,GAME,Tony Graham Arena Tom Flood,Wed Nov 11 2026,10:15 PM,Week 11,Kanata Renovations,Young Drivers
+37,GAME,Tony Graham Arena Gary Burke,Fri Nov 13 2026,9:00 PM,Week 11,Big Rig Brewery,Urban Stone
+38,GAME,Tony Graham Arena Gary Burke,Fri Nov 13 2026,10:00 PM,Week 11,Kanata Renovations,Trane Canada
+39,GAME,Tony Graham Arena Tom Flood,Wed Nov 18 2026,9:15 PM,Week 12,Infinity Flooring,Young Drivers
+40,GAME,Tony Graham Arena Tom Flood,Wed Nov 18 2026,10:15 PM,Week 12,Kanata Renovations,Big Rig Brewery
+41,GAME,Tony Graham Arena Gary Burke,Fri Nov 20 2026,9:00 PM,Week 12,Young Drivers,Urban Stone
+42,GAME,Tony Graham Arena Gary Burke,Fri Nov 20 2026,10:00 PM,Week 12,Infinity Flooring,Trane Canada
+43,GAME,Tony Graham Arena Tom Flood,Wed Nov 25 2026,9:15 PM,Week 13,Urban Stone,Kanata Renovations
+44,GAME,Tony Graham Arena Tom Flood,Wed Nov 25 2026,10:15 PM,Week 13,Young Drivers,Trane Canada
+45,GAME,Tony Graham Arena Gary Burke,Fri Nov 27 2026,9:00 PM,Week 13,Big Rig Brewery,Infinity Flooring
+46,GAME,Tony Graham Arena Gary Burke,Fri Nov 27 2026,10:00 PM,Week 13,Urban Stone,Trane Canada
+47,GAME,Tony Graham Arena Tom Flood,Wed Dec 2 2026,9:15 PM,Week 14,Young Drivers,Big Rig Brewery
+48,GAME,Tony Graham Arena Tom Flood,Wed Dec 2 2026,10:15 PM,Week 14,Kanata Renovations,Infinity Flooring
+,,,,,,,
+49,GAME,Tony Graham Arena Gary Burke,Fri Dec 4 2026,9:00 PM,Week 14,Big Rig Brewery,Trane Canada
+50,GAME,Tony Graham Arena Gary Burke,Fri Dec 4 2026,10:00 PM,Week 14,Urban Stone,Infinity Flooring
+51,GAME,Tony Graham Arena Tom Flood,Wed Dec 9 2026,9:15 PM,Week 15,Kanata Renovations,Young Drivers
+52,GAME,Tony Graham Arena Tom Flood,Wed Dec 9 2026,10:15 PM,Week 15,Big Rig Brewery,Urban Stone
+53,GAME,Tony Graham Arena Gary Burke,Fri Dec 11 2026,9:00 PM,Week 15,Kanata Renovations,Trane Canada
+54,GAME,Tony Graham Arena Gary Burke,Fri Dec 11 2026,10:00 PM,Week 15,Infinity Flooring,Young Drivers
+55,GAME,Tony Graham Arena Tom Flood,Wed Dec 16 2026,9:15 PM,Week 16,Kanata Renovations,Big Rig Brewery
+56,GAME,Tony Graham Arena Tom Flood,Wed Dec 16 2026,10:15 PM,Week 16,Young Drivers,Urban Stone
+57,GAME,Tony Graham Arena Gary Burke,Fri Dec 18 2026,9:00 PM,Week 16,Infinity Flooring,Trane Canada
+58,GAME,Tony Graham Arena Gary Burke,Fri Dec 18 2026,10:00 PM,Week 16,Urban Stone,Kanata Renovations
+59,GAME,Tony Graham Arena Tom Flood,Wed Dec 23 2026,9:15 PM,Week 17,Young Drivers,Trane Canada
+60,GAME,Tony Graham Arena Tom Flood,Wed Dec 23 2026,10:15 PM,Week 17,Big Rig Brewery,Infinity Flooring
+61,GAME,Tony Graham Arena Tom Flood,Wed Jan 6 2027,9:15 PM,Week 18,Urban Stone,Trane Canada
+62,GAME,Tony Graham Arena Tom Flood,Wed Jan 6 2027,10:15 PM,Week 18,Young Drivers,Big Rig Brewery
+63,GAME,Tony Graham Arena Gary Burke,Fri Jan 8 2027,9:00 PM,Week 18,Kanata Renovations,Infinity Flooring
+,,,,,,,
+64,GAME,Tony Graham Arena Gary Burke,Fri Jan 8 2026,10:00 PM,Week 18,Big Rig Brewery,Trane Canada
+65,GAME,Tony Graham Arena Tom Flood,Wed Jan 13 2027,9:15 PM,Week 19,Urban Stone,Infinity Flooring
+66,GAME,Tony Graham Arena Tom Flood,Wed Jan 13 2027,10:15 PM,Week 19,Kanata Renovations,Young Drivers
+67,GAME,Tony Graham Arena Gary Burke,Fri Jan 15 2027,9:00 PM,Week 19,Big Rig Brewery,Urban Stone
+68,GAME,Tony Graham Arena Gary Burke,Fri Jan 15 2027,10:00 PM,Week 19,Kanata Renovations,Trane Canada
+69,GAME,Tony Graham Arena Tom Flood,Wed Jan 20 2027,9:15 PM,Week 20,Infinity Flooring,Young Drivers
+70,GAME,Tony Graham Arena Tom Flood,Wed Jan 20 2027,10:15 PM,Week 20,Kanata Renovations,Big Rig Brewery
+71,GAME,Tony Graham Arena Gary Burke,Fri Jan 22 2027,9:00 PM,Week 20,Young Drivers,Urban Stone
+72,GAME,Tony Graham Arena Gary Burke,Fri Jan 22 2027,10:00 PM,Week 20,Infinity Flooring,Trane Canada
+73,GAME,Tony Graham Arena Tom Flood,Wed Jan 27 2027,9:15 PM,Week 21,Urban Stone,Kanata Renovations
+74,GAME,Tony Graham Arena Tom Flood,Wed Jan 27 2027,10:15 PM,Week 21,Young Drivers,Trane Canada
+75,GAME,Tony Graham Arena Gary Burke,Fri Jan 29 2027,9:00 PM,Week 21,Big Rig Brewery,Infinity Flooring
+76,GAME,Tony Graham Arena Gary Burke,Fri Jan 29 2027,10:00 PM,Week 21,Urban Stone,Trane Canada
+77,GAME,Tony Graham Arena Tom Flood,Wed Feb 3 2027,9:15 PM,Week 22,Young Drivers,Big Rig Brewery
+78,GAME,Tony Graham Arena Tom Flood,Wed Feb 3 2027,10:15 PM,Week 22,Kanata Renovations,Infinity Flooring
+,,,,,,,
+79,GAME,Tony Graham Arena Tom Flood,Wed Feb 10 2027,9:15 PM,Week 23,Big Rig Brewery,Trane Canada
+80,GAME,Tony Graham Arena Tom Flood,Wed Feb 10 2027,10:15 PM,Week 23,Urban Stone,Infinity Flooring
+81,GAME,Tony Graham Arena Gary Burke,Fri Feb 12 2027,9:00 PM,Week 23,Kanata Renovations,Young Drivers
+82,GAME,Tony Graham Arena Gary Burke,Fri Feb 12 2027,10:00 PM,Week 23,Big Rig Brewery,Urban Stone
+83,GAME,Tony Graham Arena Tom Flood,Wed Feb 17 2027,9:15 PM,Week 24,Kanata Renovations,Trane Canada
+84,GAME,Tony Graham Arena Tom Flood,Wed Feb 17 2027,10:15 PM,Week 24,Infinity Flooring,Young Drivers
+85,GAME,Tony Graham Arena Gary Burke,Fri Feb 19 2027,9:00 PM,Week 24,Kanata Renovations,Big Rig Brewery
+86,GAME,Tony Graham Arena Gary Burke,Fri Feb 19 2027,10:00 PM,Week 24,Young Drivers,Urban Stone
+87,GAME,Tony Graham Arena Tom Flood,Wed Feb 24 2027,9:15 PM,Week 25,Infinity Flooring,Trane Canada
+88,GAME,Tony Graham Arena Tom Flood,Wed Feb 24 2027,10:15 PM,Week 25,Urban Stone,Kanata Renovations
+89,GAME,Tony Graham Arena Gary Burke,Fri Feb 26 2027,9:00 PM,Week 25,Young Drivers,Trane Canada
+90,GAME,Tony Graham Arena Gary Burke,Fri Feb 26 2027,10:00 PM,Week 25,Big Rig Brewery,Infinity Flooring
+91,GAME,Tony Graham Arena Tom Flood,Wed Mar 3 2027,9:15 PM,Week 26,Urban Stone,Trane Canada
+92,GAME,Tony Graham Arena Tom Flood,Wed Mar 3 2027,10:15 PM,Week 26,Young Drivers,Big Rig Brewery
+93,GAME,Tony Graham Arena Gary Burke,Fri Mar 5 2027,9:00 PM,Week 26,Kanata Renovations,Infinity Flooring
+,,,,,,,
+201,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 5 2027,10:00 PM,Week 26,Urban Stone,Kanata Renovations
+202,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 10 2027,9:15 PM,Week 27,Big Rig Brewery,Infinity Flooring
+203,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 10 2027,10:15 PM,Week 27,Young Drivers,Trane Canada
+204,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 12 2027,9:00 PM,Week 27,Urban Stone,Infinity Flooring
+205,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 12 2027,10:00 PM,Week 27,Kanata Renovations,Young Drivers
+206,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 17 2027,9:15 PM,Week 28,Big Rig Brewery,Trane Canada
+207,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 17 2027,10:15 PM,Week 28,Infinity Flooring,Young Drivers
+208,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 19 2027,9:00 PM,Week 28,Big Rig Brewery,Urban Stone
+209,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 19 2027,10:00 PM,Week 28,Kanata Renovations,Trane Canada
+210,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 24 2027,9:15 PM,Week 29,Urban Stone,Trane Canada
+211,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 24 2027,10:15 PM,Week 29,Kanata Renovations,Infinity Flooring
+212,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 26 2027,9:00 PM,Week 29,Young Drivers,Big Rig Brewery
+213,PLAYOFF,Tony Graham Arena Gary Burke,Fri Mar 26 2027,10:00 PM,Week 29,Infinity Flooring,Trane Canada
+214,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 31 2027,9:15 PM,Week 30,Young Drivers,Urban Stone
+215,PLAYOFF,Tony Graham Arena Tom Flood,Wed Mar 31 2027,10:15 PM,Week 30,Kanata Renovations,Big Rig Brewery
+,,,,,,,
+216,FINAL,Jack Charron,Fri Apr 2 2027,4:00 PM,Week 30,Second,Third
+217,FINAL,Jack Charron,Fri Apr 2 2027,5:00 PM,Week 30,First,Fourth
+218,FINAL,Jack Charron,Fri Apr 2 2027,6:00 PM,Week 30,Fifth,Sixth
+219,FINAL,Jack Charron,Fri Apr 2 2027,7:00 PM,Week 30,Final,Final
+,,,,,,,,
+skip,,,Wednesdays,62,,,,
+skip,,,Fridays,6,,,,
