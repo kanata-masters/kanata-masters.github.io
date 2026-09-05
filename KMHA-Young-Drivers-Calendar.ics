@@ -34,14 +34,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-4
 DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260909T211500
+DTSTART;TZID=America/Toronto:20260909T221500
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Trane Canada at 9:15PM
+SUMMARY:Trane Canada at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 4
-  at 9:15PM versus Trane Canada
+  at 10:15PM versus Trane Canada
   at Nepean Sportsplex MacDonald
-DTEND;TZID=America/Toronto:20260909T221500
+DTEND;TZID=America/Toronto:20260909T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-9
@@ -70,14 +70,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-13
 DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260930T211500
+DTSTART;TZID=America/Toronto:20260930T221500
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Kanata Renovations at 9:15PM
+SUMMARY:Kanata Renovations at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Young Drivers game number 13
-  at 9:15PM versus Kanata Renovations
+  at 10:15PM versus Kanata Renovations
   at Nepean Sportsplex MacDonald
-DTEND;TZID=America/Toronto:20260930T221500
+DTEND;TZID=America/Toronto:20260930T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-18

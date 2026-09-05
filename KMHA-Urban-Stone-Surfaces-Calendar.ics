@@ -46,14 +46,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-7
 DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260916T211500
+DTSTART;TZID=America/Toronto:20260916T221500
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Big Rig Brewery at 9:15PM
+SUMMARY:Big Rig Brewery at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 7
-  at 9:15PM versus Big Rig Brewery
+  at 10:15PM versus Big Rig Brewery
   at Nepean Sportsplex MacDonald
-DTEND;TZID=America/Toronto:20260916T221500
+DTEND;TZID=America/Toronto:20260916T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-11
@@ -82,14 +82,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-16
 DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20261007T211500
+DTSTART;TZID=America/Toronto:20261007T221500
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Big Rig Brewery at 9:15PM
+SUMMARY:Big Rig Brewery at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Urban Stone Surfaces game number 16
-  at 9:15PM versus Big Rig Brewery
+  at 10:15PM versus Big Rig Brewery
   at Nepean Sportsplex MacDonald
-DTEND;TZID=America/Toronto:20261007T221500
+DTEND;TZID=America/Toronto:20261007T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-21

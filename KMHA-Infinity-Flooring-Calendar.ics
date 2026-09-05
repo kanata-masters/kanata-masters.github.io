@@ -22,14 +22,14 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID: KMHA-GAME-1
 DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260902T211500
+DTSTART;TZID=America/Toronto:20260902T221500
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Kanata Renovations at 9:15PM
+SUMMARY:Kanata Renovations at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Infinity Flooring game number 1
-  at 9:15PM versus Kanata Renovations
+  at 10:15PM versus Kanata Renovations
   at Nepean Sportsplex MacDonald
-DTEND;TZID=America/Toronto:20260902T221500
+DTEND;TZID=America/Toronto:20260902T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-5
@@ -58,14 +58,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-10
 DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260923T211500
+DTSTART;TZID=America/Toronto:20260923T221500
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Trane Canada at 9:15PM
+SUMMARY:Trane Canada at 10:15PM
 DESCRIPTION:Kanata Masters Hockey: 
   Infinity Flooring game number 10
-  at 9:15PM versus Trane Canada
+  at 10:15PM versus Trane Canada
   at Nepean Sportsplex MacDonald
-DTEND;TZID=America/Toronto:20260923T221500
+DTEND;TZID=America/Toronto:20260923T231500
 END:VEVENT
 BEGIN:VEVENT
 UID: KMHA-GAME-14
