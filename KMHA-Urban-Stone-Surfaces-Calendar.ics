@@ -1,454 +1,350 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Kanata Masters Hockey Association//Team Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KMHA Urban Stone Surfaces 2026-2027
 X-WR-TIMEZONE:America/Toronto
-PRODID:Kanata Masters Hockey Association
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 X-LIC-LOCATION:America/Toronto
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:20191103T020000
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 TZOFFSETFROM:-0400
 TZOFFSETTO:-0500
 TZNAME:EST
 END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20200310T020000
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-RDATE:20200310T020000
-TZNAME:EDT
-END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID: KMHA-GAME-3
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-3@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20260904T223000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Trane Canada at 10:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 3
-  at 10:30PM versus Trane Canada
-  at Nepean Sportsplex 03
 DTEND;TZID=America/Toronto:20260904T233000
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 3\n10:30PM versus Trane Canada\nNepean Sportsplex 03
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-6
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-6@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20260911T223000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Kanata Renovations at 10:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 6
-  at 10:30PM versus Kanata Renovations
-  at Nepean Sportsplex 03
 DTEND;TZID=America/Toronto:20260911T233000
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 6\n10:30PM versus Kanata Renovations\nNepean Sportsplex 03
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-7
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-7@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20260916T221500
-LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Big Rig Brewery at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 7
-  at 10:15PM versus Big Rig Brewery
-  at Nepean Sportsplex MacDonald
 DTEND;TZID=America/Toronto:20260916T231500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-11
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260925T213000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Young Drivers at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 11
-  at 9:30PM versus Young Drivers
-  at Nepean Sportsplex 03
-DTEND;TZID=America/Toronto:20260925T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-14
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20261002T213000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Infinity Flooring at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 14
-  at 9:30PM versus Infinity Flooring
-  at Nepean Sportsplex 03
-DTEND;TZID=America/Toronto:20261002T223000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-16
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20261007T221500
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Big Rig Brewery at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 16
-  at 10:15PM versus Big Rig Brewery
-  at Nepean Sportsplex MacDonald
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 7\n10:15PM versus Big Rig Brewery\nNepean Sportsplex MacDonald
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-11@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20260925T213000
+DTEND;TZID=America/Toronto:20260925T223000
+SUMMARY:Urban Stone Surfaces vs Young Drivers
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 11\n9:30PM versus Young Drivers\nNepean Sportsplex 03
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-14@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20261002T213000
+DTEND;TZID=America/Toronto:20261002T223000
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 14\n9:30PM versus Infinity Flooring\nNepean Sportsplex 03
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-16@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20261007T221500
 DTEND;TZID=America/Toronto:20261007T231500
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Nepean Sportsplex MacDonald
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 16\n10:15PM versus Big Rig Brewery\nNepean Sportsplex MacDonald
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-21
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-21@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261016T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 21
-  at 9:00PM versus Trane Canada
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261016T220000
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 21\n9:00PM versus Trane Canada\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-24
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-24@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261021T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Kanata Renovations at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 24
-  at 10:15PM versus Kanata Renovations
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261021T231500
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 24\n10:15PM versus Kanata Renovations\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-27
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-27@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261028T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Young Drivers at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 27
-  at 9:15PM versus Young Drivers
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261028T221500
+SUMMARY:Urban Stone Surfaces vs Young Drivers
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 27\n9:15PM versus Young Drivers\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-29
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-29@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261030T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Infinity Flooring at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 29
-  at 9:00PM versus Infinity Flooring
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261030T220000
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 29\n9:00PM versus Infinity Flooring\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-31
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-31@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261104T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Big Rig Brewery at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 31
-  at 9:15PM versus Big Rig Brewery
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261104T221500
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 31\n9:15PM versus Big Rig Brewery\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-34
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-34@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261106T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 34
-  at 10:00PM versus Trane Canada
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261106T230000
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 34\n10:00PM versus Trane Canada\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-37
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-37@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261113T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 37
-  at 9:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261113T220000
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 37\n9:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-40
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-40@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261118T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Young Drivers at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 40
-  at 10:15PM versus Young Drivers
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261118T231500
+SUMMARY:Urban Stone Surfaces vs Young Drivers
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 40\n10:15PM versus Young Drivers\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-44
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-44@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261125T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 44
-  at 10:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261125T231500
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 44\n10:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-46
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-46@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261127T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Big Rig Brewery at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 46
-  at 10:00PM versus Big Rig Brewery
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261127T230000
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 46\n10:00PM versus Big Rig Brewery\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-49
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-49@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261204T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 49
-  at 9:00PM versus Trane Canada
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261204T220000
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 49\n9:00PM versus Trane Canada\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-54
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-54@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261211T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 54
-  at 10:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261211T230000
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 54\n10:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-55
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-55@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261216T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 55
-  at 9:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261216T221500
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 55\n9:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-58
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-58@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20261218T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Big Rig Brewery at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 58
-  at 10:00PM versus Big Rig Brewery
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261218T230000
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 58\n10:00PM versus Big Rig Brewery\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-61
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-61@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270106T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Trane Canada at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 61
-  at 9:15PM versus Trane Canada
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270106T221500
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 61\n9:15PM versus Trane Canada\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-64
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-64@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270108T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 64
-  at 10:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270108T230000
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 64\n10:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-67
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-67@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270115T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 67
-  at 9:00PM versus Young Drivers
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270115T220000
+SUMMARY:Urban Stone Surfaces vs Young Drivers
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 67\n9:00PM versus Young Drivers\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-72
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-72@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270122T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Infinity Flooring at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 72
-  at 10:00PM versus Infinity Flooring
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270122T230000
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 72\n10:00PM versus Infinity Flooring\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-75
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-75@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270129T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Big Rig Brewery at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 75
-  at 9:00PM versus Big Rig Brewery
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270129T220000
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 75\n9:00PM versus Big Rig Brewery\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-77
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-77@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270203T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Young Drivers at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 77
-  at 9:15PM versus Young Drivers
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270203T221500
+SUMMARY:Urban Stone Surfaces vs Young Drivers
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 77\n9:15PM versus Young Drivers\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-80
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-80@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270210T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Trane Canada at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 80
-  at 10:15PM versus Trane Canada
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270210T231500
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 80\n10:15PM versus Trane Canada\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-83
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-83@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270217T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Kanata Renovations at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 83
-  at 9:15PM versus Kanata Renovations
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270217T221500
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 83\n9:15PM versus Kanata Renovations\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-86
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-86@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270219T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 86
-  at 10:00PM versus Young Drivers
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270219T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-88
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270224T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 88
-  at 10:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
-DTEND;TZID=America/Toronto:20270224T231500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-92
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270303T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Big Rig Brewery at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 92
-  at 10:15PM versus Big Rig Brewery
-  at Tony Graham Arena Tom Flood
-DTEND;TZID=America/Toronto:20270303T231500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-202
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270310T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Trane Canada at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 202
-  at 9:15PM versus Trane Canada
-  at Tony Graham Arena Tom Flood
-DTEND;TZID=America/Toronto:20270310T221500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-206
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270317T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Kanata Renovations at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 206
-  at 9:15PM versus Kanata Renovations
-  at Tony Graham Arena Tom Flood
-DTEND;TZID=America/Toronto:20270317T221500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-208
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270319T210000
+SUMMARY:Urban Stone Surfaces vs Young Drivers
 LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 208
-  at 9:00PM versus Young Drivers
-  at Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 86\n10:00PM versus Young Drivers\nTony Graham Arena Gary Burke
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-88@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20270224T221500
+DTEND;TZID=America/Toronto:20270224T231500
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 88\n10:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-92@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20270303T221500
+DTEND;TZID=America/Toronto:20270303T231500
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 92\n10:15PM versus Big Rig Brewery\nTony Graham Arena Tom Flood
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-202@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20270310T211500
+DTEND;TZID=America/Toronto:20270310T221500
+SUMMARY:Urban Stone Surfaces vs Trane Canada
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 202\n9:15PM versus Trane Canada\nTony Graham Arena Tom Flood
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-206@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20270317T211500
+DTEND;TZID=America/Toronto:20270317T221500
+SUMMARY:Urban Stone Surfaces vs Kanata Renovations
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 206\n9:15PM versus Kanata Renovations\nTony Graham Arena Tom Flood
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-208@kanatamasters
+DTSTAMP:20261025T165608Z
+DTSTART;TZID=America/Toronto:20270319T210000
 DTEND;TZID=America/Toronto:20270319T220000
+SUMMARY:Urban Stone Surfaces vs Young Drivers
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 208\n9:00PM versus Young Drivers\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-210
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-210@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270324T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 210
-  at 9:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270324T221500
+SUMMARY:Urban Stone Surfaces vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 210\n9:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-214
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-214@kanatamasters
+DTSTAMP:20261025T165608Z
 DTSTART;TZID=America/Toronto:20270331T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Big Rig Brewery at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Urban Stone Surfaces game number 214
-  at 9:15PM versus Big Rig Brewery
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270331T221500
+SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 214\n9:15PM versus Big Rig Brewery\nTony Graham Arena Tom Flood
 END:VEVENT
 END:VCALENDAR

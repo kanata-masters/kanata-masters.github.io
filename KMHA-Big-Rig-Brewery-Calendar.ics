@@ -1,454 +1,350 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Kanata Masters Hockey Association//Team Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KMHA Big Rig Brewery 2026-2027
 X-WR-TIMEZONE:America/Toronto
-PRODID:Kanata Masters Hockey Association
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 X-LIC-LOCATION:America/Toronto
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:20191103T020000
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 TZOFFSETFROM:-0400
 TZOFFSETTO:-0500
 TZNAME:EST
 END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20200310T020000
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-RDATE:20200310T020000
-TZNAME:EDT
-END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID: KMHA-GAME-2
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-2@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20260904T213000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Young Drivers at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 2
-  at 9:30PM versus Young Drivers
-  at Nepean Sportsplex 03
 DTEND;TZID=America/Toronto:20260904T223000
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 2\n9:30PM versus Young Drivers\nNepean Sportsplex 03
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-5
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-5@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20260911T213000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Infinity Flooring at 9:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 5
-  at 9:30PM versus Infinity Flooring
-  at Nepean Sportsplex 03
 DTEND;TZID=America/Toronto:20260911T223000
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 5\n9:30PM versus Infinity Flooring\nNepean Sportsplex 03
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-7
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-7@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20260916T221500
-LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Urban Stone Surfaces at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 7
-  at 10:15PM versus Urban Stone Surfaces
-  at Nepean Sportsplex MacDonald
 DTEND;TZID=America/Toronto:20260916T231500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-12
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20260925T223000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Kanata Renovations at 10:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 12
-  at 10:30PM versus Kanata Renovations
-  at Nepean Sportsplex 03
-DTEND;TZID=America/Toronto:20260925T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-15
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20261002T223000
-LOCATION:Nepean Sportsplex 03
-SUMMARY:Trane Canada at 10:30PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 15
-  at 10:30PM versus Trane Canada
-  at Nepean Sportsplex 03
-DTEND;TZID=America/Toronto:20261002T233000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-16
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20261007T221500
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
 LOCATION:Nepean Sportsplex MacDonald
-SUMMARY:Urban Stone Surfaces at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 16
-  at 10:15PM versus Urban Stone Surfaces
-  at Nepean Sportsplex MacDonald
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 7\n10:15PM versus Urban Stone Surfaces\nNepean Sportsplex MacDonald
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-12@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20260925T223000
+DTEND;TZID=America/Toronto:20260925T233000
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 12\n10:30PM versus Kanata Renovations\nNepean Sportsplex 03
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-15@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20261002T223000
+DTEND;TZID=America/Toronto:20261002T233000
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Nepean Sportsplex 03
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 15\n10:30PM versus Trane Canada\nNepean Sportsplex 03
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-16@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20261007T221500
 DTEND;TZID=America/Toronto:20261007T231500
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
+LOCATION:Nepean Sportsplex MacDonald
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 16\n10:15PM versus Urban Stone Surfaces\nNepean Sportsplex MacDonald
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-20
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-20@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261014T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Young Drivers at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 20
-  at 10:15PM versus Young Drivers
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261014T231500
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 20\n10:15PM versus Young Drivers\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-22
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-22@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261016T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Infinity Flooring at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 22
-  at 10:00PM versus Infinity Flooring
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261016T230000
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 22\n10:00PM versus Infinity Flooring\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-25
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-25@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261023T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 25
-  at 9:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261023T220000
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 25\n9:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-28
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-28@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261028T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Trane Canada at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 28
-  at 10:15PM versus Trane Canada
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261028T231500
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 28\n10:15PM versus Trane Canada\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-31
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-31@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261104T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Urban Stone Surfaces at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 31
-  at 9:15PM versus Urban Stone Surfaces
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261104T221500
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 31\n9:15PM versus Urban Stone Surfaces\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-35
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-35@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261111T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Young Drivers at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 35
-  at 9:15PM versus Young Drivers
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261111T221500
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 35\n9:15PM versus Young Drivers\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-39
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-39@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261118T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 39
-  at 9:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261118T221500
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 39\n9:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-41
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-41@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261120T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 41
-  at 9:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261120T220000
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 41\n9:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-43
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-43@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261125T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Trane Canada at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 43
-  at 9:15PM versus Trane Canada
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261125T221500
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 43\n9:15PM versus Trane Canada\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-46
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-46@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261127T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Urban Stone Surfaces at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 46
-  at 10:00PM versus Urban Stone Surfaces
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261127T230000
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 46\n10:00PM versus Urban Stone Surfaces\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-50
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-50@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261204T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 50
-  at 10:00PM versus Young Drivers
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261204T230000
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 50\n10:00PM versus Young Drivers\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-53
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-53@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261211T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Infinity Flooring at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 53
-  at 9:00PM versus Infinity Flooring
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261211T220000
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 53\n9:00PM versus Infinity Flooring\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-56
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-56@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261216T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Trane Canada at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 56
-  at 10:15PM versus Trane Canada
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20261216T231500
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 56\n10:15PM versus Trane Canada\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-58
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-58@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20261218T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Urban Stone Surfaces at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 58
-  at 10:00PM versus Urban Stone Surfaces
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20261218T230000
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 58\n10:00PM versus Urban Stone Surfaces\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-63
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-63@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270108T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Young Drivers at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 63
-  at 9:00PM versus Young Drivers
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270108T220000
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 63\n9:00PM versus Young Drivers\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-65
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-65@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270113T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 65
-  at 9:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270113T221500
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 65\n9:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-68
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-68@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270115T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 68
-  at 10:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270115T230000
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 68\n10:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-71
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-71@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270122T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 71
-  at 9:00PM versus Trane Canada
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270122T220000
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 71\n9:00PM versus Trane Canada\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-75
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-75@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270129T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Urban Stone Surfaces at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 75
-  at 9:00PM versus Urban Stone Surfaces
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270129T220000
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 75\n9:00PM versus Urban Stone Surfaces\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-78
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-78@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270203T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Kanata Renovations at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 78
-  at 10:15PM versus Kanata Renovations
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270203T231500
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 78\n10:15PM versus Kanata Renovations\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-79
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-79@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270210T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Young Drivers at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 79
-  at 9:15PM versus Young Drivers
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270210T221500
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 79\n9:15PM versus Young Drivers\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-84
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-84@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270217T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Infinity Flooring at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 84
-  at 10:15PM versus Infinity Flooring
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270217T231500
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 84\n10:15PM versus Infinity Flooring\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-87
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-87@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270224T211500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Kanata Renovations at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 87
-  at 9:15PM versus Kanata Renovations
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270224T221500
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 87\n9:15PM versus Kanata Renovations\nTony Graham Arena Tom Flood
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-90
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-90@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270226T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Trane Canada at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 90
-  at 10:00PM versus Trane Canada
-  at Tony Graham Arena Gary Burke
 DTEND;TZID=America/Toronto:20270226T230000
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 90\n10:00PM versus Trane Canada\nTony Graham Arena Gary Burke
 END:VEVENT
 BEGIN:VEVENT
-UID: KMHA-GAME-92
-DTSTAMP:20260824T235900
+UID:kmha-2026-2027-game-92@kanatamasters
+DTSTAMP:20261025T165607Z
 DTSTART;TZID=America/Toronto:20270303T221500
-LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Urban Stone Surfaces at 10:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 92
-  at 10:15PM versus Urban Stone Surfaces
-  at Tony Graham Arena Tom Flood
 DTEND;TZID=America/Toronto:20270303T231500
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-201
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270305T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Young Drivers at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 201
-  at 10:00PM versus Young Drivers
-  at Tony Graham Arena Gary Burke
-DTEND;TZID=America/Toronto:20270305T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-205
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270312T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Infinity Flooring at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 205
-  at 10:00PM versus Infinity Flooring
-  at Tony Graham Arena Gary Burke
-DTEND;TZID=America/Toronto:20270312T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-209
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270319T220000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Kanata Renovations at 10:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 209
-  at 10:00PM versus Kanata Renovations
-  at Tony Graham Arena Gary Burke
-DTEND;TZID=America/Toronto:20270319T230000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-212
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270326T210000
-LOCATION:Tony Graham Arena Gary Burke
-SUMMARY:Trane Canada at 9:00PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 212
-  at 9:00PM versus Trane Canada
-  at Tony Graham Arena Gary Burke
-DTEND;TZID=America/Toronto:20270326T220000
-END:VEVENT
-BEGIN:VEVENT
-UID: KMHA-GAME-214
-DTSTAMP:20260824T235900
-DTSTART;TZID=America/Toronto:20270331T211500
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
 LOCATION:Tony Graham Arena Tom Flood
-SUMMARY:Urban Stone Surfaces at 9:15PM
-DESCRIPTION:Kanata Masters Hockey: 
-  Big Rig Brewery game number 214
-  at 9:15PM versus Urban Stone Surfaces
-  at Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 92\n10:15PM versus Urban Stone Surfaces\nTony Graham Arena Tom Flood
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-201@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20270305T220000
+DTEND;TZID=America/Toronto:20270305T230000
+SUMMARY:Big Rig Brewery vs Young Drivers
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 201\n10:00PM versus Young Drivers\nTony Graham Arena Gary Burke
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-205@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20270312T220000
+DTEND;TZID=America/Toronto:20270312T230000
+SUMMARY:Big Rig Brewery vs Infinity Flooring
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 205\n10:00PM versus Infinity Flooring\nTony Graham Arena Gary Burke
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-209@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20270319T220000
+DTEND;TZID=America/Toronto:20270319T230000
+SUMMARY:Big Rig Brewery vs Kanata Renovations
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 209\n10:00PM versus Kanata Renovations\nTony Graham Arena Gary Burke
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-212@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20270326T210000
+DTEND;TZID=America/Toronto:20270326T220000
+SUMMARY:Big Rig Brewery vs Trane Canada
+LOCATION:Tony Graham Arena Gary Burke
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 212\n9:00PM versus Trane Canada\nTony Graham Arena Gary Burke
+END:VEVENT
+BEGIN:VEVENT
+UID:kmha-2026-2027-game-214@kanatamasters
+DTSTAMP:20261025T165607Z
+DTSTART;TZID=America/Toronto:20270331T211500
 DTEND;TZID=America/Toronto:20270331T221500
+SUMMARY:Big Rig Brewery vs Urban Stone Surfaces
+LOCATION:Tony Graham Arena Tom Flood
+DESCRIPTION:Kanata Masters Hockey - Big Rig Brewery game 214\n9:15PM versus Urban Stone Surfaces\nTony Graham Arena Tom Flood
 END:VEVENT
 END:VCALENDAR
