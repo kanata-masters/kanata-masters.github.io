@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-3@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20260904T223000
 DTEND;TZID=America/Toronto:20260904T233000
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -34,7 +34,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 3\n10:30PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-6@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20260911T223000
 DTEND;TZID=America/Toronto:20260911T233000
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -43,7 +43,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 6\n10:30PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-7@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20260916T221500
 DTEND;TZID=America/Toronto:20260916T231500
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -52,7 +52,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 7\n10:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-11@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20260925T213000
 DTEND;TZID=America/Toronto:20260925T223000
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -61,7 +61,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 11\n9:30PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-14@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261002T213000
 DTEND;TZID=America/Toronto:20261002T223000
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -70,7 +70,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 14\n9:30PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-16@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261007T221500
 DTEND;TZID=America/Toronto:20261007T231500
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -79,7 +79,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 16\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-21@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261016T210000
 DTEND;TZID=America/Toronto:20261016T220000
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -88,7 +88,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 21\n9:00PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-24@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261021T221500
 DTEND;TZID=America/Toronto:20261021T231500
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -97,7 +97,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 24\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-27@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261028T211500
 DTEND;TZID=America/Toronto:20261028T221500
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -106,7 +106,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 27\n9:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-29@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261030T210000
 DTEND;TZID=America/Toronto:20261030T220000
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -115,7 +115,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 29\n9:00PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-31@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261104T211500
 DTEND;TZID=America/Toronto:20261104T221500
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -124,7 +124,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 31\n9:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-34@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261106T220000
 DTEND;TZID=America/Toronto:20261106T230000
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -133,7 +133,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 34\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-37@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261113T210000
 DTEND;TZID=America/Toronto:20261113T220000
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -142,7 +142,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 37\n9:00PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-40@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261118T221500
 DTEND;TZID=America/Toronto:20261118T231500
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -151,7 +151,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 40\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-44@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261125T221500
 DTEND;TZID=America/Toronto:20261125T231500
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -160,7 +160,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 44\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-46@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261127T220000
 DTEND;TZID=America/Toronto:20261127T230000
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -169,7 +169,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 46\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-49@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261204T210000
 DTEND;TZID=America/Toronto:20261204T220000
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -178,7 +178,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 49\n9:00PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-54@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261211T220000
 DTEND;TZID=America/Toronto:20261211T230000
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -187,7 +187,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 54\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-55@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261216T211500
 DTEND;TZID=America/Toronto:20261216T221500
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -196,7 +196,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 55\n9:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-58@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20261218T220000
 DTEND;TZID=America/Toronto:20261218T230000
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -205,7 +205,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 58\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-61@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270106T211500
 DTEND;TZID=America/Toronto:20270106T221500
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -214,7 +214,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 61\n9:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-64@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270108T220000
 DTEND;TZID=America/Toronto:20270108T230000
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -223,7 +223,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 64\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-67@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270115T210000
 DTEND;TZID=America/Toronto:20270115T220000
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -232,7 +232,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 67\n9:00PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-72@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270122T220000
 DTEND;TZID=America/Toronto:20270122T230000
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -241,7 +241,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 72\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-75@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270129T210000
 DTEND;TZID=America/Toronto:20270129T220000
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -250,7 +250,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 75\n9:00PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-77@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270203T211500
 DTEND;TZID=America/Toronto:20270203T221500
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -259,7 +259,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 77\n9:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-80@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270210T221500
 DTEND;TZID=America/Toronto:20270210T231500
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -268,7 +268,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 80\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-83@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270217T211500
 DTEND;TZID=America/Toronto:20270217T221500
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -277,7 +277,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 83\n9:15PM versus 
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-86@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270219T220000
 DTEND;TZID=America/Toronto:20270219T230000
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -286,7 +286,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 86\n10:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-88@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270224T221500
 DTEND;TZID=America/Toronto:20270224T231500
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -295,7 +295,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 88\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-92@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270303T221500
 DTEND;TZID=America/Toronto:20270303T231500
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
@@ -304,7 +304,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 92\n10:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-202@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270310T211500
 DTEND;TZID=America/Toronto:20270310T221500
 SUMMARY:Urban Stone Surfaces vs Trane Canada
@@ -313,7 +313,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 202\n9:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-206@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270317T211500
 DTEND;TZID=America/Toronto:20270317T221500
 SUMMARY:Urban Stone Surfaces vs Kanata Renovations
@@ -322,7 +322,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 206\n9:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-208@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270319T210000
 DTEND;TZID=America/Toronto:20270319T220000
 SUMMARY:Urban Stone Surfaces vs Young Drivers
@@ -331,7 +331,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 208\n9:00PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-210@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270324T211500
 DTEND;TZID=America/Toronto:20270324T221500
 SUMMARY:Urban Stone Surfaces vs Infinity Flooring
@@ -340,7 +340,7 @@ DESCRIPTION:Kanata Masters Hockey - Urban Stone Surfaces game 210\n9:15PM versus
 END:VEVENT
 BEGIN:VEVENT
 UID:kmha-2026-2027-game-214@kanatamasters
-DTSTAMP:20261025T165608Z
+DTSTAMP:20261029T232958Z
 DTSTART;TZID=America/Toronto:20270331T211500
 DTEND;TZID=America/Toronto:20270331T221500
 SUMMARY:Urban Stone Surfaces vs Big Rig Brewery
